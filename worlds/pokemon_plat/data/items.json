@@ -1,0 +1,3175 @@
+[
+  {
+    "count": 1,
+    "name": "Coal Badge",
+    "category": [
+      "Badges"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Forest Badge",
+    "category": [
+      "Badges"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cobble Badge",
+    "category": [
+      "Badges"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fen Badge",
+    "category": [
+      "Badges"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Relic Badge",
+    "category": [
+      "Badges"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mine Badge",
+    "category": [
+      "Badges"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Icicle Badge",
+    "category": [
+      "Badges"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Beacon Badge",
+    "category": [
+      "Badges"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bicycle",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Coin Case",
+    "category": [
+      "Key Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Fashion Case",
+    "category": [
+      "Key Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Good Rod",
+    "category": [
+      "Key Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Old Rod",
+    "category": [
+      "Key Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Super Rod",
+    "category": [
+      "Key Items"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Seal Case",
+    "category": [
+      "Key Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "SecretPotion",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Coupon 1",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Coupon 2",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Coupon 3",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Explorer Kit",
+    "category": [
+      "Key Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Galactic Key",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Journal",
+    "category": [
+      "Key Items"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Poké Radar",
+    "category": [
+      "Key Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Sprayduck",
+    "category": [
+      "Key Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Suite Key",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Town Map",
+    "category": [
+      "Key Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Vs. Seeker",
+    "category": [
+      "Key Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Works Key",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Secret Key",
+    "category": [
+      "Event Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Vs. Recorder",
+    "category": [
+      "Key Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": "2",
+    "name": "Fire Stone",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Water Stone",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Leaf Stone",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Thunder Stone",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Sun Stone",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Moon Stone",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Shiny Stone",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Dawn Stone",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": "3",
+    "name": "Dusk Stone",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "DeepSeaScale",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "DeepSeaTooth",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Dragon Scale",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Dubious Disc",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Electirizer",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "King's Rock",
+    "category": [
+      "Held Items",
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Magmarizer",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Metal Coat",
+    "category": [
+      "Held Items",
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Oval Stone",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Protector",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Razor Claw",
+    "category": [
+      "Held Items",
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Razor Fang",
+    "category": [
+      "Held Items",
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Reaper Cloth",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Up-Grade",
+    "category": [
+      "Evolution Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Helix Fossil",
+    "category": [
+      "Fossils"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Dome Fossil",
+    "category": [
+      "Fossils"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Old Amber",
+    "category": [
+      "Fossils"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Root Fossil",
+    "category": [
+      "Fossils"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Claw Fossil",
+    "category": [
+      "Fossils"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Skull Fossil",
+    "category": [
+      "Fossils"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Armor Fossil",
+    "category": [
+      "Fossils"
+    ],
+    "useful": true
+  },
+  {
+    "count": "8",
+    "name": "Red Shard",
+    "category": [
+      "Miscellaneous"
+    ],
+    "useful": true
+  },
+  {
+    "count": "8",
+    "name": "Blue Shard",
+    "category": [
+      "Miscellaneous"
+    ],
+    "useful": true
+  },
+  {
+    "count": "8",
+    "name": "Green Shard",
+    "category": [
+      "Miscellaneous"
+    ],
+    "useful": true
+  },
+  {
+    "count": "8",
+    "name": "Yellow Shard",
+    "category": [
+      "Miscellaneous"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Exp. Share",
+    "category": [
+      "Held Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Lucky Egg",
+    "category": [
+      "Held Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Full Incense",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Lax Incense",
+    "category": [
+      "Held Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Luck Incense",
+    "category": [
+      "Held Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Odd Incense",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Pure Incense",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Rock Incense",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Rose Incense",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Sea Incense",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Wave Incense",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Fist Plate",
+    "category": [
+      "Plates"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sky Plate",
+    "category": [
+      "Plates"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Toxic Plate",
+    "category": [
+      "Plates"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Earth Plate",
+    "category": [
+      "Plates"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Stone Plate",
+    "category": [
+      "Plates"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Insect Plate",
+    "category": [
+      "Plates"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Spooky Plate",
+    "category": [
+      "Plates"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Iron Plate",
+    "category": [
+      "Plates"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Zap Plate",
+    "category": [
+      "Plates"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Flame Plate",
+    "category": [
+      "Plates"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Splash Plate",
+    "category": [
+      "Plates"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Meadow Plate",
+    "category": [
+      "Plates"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mind Plate",
+    "category": [
+      "Plates"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Icicle Plate",
+    "category": [
+      "Plates"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Draco Plate",
+    "category": [
+      "Plates"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dread Plate",
+    "category": [
+      "Plates"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Stick",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Light Ball",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Lucky Punch",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Metal Powder",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Quick Powder",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Soul Dew",
+    "category": [
+      "Held Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Thick Club",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Black Belt",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Blackglasses",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Charcoal",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Dragon Fang",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Hard Stone",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Magnet",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Miracle Seed",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Mystic Water",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "NeverMeltIce",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Poison Barb",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Sharp Beak",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Silk Scarf",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "SilverPowder",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Soft Sand",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Spell Tag",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "TwistedSpoon",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Light Clay",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Amulet Coin",
+    "category": [
+      "Held Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Big Root",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "BrightPowder",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Choice Band",
+    "category": [
+      "Held Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Choice Specs",
+    "category": [
+      "Held Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Choice Scarf",
+    "category": [
+      "Held Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Damp Rock",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Destiny Knot",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": "2",
+    "name": "Expert Belt",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Flame Orb",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Focus Band",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Grip Claw",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Heat Rock",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Icy Rock",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Iron Ball",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Lagging Tail",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Life Orb",
+    "category": [
+      "Held Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Macho Brace",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Mental Herb",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Metronome",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Muscle Band",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": "3",
+    "name": "Power Herb",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Quick Claw",
+    "category": [
+      "Held Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Scope Lens",
+    "category": [
+      "Held Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Shed Shell",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Smoke Ball",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Smooth Rock",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Sticky Barb",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Toxic Orb",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": "3",
+    "name": "White Herb",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Wide Lens",
+    "category": [
+      "Held Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Wise Glasses",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Zoom Lens",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Cleanse Tag",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 2,
+    "name": "Everstone",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Soothe Bell",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Red Scarf",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Blue Scarf",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Pink Scarf",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Green Scarf",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Yellow Scarf",
+    "category": [
+      "Held Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": "2",
+    "name": "Poké Doll",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "2",
+    "name": "Fluffy Tail",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Heart Scale",
+    "category": [
+      "Miscellaneous"
+    ],
+    "useful": true
+  },
+  {
+    "count": "16",
+    "name": "Nugget",
+    "category": [
+      "Valuable Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Big Mushroom",
+    "category": [
+      "Valuable Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Big Pearl",
+    "category": [
+      "Valuable Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": "3",
+    "name": "Pearl",
+    "category": [
+      "Valuable Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": "10",
+    "name": "Star Piece",
+    "category": [
+      "Valuable Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": "3",
+    "name": "Stardust",
+    "category": [
+      "Valuable Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": "2",
+    "name": "TinyMushroom",
+    "category": [
+      "Valuable Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": "2",
+    "name": "Rare Bone",
+    "category": [
+      "Valuable Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Blue Flute",
+    "category": [
+      "Miscellaneous"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Yellow Flute",
+    "category": [
+      "Miscellaneous"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Red Flute",
+    "category": [
+      "Miscellaneous"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Black Flute",
+    "category": [
+      "Miscellaneous"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "White Flute",
+    "category": [
+      "Miscellaneous"
+    ],
+    "useful": true
+  },
+  {
+    "count": "3",
+    "name": "X Attack",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "3",
+    "name": "X Defense",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "3",
+    "name": "X Special",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "3",
+    "name": "X Sp. Def",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "3",
+    "name": "X Speed",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "3",
+    "name": "X Accuracy",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "3",
+    "name": "Guard Spec.",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "3",
+    "name": "Dire Hit",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "16",
+    "name": "Rare Candy",
+    "category": [
+      "Miscellaneous"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Antidote",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "2",
+    "name": "Burn Heal",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "2",
+    "name": "Ice Heal",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "2",
+    "name": "Awakening",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Full Heal",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "2",
+    "name": "Parlyz Heal",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "6",
+    "name": "Max Revive",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "4",
+    "name": "Revive",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "2",
+    "name": "Heal Powder",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "2",
+    "name": "Revival Herb",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Sacred Ash",
+    "category": [
+      "Miscellaneous"
+    ],
+    "useful": true
+  },
+  {
+    "count": "2",
+    "name": "Lava Cookie",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Old Gateau",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "HP Up",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Protein",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Iron",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Calcium",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Zinc",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Carbos",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "9",
+    "name": "PP Up",
+    "category": [
+      "Miscellaneous"
+    ],
+    "useful": true
+  },
+  {
+    "count": "3",
+    "name": "PP Max",
+    "category": [
+      "Miscellaneous"
+    ],
+    "useful": true
+  },
+  {
+    "count": "3",
+    "name": "Fresh Water",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "2",
+    "name": "Soda Pop",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "2",
+    "name": "Lemonade",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "2",
+    "name": "Moomoo Milk",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Berry Juice",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Poké Ball",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Great Ball",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "10",
+    "name": "Ultra Ball",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Master Ball",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "2",
+    "name": "Net Ball",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "2",
+    "name": "Dive Ball",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "2",
+    "name": "Nest Ball",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "2",
+    "name": "Repeat Ball",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "2",
+    "name": "Premier Ball",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "2",
+    "name": "Timer Ball",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "2",
+    "name": "Luxury Ball",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "10",
+    "name": "Dusk Ball",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "2",
+    "name": "Heal Ball",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "10",
+    "name": "Quick Ball",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "4",
+    "name": "Cherish Ball",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "3",
+    "name": "Safari Ball",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "TM01",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM02",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM04",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM05",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM06",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM07",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM08",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM09",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM10",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM11",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM12",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM13",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM14",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM15",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM16",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM17",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM18",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM19",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM20",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM21",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM22",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM23",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM24",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM25",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM26",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM27",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM28 - Dig",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM29",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM30",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM31",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM32",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM33",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM34",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM35",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM36",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM37",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM38",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM39",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM40",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM41",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM42",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM43",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM44",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM45",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM46",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM47",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM48",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM49",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM50",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM51",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM53",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM52",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM54",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM55",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM56",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM57",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM58",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM59",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM60",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM62",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM61",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM63",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM64",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM65",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM66",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM67",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM68",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM69",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM70 - Flash",
+    "category": [
+      "TMs"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "TM71",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM72",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM73",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM74",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM75",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM76",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM77",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM78",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM79",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM80",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM81",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM82",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM83",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM84",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM85",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM86",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM87",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM88",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM89",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM90",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM91",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "TM92",
+    "category": [
+      "TMs"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "HM01 Cut",
+    "category": [
+      "HMs"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "HM02 Fly",
+    "category": [
+      "HMs"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "HM03 Surf",
+    "category": [
+      "HMs"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "HM04 Strength",
+    "category": [
+      "HMs"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "HM05 Defog",
+    "category": [
+      "HMs"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "HM06 Rock Smash",
+    "category": [
+      "HMs"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "HM07 Waterfall",
+    "category": [
+      "HMs"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "HM08 Rock Climb",
+    "category": [
+      "HMs"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Parcel",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rule Book",
+    "category": [
+      "Key Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Pokétch",
+    "category": [
+      "Pokétch"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Digital Watch App",
+    "category": [
+      "Pokétch"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Calculator App",
+    "category": [
+      "Pokétch"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Memo Pad App",
+    "category": [
+      "Pokétch"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Pedometer App",
+    "category": [
+      "Pokétch"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Pokémon List App",
+    "category": [
+      "Pokétch"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Friendship Checker App",
+    "category": [
+      "Pokétch"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Dowsing Machine App",
+    "category": [
+      "Pokétch"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Berry Searcher App",
+    "category": [
+      "Pokétch"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Day-Care Checker App",
+    "category": [
+      "Pokétch"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Pokémon History App",
+    "category": [
+      "Pokétch"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Counter App",
+    "category": [
+      "Pokétch"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Analog Watch App",
+    "category": [
+      "Pokétch"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Marking Map App",
+    "category": [
+      "Pokétch"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Link Searcher App",
+    "category": [
+      "Pokétch"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Coin Toss App",
+    "category": [
+      "Pokétch"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Move Tester App",
+    "category": [
+      "Pokétch"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Calendar App",
+    "category": [
+      "Pokétch"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Dot Artist App",
+    "category": [
+      "Pokétch"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Roulette App",
+    "category": [
+      "Pokétch"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Chain Counter App",
+    "category": [
+      "Pokétch"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Kitchen Timer App",
+    "category": [
+      "Pokétch"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Color Changer App",
+    "category": [
+      "Pokétch"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Matchup Checker App",
+    "category": [
+      "Pokétch"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Stopwatch App",
+    "category": [
+      "Pokétch"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Alarm Clock App",
+    "category": [
+      "Pokétch"
+    ],
+    "useful": true
+  },
+  {
+    "count": "10",
+    "name": "Potion",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "10",
+    "name": "Super Potion",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "9",
+    "name": "Hyper Potion",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "8",
+    "name": "Max Potion",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "8",
+    "name": "Full Restore",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "3",
+    "name": "Progressive Pokédex",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Snorlax",
+    "category": [
+      "Pokémon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Kecleon",
+    "category": [
+      "Pokémon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pachirisu",
+    "category": [
+      "Pokémon"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "S.S. Ticket",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Old Charm",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Adamant Orb",
+    "category": [
+      "Held Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Lustrous Orb",
+    "category": [
+      "Held Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Griseous Orb",
+    "category": [
+      "Held Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": "5",
+    "name": "Lum Berry",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Leppa Berry",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Ether",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "6",
+    "name": "Max Ether",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "6",
+    "name": "Elixir",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "10",
+    "name": "Max Elixir",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Sitrus Berry",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Leftovers",
+    "category": [
+      "Held Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": "5",
+    "name": "Micle Berry",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Liechi Berry",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": "5",
+    "name": "Petaya Berry",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Poffin Case",
+    "category": [
+      "Key Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Custap Berry",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Enigma Berry",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Cyrus Beaten At Distortion World",
+    "category": [
+      "Events"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pal Pad",
+    "category": [
+      "Key Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Bombs Heard at Canalave",
+    "category": [
+      "Events"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Lake Trio Freed from HQ",
+    "category": [
+      "Events"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Lake Valor Cleared",
+    "category": [
+      "Events"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Lake Verity Cleared",
+    "category": [
+      "Events"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Lake Acuity Cleared",
+    "category": [
+      "Events"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Oreburgh Gym Cleared",
+    "category": [
+      "Events"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Veilstone Gym Cleared",
+    "category": [
+      "Events"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Pastoria Gym Cleared",
+    "category": [
+      "Events"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Canalave Gym Cleared",
+    "category": [
+      "Events"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Met Oak at Pal Park",
+    "category": [
+      "Events"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Looker Takes Storage Key",
+    "category": [
+      "Events"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "[EVENT] Warehouse Grunts Defeated",
+    "category": [
+      "Events"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Azure Flute",
+    "category": [
+      "Event Items"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Member Card",
+    "category": [
+      "Event Items"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Oak's Letter",
+    "category": [
+      "Event Items"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Storage Key",
+    "category": [
+      "Key Items",
+      "Storage Key"
+    ],
+    "progression": true
+  }
+]

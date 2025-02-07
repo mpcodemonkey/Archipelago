@@ -1,0 +1,7 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "PokemonPlatinum",
+  "creator": "Linneus",
+  "filler_item_name": "Focus Sash",
+  "starting_items": []
+}

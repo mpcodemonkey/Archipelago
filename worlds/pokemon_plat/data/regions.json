@@ -1,0 +1,67 @@
+{
+  "Southwest Sinnoh": {
+    "starting": true,
+    "connects_to": [
+      "Western Sinnoh",
+      "Canalave"
+    ],
+    "requires": []
+  },
+  "Western Sinnoh": {
+    "connects_to": [
+      "Upper East Sinnoh",
+      "Eastern Sinnoh"
+    ],
+    "requires": "|Bicycle| OR ((|HM06 Rock Smash| AND |Coal Badge|) AND (|Works Key| OR (|HM03 Surf| AND |Fen Badge|))) AND ((|HM02 Fly| AND |Cobble Badge|) OR {YamlDisabled(early_fly)})"
+  },
+  "Eastern Sinnoh": {
+    "connects_to": [
+      "Upper East Sinnoh",
+      "Far East Sinnoh",
+      "Lower East Sinnoh"
+    ],
+    "requires": "|Bicycle| OR ((|HM06 Rock Smash| AND |Coal Badge|) AND (|Works Key| OR (|HM03 Surf| AND |Fen Badge|)) AND |SecretPotion| AND (|HM04 Strength| AND |Mine Badge|) AND ((|HM05 Defog| AND |Relic Badge|) OR {YamlDisabled(defog_traversal)}))"
+  },
+  "Northern Sinnoh": {
+    "connects_to": [
+      "Battle Zone"
+    ],
+    "requires": "(|HM04 Strength| AND |Mine Badge|) AND ((|HM05 Defog| AND |Relic Badge|) OR {YamlDisabled(defog_traversal)}) AND ((|HM02 Fly| AND |Cobble Badge|) OR {YamlDisabled(northern_sinnoh_fly)})"
+  },
+  "Upper East Sinnoh": {
+    "connects_to": [
+      "Northern Sinnoh"
+    ],
+    "requires": "((|HM06 Rock Smash| AND |Coal Badge|) AND (|Works Key| OR (|HM03 Surf| AND |Fen Badge|) OR |Bicycle|) AND (|HM04 Strength| AND |Mine Badge|)) OR (|Bicycle| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR {YamlDisabled(defog_traversal)})) OR (|[EVENT] Lake Trio Freed from HQ| AND (|HM04 Strength| AND |Mine Badge|) AND (|HM03 Surf| AND |Fen Badge|) AND (|HM08 Rock Climb| AND |Icicle Badge|))"
+  },
+  "Far East Sinnoh": {
+    "connects_to": [
+      "Upper East Sinnoh"
+    ],
+    "requires": "|[EVENT] Lake Trio Freed from HQ| AND (|HM04 Strength| AND |Mine Badge|) AND (|HM03 Surf| AND |Fen Badge|) AND (|HM08 Rock Climb| AND |Icicle Badge|)"
+  },
+  "Battle Zone": {
+    "connects_to": [],
+    "requires": "|S.S. Ticket| AND |Progressive Pokédex:3|"
+  },
+  "Sunyshore and Beyond": {
+    "connects_to": [
+      "Victory Road"
+    ],
+    "requires": "|[EVENT] Cyrus Beaten At Distortion World| OR {YamlEnabled(open_sunyshore)}"
+  },
+  "Canalave": {
+    "connects_to": [],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|HM02 Fly| AND |Cobble Badge|) OR {YamlDisabled(early_fly)})"
+  },
+  "Victory Road": {
+    "connects_to": [],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |HM07 Waterfall| AND |Beacon Badge| AND |HM08 Rock Climb| AND |Icicle Badge| AND |HM04 Strength| AND |Mine Badge| AND |HM06 Rock Smash| AND |Coal Badge|"
+  },
+  "Lower East Sinnoh": {
+    "connects_to": [
+      "Sunyshore and Beyond"
+    ],
+    "requires": "(|HM03 Surf| AND |Fen Badge|) OR {YamlDisabled(extra_roadblocks)}"
+  }
+}

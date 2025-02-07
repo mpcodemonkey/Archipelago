@@ -1,0 +1,35 @@
+{
+  "Hidden Items": {
+    "hidden": true,
+    "yaml_option": [
+      "randomize_hidden_items"
+    ]
+  },
+  "Hidden Items on Route 217": {
+    "hidden": true,
+    "yaml_option": [
+      "randomize_hidden_items"
+    ]
+  },
+  "Veilstone Flash": {
+    "hidden": true,
+    "yaml_option": [
+      "veilstone_flash"
+    ]
+  },
+  "Apps": {
+    "hidden": true
+  },
+  "PostFV": {
+    "hidden": true,
+    "yaml_option": [
+      "battle_zone"
+    ]
+  },
+  "Storage Key": {
+    "hidden": true,
+    "yaml_option": [
+      "storage_key"
+    ]
+  }
+}

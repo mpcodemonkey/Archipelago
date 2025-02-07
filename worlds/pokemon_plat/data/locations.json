@@ -1,0 +1,6033 @@
+[
+  {
+    "region": "Victory Road",
+    "name": "Pokemon League - Become Champion",
+    "victory": true,
+    "category": [
+      "Pokémon League"
+    ],
+    "requires": "|Coal Badge| AND |Forest Badge| AND |Cobble Badge| AND |Fen Badge| AND |Relic Badge| AND |Mine Badge| AND |Icicle Badge| AND |Beacon Badge| AND |HM07 Waterfall| AND |HM06 Rock Smash|"
+  },
+  {
+    "name": "Twinleaf Town - Journal from Mom",
+    "region": "Southwest Sinnoh",
+    "victory": false,
+    "category": [
+      "Twinleaf Town"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Twinleaf Town - Parcel from Rival's Mom",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Twinleaf Town"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Twinleaf Town - Hidden Item in Pond",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Twinleaf Town"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 201 - Potion from Poké Mart Employee",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Route 201"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Verity Lakefront - Hidden Item in Flower Patch",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 201"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Lake Verity - Item in Southwest Grass Patch",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Lake Verity"
+    ],
+    "requires": "|[EVENT] Lake Valor Cleared|"
+  },
+  {
+    "name": "Sandgem Town - Pokédex from Prof Rowan",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Sandgem Town"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Southwest Sinnoh",
+    "name": "Sandgem Town - TM27 from Professor Rowan",
+    "category": [
+      "Sandgem Town"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 219 - Item on Shore",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Route 219"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 219 - Hidden Item on Island",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 219"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 220 - Upper Item on First Island",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Route 220"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Route 220 - Lower Item on First Island",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Route 220"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Route 220 - Hidden Item in Southwest Rock Corner",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 220"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 220 - Item on Shallow Water",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Route 220"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Route 221 - Item on Corner of Land",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Route 221"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Route 221 - Item in Grass Near House",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Route 221"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Route 221 - Hidden Item Next to House",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 221"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 221 - Item Between Grass Patches on Left",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 221"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Route 221 - Hidden Item in South Grass 1",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 221"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 221 - Hidden Item in South Grass 2",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 221"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 221 - Hidden Item in South Grass 3",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Route 221"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 221 - Item Below Flower Patch",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Route 221"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Route 221 - Hidden Item in Southeast Grass",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 221"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 202 - Poké Balls from Lucas/Dawn",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Route 202"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 202 - Item in Northwest",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Route 202"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Jubilife City - Hidden Item Next to Entrance",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Jubilife City"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Jubilife City - Vs. Recorder from Looker",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Jubilife City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Jubilife City - Item in Trainers' School",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Jubilife City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Jubilife City - Item from Trainers' School Students",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Jubilife City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Jubilife City - Town Map from Rival",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Jubilife City"
+    ],
+    "requires": "|Parcel|"
+  },
+  {
+    "name": "Jubilife City - Coupon from East Clown",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Jubilife City"
+    ],
+    "requires": "|Parcel|"
+  },
+  {
+    "name": "Jubilife City - Coupon from Clown in front of Jubilife TV",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Jubilife City"
+    ],
+    "requires": "|Parcel|"
+  },
+  {
+    "name": "Jubilife City - Coupon from Clown in front of Pokétch HQ",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Jubilife City"
+    ],
+    "requires": "|Parcel|"
+  },
+  {
+    "name": "Jubilife City - Pokétch from CEO",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Apps",
+      "Jubilife City"
+    ],
+    "requires": "|Coupon 1| AND |Coupon 2| AND |Coupon 3| AND |Parcel|"
+  },
+  {
+    "name": "Jubilife TV - Mask from Man on 2F",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Jubilife City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Jubilife City - Gift from Girl in Condominiums",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Jubilife City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Jubilife City - Item Between Buildings",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Jubilife City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Jubilife City - Fisherman in West Gate",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Jubilife City",
+      "Route 218"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Jubilife City - Fashion Case from Overalls Man",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Jubilife City"
+    ],
+    "requires": "|[EVENT] Oreburgh Gym Cleared|"
+  },
+  {
+    "name": "Jubilife City - Memo Pad App from CEO",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Apps",
+      "Jubilife City"
+    ],
+    "requires": "|Coupon 1| AND |Coupon 2| AND |Coupon 3| AND |Parcel| AND |@Badges:1|"
+  },
+  {
+    "name": "Jubilife City - Marking Map App from CEO",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Apps",
+      "Jubilife City"
+    ],
+    "requires": "|Coupon 1| AND |Coupon 2| AND |Coupon 3| AND |Parcel| AND |@Badges:3|"
+  },
+  {
+    "name": "Jubilife City - Link Searcher App from CEO",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Apps",
+      "Jubilife City"
+    ],
+    "requires": "|Coupon 1| AND |Coupon 2| AND |Coupon 3| AND |Parcel| AND |@Badges:5|"
+  },
+  {
+    "name": "Jubilife City - Move Tester App from CEO",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Apps",
+      "Jubilife City"
+    ],
+    "requires": "|Coupon 1| AND |Coupon 2| AND |Coupon 3| AND |Parcel| AND |@Badges:7|"
+  },
+  {
+    "name": "Route 218 - Item on Pier",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Route 218"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 218 - Item in Northeast Corner",
+    "region": "Canalave",
+    "category": [
+      "Route 218"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Route 218 - Item Below Fishermen",
+    "region": "Canalave",
+    "category": [
+      "Route 218"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Route 218 - Pokédex Upgrade from Dawn/Lucas' Father",
+    "region": "Canalave",
+    "category": [
+      "Route 218"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Canalave City - Gift in First House",
+    "region": "Canalave",
+    "category": [
+      "Canalave City"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Canalave City - Hidden Item in Southwest",
+    "region": "Canalave",
+    "category": [
+      "Hidden Items",
+      "Canalave City"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Canalave City - Item in Trees South of Canal",
+    "region": "Canalave",
+    "category": [
+      "Canalave City"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Canalave Gym - Mine Badge from Byron",
+    "region": "Canalave",
+    "category": [
+      "Canalave City"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Canalave Gym - TM91 from Byron",
+    "region": "Canalave",
+    "category": [
+      "Canalave City"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Iron Island - Hidden Item on Rock Outside",
+    "region": "Canalave",
+    "category": [
+      "Hidden Items",
+      "Iron Island"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Iron Island - HM04 from Riley",
+    "region": "Canalave",
+    "category": [
+      "Iron Island"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Iron Island B1F Left - Item in Center",
+    "region": "Canalave",
+    "category": [
+      "Iron Island"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Iron Island B1F Left - Item on Raised Walkway",
+    "region": "Canalave",
+    "category": [
+      "Iron Island"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Iron Island B1F Right - Item on Left",
+    "region": "Canalave",
+    "category": [
+      "Iron Island"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Iron Island B1F Right - Hidden Item to Right of Center Boulder",
+    "region": "Canalave",
+    "category": [
+      "Hidden Items",
+      "Iron Island"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Iron Island B1F Right - Item on Right",
+    "region": "Canalave",
+    "category": [
+      "Iron Island"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Iron Island B1F Right - Item Next to Lift",
+    "region": "Canalave",
+    "category": [
+      "Iron Island"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Iron Island B2F Right - Item in Top Right",
+    "region": "Canalave",
+    "category": [
+      "Iron Island"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Iron Island B2F Right - Item on Left Side of Pit",
+    "region": "Canalave",
+    "category": [
+      "Iron Island"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Iron Island B2F Right - Hidden Item on Right Side of Pit",
+    "region": "Canalave",
+    "category": [
+      "Hidden Items",
+      "Iron Island"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Iron Island B2F Left - Item in Top Left",
+    "region": "Canalave",
+    "category": [
+      "Iron Island"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Iron Island B2F Left - Item Down Left Walkway",
+    "region": "Canalave",
+    "category": [
+      "Iron Island"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Iron Island B2F Left - Item Below Two Rocks",
+    "region": "Canalave",
+    "category": [
+      "Iron Island"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Iron Island B2F Left - Hidden Item on Raised Walkway Below Workers",
+    "region": "Canalave",
+    "category": [
+      "Hidden Items",
+      "Iron Island"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Iron Island B2F Left - Item North of Lift",
+    "region": "Canalave",
+    "category": [
+      "Iron Island"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Iron Island B2F Left - Item Up Right Walkway",
+    "region": "Canalave",
+    "category": [
+      "Iron Island"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Iron Island B2F Left - Hidden Item in Bottom Right Pit",
+    "region": "Canalave",
+    "category": [
+      "Hidden Items",
+      "Iron Island"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Iron Island B2F Left - Hidden Item in Rock Near Ace Trainer",
+    "region": "Canalave",
+    "category": [
+      "Hidden Items",
+      "Iron Island"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Iron Island B2F Left - Item on Raised Path Next to Workers",
+    "region": "Canalave",
+    "category": [
+      "Iron Island"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Iron Island B3F - Item in Front of Iron Ruins",
+    "region": "Canalave",
+    "category": [
+      "Iron Island"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Iron Ruins - Item in Center",
+    "region": "Canalave",
+    "category": [
+      "Iron Island"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Iron Ruins - Hidden Item on Left",
+    "region": "Canalave",
+    "category": [
+      "Hidden Items",
+      "Iron Island"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 203 - Item on West Ledge",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Route 203"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 203 - Item on East Ledge",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Route 203"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 203 - Item Above Pond",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Route 203"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Oreburgh Gate - HM06 from Hiker",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Oreburgh Gate"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Oreburgh Gate B1F - Item on East Ledges",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Oreburgh Gate"
+    ],
+    "requires": "(|HM06 Rock Smash| AND |Coal Badge|)"
+  },
+  {
+    "name": "Oreburgh Gate B1F - Item Next to Cyclist",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Oreburgh Gate"
+    ],
+    "requires": "(|HM06 Rock Smash| AND |Coal Badge|)"
+  },
+  {
+    "name": "Oreburgh Gate B1F - Item After Ramps",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Oreburgh Gate"
+    ],
+    "requires": "(|HM06 Rock Smash| AND |Coal Badge|) AND (|Bicycle| OR (|HM03 Surf| AND |Fen Badge|))"
+  },
+  {
+    "name": "Oreburgh Gate B1F - Item in Pit South",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Oreburgh Gate"
+    ],
+    "requires": "(|HM06 Rock Smash| AND |Coal Badge|) AND (|HM03 Surf| AND |Fen Badge|) AND (|HM04 Strength| AND |Mine Badge|)"
+  },
+  {
+    "name": "Oreburgh Gate B1F - Item in Pit North",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Oreburgh Gate"
+    ],
+    "requires": "(|HM06 Rock Smash| AND |Coal Badge|) AND (|HM03 Surf| AND |Fen Badge|) AND (|HM04 Strength| AND |Mine Badge|)"
+  },
+  {
+    "name": "Oreburgh City - Lass in Northwest Building",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Oreburgh City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Oreburgh City - Youngster in Southeast Building",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Oreburgh City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Oreburgh City - Worker by Mine Entrance",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Oreburgh City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Oreburgh City - Item by Slag Heap 1",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Oreburgh City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Oreburgh City - Item by Slag Heap 2",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Oreburgh City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Oreburgh City - Hidden Item in Slag Heap 1",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Oreburgh City"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Oreburgh City - Hidden Item in Slag Heap 2",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Oreburgh City"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Oreburgh Gym - Coal Badge from Roark",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Oreburgh City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Oreburgh Gym - TM76 from Roark",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Oreburgh City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Oreburgh Mine B1F - Item at Entrance",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Oreburgh Mine"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Oreburgh Mine B2F - Item 1",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Oreburgh Mine"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Oreburgh Mine B2F - Item 2",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Oreburgh Mine"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 207 - Item in Grass NW Corner",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Route 207"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 207 - Hidden Item in Grass NE Corner",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 207"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 204 - Item Behind Small Pond",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Route 204"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 204 - Item Across Eastern Pond",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Route 204"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Route 204 - Item Across Southwest Pond",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Route 204"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Ravaged Path - First Item",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Ravaged Path"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ravaged Path - Item Left of Breakable Rocks",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Ravaged Path"
+    ],
+    "requires": "|HM06 Rock Smash| AND |Coal Badge|"
+  },
+  {
+    "name": "Ravaged Path - Item Behind Long Boulder Trail",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Ravaged Path"
+    ],
+    "requires": "|HM06 Rock Smash| AND |Coal Badge| AND |HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Ravaged Path - Item at Water's End",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Ravaged Path"
+    ],
+    "requires": "|HM06 Rock Smash| AND |Coal Badge| AND |HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Upper Route 204 - Item Above Cave Entrance",
+    "category": [
+      "Route 204"
+    ],
+    "requires": "(|HM06 Rock Smash| AND |Coal Badge|) OR |Bicycle|",
+    "region": "Southwest Sinnoh"
+  },
+  {
+    "name": "Upper Route 204 - Item on Left",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Route 204"
+    ],
+    "requires": "(|HM06 Rock Smash| AND |Coal Badge|) OR |Bicycle|"
+  },
+  {
+    "name": "Upper Route 204 - Woman Behind Cut Tree",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Route 204"
+    ],
+    "requires": "((|HM06 Rock Smash| AND |Coal Badge|) OR |Bicycle|) AND |HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Floaroma Town - Girl in Northwest House",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Floaroma Town"
+    ],
+    "requires": "(|HM06 Rock Smash| AND |Coal Badge|) OR |Bicycle|"
+  },
+  {
+    "name": "Floaroma Town - Sprayduck from Flower Shop",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Floaroma Town"
+    ],
+    "requires": "(|HM06 Rock Smash| AND |Coal Badge|) OR |Bicycle|"
+  },
+  {
+    "name": "Floaroma Meadow - Works Key after Galactic Grunts",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Floaroma Meadow"
+    ],
+    "requires": "(|HM06 Rock Smash| AND |Coal Badge|) OR |Bicycle|"
+  },
+  {
+    "name": "Floaroma Meadow - Gift from Man after Grunts",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Floaroma Meadow"
+    ],
+    "requires": "(|HM06 Rock Smash| AND |Coal Badge|) OR |Bicycle|"
+  },
+  {
+    "name": "Floaroma Meadow - Item 1",
+    "region": "Western Sinnoh",
+    "category": [
+      "Floaroma Meadow"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Floaroma Meadow - Item 2",
+    "region": "Western Sinnoh",
+    "category": [
+      "Floaroma Meadow"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Floaroma Meadow - Item 3",
+    "region": "Western Sinnoh",
+    "category": [
+      "Floaroma Meadow"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Floaroma Meadow - Item 4",
+    "region": "Western Sinnoh",
+    "category": [
+      "Floaroma Meadow"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Floaroma Meadow - Hidden Item 1",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Floaroma Meadow"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Floaroma Meadow - Hidden Item 2",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Floaroma Meadow"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Floaroma Meadow - Hidden Item 3",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Floaroma Meadow"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Floaroma Meadow - Hidden Item 4",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Floaroma Meadow"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Floaroma Meadow - Hidden Item 5",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Floaroma Meadow"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Floaroma Meadow - Hidden Item 6",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Floaroma Meadow"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Floaroma Meadow - Hidden Item 7",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Floaroma Meadow"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Floaroma Meadow - Hidden Item 8",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Floaroma Meadow"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Floaroma Meadow - Hidden Item 9",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Floaroma Meadow"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Floaroma Meadow - Hidden Item 10",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Floaroma Meadow"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Floaroma Meadow - Hidden Item 11",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Floaroma Meadow"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 205 South - Item Before First Hiker",
+    "region": "Western Sinnoh",
+    "category": [
+      "Route 205"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 205 South - Hidden Item Above Aroma Lady",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 205"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 205 South - Item Under Bridge",
+    "region": "Western Sinnoh",
+    "category": [
+      "Route 205"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 205 South - Item Next to Battle Girl",
+    "region": "Western Sinnoh",
+    "category": [
+      "Route 205"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 205 South - Item South of House",
+    "region": "Western Sinnoh",
+    "category": [
+      "Route 205"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Valley Windworks - Item in Southeast",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Valley Windworks"
+    ],
+    "requires": "((|HM06 Rock Smash| AND |Coal Badge|) OR |Bicycle|)"
+  },
+  {
+    "name": "Valley Windworks - Turbine Item",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Valley Windworks"
+    ],
+    "requires": "((|HM06 Rock Smash| AND |Coal Badge|) OR |Bicycle|) AND |HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Valley Windworks - Turbine Hidden Item",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Valley Windworks"
+    ],
+    "requires": "((|HM06 Rock Smash| AND |Coal Badge|) OR |Bicycle|) AND |HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Valley Windworks - Item Behind Windworks",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Valley Windworks"
+    ],
+    "requires": "((|HM06 Rock Smash| AND |Coal Badge|) OR |Bicycle|) AND |HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Fuego Ironworks (Outside) - Hidden Item in Center of Grass",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Fuego Ironworks"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Fuego Ironworks (Outside) - Hidden Item Next to Building",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Fuego Ironworks"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Fuego Ironworks - Item Behind Blue Crate",
+    "region": "Western Sinnoh",
+    "category": [
+      "Fuego Ironworks"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Fuego Ironworks - Top Left Item in Front of Blue Crate",
+    "region": "Western Sinnoh",
+    "category": [
+      "Fuego Ironworks"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Fuego Ironworks - Hidden Item in Short Dead End",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Fuego Ironworks"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Fuego Ironworks - Item in Nook Near Furnace",
+    "region": "Western Sinnoh",
+    "category": [
+      "Fuego Ironworks"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Fuego Ironworks - Item in Lower Right Dead End",
+    "region": "Western Sinnoh",
+    "category": [
+      "Fuego Ironworks"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Fuego Ironworks - Item in Top Right Dead End",
+    "region": "Western Sinnoh",
+    "category": [
+      "Fuego Ironworks"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Fuego Ironworks - Hidden Item in Single Barrel",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Fuego Ironworks"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Fuego Ironworks - Top Right Item",
+    "region": "Western Sinnoh",
+    "category": [
+      "Fuego Ironworks"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Fuego Ironworks - Item in Bottom Right Spinner Maze",
+    "region": "Western Sinnoh",
+    "category": [
+      "Fuego Ironworks"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Fuego Ironworks - Item at Furnace",
+    "region": "Western Sinnoh",
+    "category": [
+      "Fuego Ironworks"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Fuego Ironworks - Star Piece from Mr. Fuego",
+    "region": "Western Sinnoh",
+    "category": [
+      "Fuego Ironworks"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Eterna Forest Side Route - Big Tree from Woman",
+    "region": "Western Sinnoh",
+    "category": [
+      "Eterna Forest"
+    ],
+    "requires": "|HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Eterna Forest Side Route - Rocky Area Left",
+    "region": "Western Sinnoh",
+    "category": [
+      "Eterna Forest"
+    ],
+    "requires": "|HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Eterna Forest Side Route - Rocky Area Right",
+    "region": "Western Sinnoh",
+    "category": [
+      "Eterna Forest"
+    ],
+    "requires": "|HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Eterna Forest - Item by South Entrance",
+    "region": "Western Sinnoh",
+    "category": [
+      "Eterna Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Eterna Forest - Item Above Lass",
+    "region": "Western Sinnoh",
+    "category": [
+      "Eterna Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Eterna Forest - Item in Bottom Left Corner of Grass Patch",
+    "region": "Western Sinnoh",
+    "category": [
+      "Eterna Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Eterna Forest - Item in Southeast Corner",
+    "region": "Western Sinnoh",
+    "category": [
+      "Eterna Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Eterna Forest - Item in Grass Patch before Old Chateau",
+    "region": "Western Sinnoh",
+    "category": [
+      "Eterna Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Eterna Forest - Soothe Bell from Cheryl",
+    "region": "Western Sinnoh",
+    "category": [
+      "Eterna Forest"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Eterna Forest - Item Next to Old Chateau",
+    "region": "Western Sinnoh",
+    "category": [
+      "Eterna Forest"
+    ],
+    "requires": "|HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Eterna Forest - Hidden Item Next to Old Chateau",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Eterna Forest"
+    ],
+    "requires": "|HM01 Cut| AND |Forest Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Old Chateau 1F - Hidden Item in Box in Kitchen",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Old Chateau"
+    ],
+    "requires": "|HM01 Cut| AND |Forest Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Old Chateau 1F - Item on Left of Dining Area",
+    "region": "Western Sinnoh",
+    "category": [
+      "Old Chateau"
+    ],
+    "requires": "|HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Old Chateau 1F - Item on Right of Dining Area",
+    "region": "Western Sinnoh",
+    "category": [
+      "Old Chateau"
+    ],
+    "requires": "|HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Old Chateau 2F - Item in Room Left of Entrance",
+    "region": "Western Sinnoh",
+    "category": [
+      "Old Chateau"
+    ],
+    "requires": "|HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Old Chateau 2F - Item in Easternmost Bedroom",
+    "region": "Western Sinnoh",
+    "category": [
+      "Old Chateau"
+    ],
+    "requires": "|HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Old Chateau 2F - Item in Westernmost Bedroom",
+    "region": "Western Sinnoh",
+    "category": [
+      "Old Chateau"
+    ],
+    "requires": "|HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Route 205 North - Hidden Item in Honey Tree Corner",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 205"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 205 North - Item South of Pond",
+    "region": "Western Sinnoh",
+    "category": [
+      "Route 205"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Eterna City - Friendship Checker App from Woman in Pokémon Center",
+    "region": "Western Sinnoh",
+    "category": [
+      "Apps",
+      "Eterna City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Eterna City - Explorer Kit from Underground Man",
+    "region": "Western Sinnoh",
+    "category": [
+      "Eterna City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Eterna City - Gift from Old Woman in Condominiums",
+    "region": "Western Sinnoh",
+    "category": [
+      "Eterna City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Eterna City - Item Behind Gym",
+    "region": "Western Sinnoh",
+    "category": [
+      "Eterna City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Eterna City - Hidden Item Behind Legendary Statue",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Eterna City"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Eterna City - HM01 From Cynthia",
+    "region": "Western Sinnoh",
+    "category": [
+      "Eterna City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Eterna City - Item Behind Fence",
+    "region": "Western Sinnoh",
+    "category": [
+      "Eterna City"
+    ],
+    "requires": "|HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Eterna City - Bike from Rad Rickshaw",
+    "region": "Western Sinnoh",
+    "category": [
+      "Eterna City"
+    ],
+    "requires": "|HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Eterna City - Hidden Item Above Pond",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Eterna City"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Eterna Gym - Forest Badge from Gardenia",
+    "region": "Western Sinnoh",
+    "category": [
+      "Eterna City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Eterna Gym - TM86 from Gardenia",
+    "region": "Western Sinnoh",
+    "category": [
+      "Eterna City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Team Galactic Eterna Building 2F - Item Between Boxes",
+    "region": "Western Sinnoh",
+    "category": [
+      "Galactic Eterna Building"
+    ],
+    "requires": "|HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Team Galactic Eterna Building 3F - Item Behind Machines",
+    "region": "Western Sinnoh",
+    "category": [
+      "Galactic Eterna Building"
+    ],
+    "requires": "|HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Team Galactic Eterna Building 4F - Dead End Item 1",
+    "region": "Western Sinnoh",
+    "category": [
+      "Galactic Eterna Building"
+    ],
+    "requires": "|HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Team Galactic Eterna Building 4F - Dead End Item 2",
+    "region": "Western Sinnoh",
+    "category": [
+      "Galactic Eterna Building"
+    ],
+    "requires": "|HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Team Galactic Eterna Building 4F - Item By Jupiter",
+    "region": "Western Sinnoh",
+    "category": [
+      "Galactic Eterna Building"
+    ],
+    "requires": "|HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Route 211 West - Hidden Item in Grass",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 211"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 211 West - Item Under Bridge",
+    "region": "Western Sinnoh",
+    "category": [
+      "Route 211"
+    ],
+    "requires": "|HM06 Rock Smash| AND |Coal Badge|"
+  },
+  {
+    "name": "Mt. Coronet (Route 211 Tunnel Room) - Hidden Item on Left Boulder",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (North Entrance)"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet (Route 211 Tunnel Room) - Item in Center",
+    "region": "Western Sinnoh",
+    "category": [
+      "Mt. Coronet (North Entrance)"
+    ],
+    "requires": "(|HM06 Rock Smash| AND |Coal Badge|) OR ((|HM04 Strength| AND |Mine Badge|) AND |Bicycle| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR {YamlDisabled(defog_traversal)})) OR (|[EVENT] Lake Trio Freed from HQ| AND (|HM04 Strength| AND |Mine Badge|) AND (|HM03 Surf| AND |Fen Badge|) AND (|HM08 Rock Climb| AND |Icicle Badge|))"
+  },
+  {
+    "name": "Mt. Coronet (Route 211 Tunnel Room) - Hidden Item on Center Boulder",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (North Entrance)"
+    ],
+    "requires": "(|HM06 Rock Smash| AND |Coal Badge|) OR ((|HM04 Strength| AND |Mine Badge|) AND |Bicycle| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR {YamlDisabled(defog_traversal)})) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)}) OR (|[EVENT] Lake Trio Freed from HQ| AND (|HM04 Strength| AND |Mine Badge|) AND (|HM03 Surf| AND |Fen Badge|) AND (|HM08 Rock Climb| AND |Icicle Badge|))"
+  },
+  {
+    "name": "Mt. Coronet (Route 211 Tunnel Room) - Item in Corner Above Ledge",
+    "region": "Western Sinnoh",
+    "category": [
+      "Mt. Coronet (North Entrance)"
+    ],
+    "requires": "|HM04 Strength| AND |Mine Badge| AND ((|HM06 Rock Smash| AND |Coal Badge|) OR (|Bicycle| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR {YamlDisabled(defog_traversal)}))) OR (|[EVENT] Lake Trio Freed from HQ| AND (|HM04 Strength| AND |Mine Badge|) AND (|HM03 Surf| AND |Fen Badge|) AND (|HM08 Rock Climb| AND |Icicle Badge|))"
+  },
+  {
+    "name": "Mt. Coronet (Route 211 Tunnel Room) - Item Below East Exit",
+    "region": "Upper East Sinnoh",
+    "category": [
+      "Mt. Coronet (North Entrance)"
+    ],
+    "requires": "(|Bicycle| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR {YamlDisabled(defog_traversal)})) OR (|HM04 Strength| AND |Mine Badge| AND |HM06 Rock Smash| AND |Coal Badge|)"
+  },
+  {
+    "name": "Mt. Coronet (Route 211 Tunnel Room) - Hidden Item on Right Boulder",
+    "region": "Upper East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (North Entrance)"
+    ],
+    "requires": "(|Bicycle| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR {YamlDisabled(defog_traversal)})) OR (|HM04 Strength| AND |Mine Badge| AND |HM06 Rock Smash| AND |Coal Badge|) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet (Route 211 Tunnel Room) - Item Behind Two Breakable Rocks",
+    "region": "Upper East Sinnoh",
+    "category": [
+      "Mt. Coronet (North Entrance)"
+    ],
+    "requires": "|HM04 Strength| AND |Mine Badge| AND |HM06 Rock Smash| AND |Coal Badge|"
+  },
+  {
+    "name": "Mt. Coronet (Route 211 Tunnel Room) - Hidden Item on Boulder Before Stairs",
+    "region": "Upper East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (North Entrance)"
+    ],
+    "requires": "|HM04 Strength| AND |Mine Badge| AND ((|HM06 Rock Smash| AND |Coal Badge|) OR (|Bicycle| AND |SecretPotion|) AND ((|HM05 Defog| AND |Relic Badge|) OR {YamlDisabled(defog_traversal)})) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 206 (North Gate) - Reward For 35 Pokémon Seen",
+    "region": "Western Sinnoh",
+    "category": [
+      "Route 206"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 206 (South Gate) - Girl in Southern Gate",
+    "region": "Western Sinnoh",
+    "category": [
+      "Route 206"
+    ],
+    "requires": "(|Bicycle| OR (|HM06 Rock Smash| AND |Coal Badge| AND |HM04 Strength| AND |Mine Badge| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})))"
+  },
+  {
+    "name": "Route 206 - Item Behind Cut Tree Before Wooden Bridge",
+    "region": "Western Sinnoh",
+    "category": [
+      "Route 206"
+    ],
+    "requires": "(|Bicycle| OR (|HM06 Rock Smash| AND |Coal Badge| AND |HM04 Strength| AND |Mine Badge| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})))) AND |HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Route 206 - Item Under Split Cycling Road Section",
+    "region": "Western Sinnoh",
+    "category": [
+      "Route 206"
+    ],
+    "requires": "(|Bicycle| OR (|HM06 Rock Smash| AND |Coal Badge| AND |HM04 Strength| AND |Mine Badge| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})))) AND |HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Route 206 - Hidden Item Below Berry Patch",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 206"
+    ],
+    "requires": "(|Bicycle| OR (|HM06 Rock Smash| AND |Coal Badge| AND |HM04 Strength| AND |Mine Badge| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})))) AND |HM01 Cut| AND |Forest Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 206 - Hidden Item Near Honey Tree",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 206"
+    ],
+    "requires": "(|Bicycle| OR (|HM06 Rock Smash| AND |Coal Badge| AND |HM04 Strength| AND |Mine Badge| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})))) AND |HM01 Cut| AND |Forest Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 206 - Item Against East Wall",
+    "region": "Western Sinnoh",
+    "category": [
+      "Route 206"
+    ],
+    "requires": "(|Bicycle| OR (|HM06 Rock Smash| AND |Coal Badge| AND |HM04 Strength| AND |Mine Badge| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})))) AND |HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Route 206 - Item Above Berry Patch",
+    "region": "Western Sinnoh",
+    "category": [
+      "Route 206"
+    ],
+    "requires": "(|Bicycle| OR (|HM06 Rock Smash| AND |Coal Badge| AND |HM04 Strength| AND |Mine Badge| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})))) AND |HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Wayward Cave - Hidden Item in Center Boulder",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Wayward Cave"
+    ],
+    "requires": "(|Bicycle| OR (|HM04 Strength| AND |Mine Badge| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})))) AND |HM01 Cut| AND |Forest Badge| AND |TM70 - Flash| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 207 or Wayward Cave - Hidden Item That's Either South of Hikers in Wayward Cave or Above Rock Climb Slope on Route 207",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Wayward Cave",
+      "Route 207"
+    ],
+    "requires": "(|HM06 Rock Smash| AND |Coal Badge| AND (|Bicycle| OR (|HM04 Strength| AND |Mine Badge| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})))) AND |HM01 Cut| AND |Forest Badge| AND |TM70 - Flash|) OR ((|Bicycle| OR (|HM06 Rock Smash| AND |Coal Badge| AND |SecretPotion|)) AND |HM04 Strength| AND |Mine Badge| AND |HM03 Surf| AND |Fen Badge| AND |HM08 Rock Climb| AND |Icicle Badge|) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Wayward Cave - Item in Southwest Corner",
+    "region": "Western Sinnoh",
+    "category": [
+      "Wayward Cave"
+    ],
+    "requires": "(|Bicycle| OR (|HM04 Strength| AND |Mine Badge| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})))) AND |HM01 Cut| AND |Forest Badge| AND |TM70 - Flash| AND |HM06 Rock Smash| AND |Coal Badge|"
+  },
+  {
+    "name": "Wayward Cave - Item in Northwest Corner",
+    "region": "Western Sinnoh",
+    "category": [
+      "Wayward Cave"
+    ],
+    "requires": "(|Bicycle| OR (|HM04 Strength| AND |Mine Badge| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})))) AND |HM01 Cut| AND |Forest Badge| AND |TM70 - Flash| AND |HM06 Rock Smash| AND |Coal Badge|"
+  },
+  {
+    "name": "Wayward Cave - Item Next to Five Rocks",
+    "region": "Western Sinnoh",
+    "category": [
+      "Wayward Cave"
+    ],
+    "requires": "(|Bicycle| OR (|HM04 Strength| AND |Mine Badge| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})))) AND |HM01 Cut| AND |Forest Badge| AND |TM70 - Flash| AND |HM06 Rock Smash| AND |Coal Badge|"
+  },
+  {
+    "name": "Wayward Cave - Hidden Item in Corner With Breakable Rock",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Wayward Cave"
+    ],
+    "requires": "(|Bicycle| OR (|HM04 Strength| AND |Mine Badge| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})))) AND |HM01 Cut| AND |Forest Badge| AND |TM70 - Flash| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Wayward Cave - Hidden Item in Rock Below Picnicker on East Side",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Wayward Cave"
+    ],
+    "requires": "(|Bicycle| OR (|HM04 Strength| AND |Mine Badge| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})))) AND |HM01 Cut| AND |Forest Badge| AND |TM70 - Flash| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Wayward Cave - Hidden Item in Southeast Corner",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Wayward Cave"
+    ],
+    "requires": "(|Bicycle| OR (|HM04 Strength| AND |Mine Badge| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})))) AND |HM01 Cut| AND |Forest Badge| AND |TM70 - Flash| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Wayward Cave - Hidden Item in Rock Next to Mira",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Wayward Cave"
+    ],
+    "requires": "(|Bicycle| OR (|HM04 Strength| AND |Mine Badge| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})))) AND |HM01 Cut| AND |Forest Badge| AND |TM70 - Flash| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Wayward Cave Secret Basement - Hidden Item in Rock Before First Bike Slope",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Wayward Cave"
+    ],
+    "requires": "(|Bicycle| OR (|HM06 Rock Smash| AND |Coal Badge| AND |HM04 Strength| AND |Mine Badge| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})))) AND |HM01 Cut| AND |Forest Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Wayward Cave Secret Basement - Item After Four Bike Jumps",
+    "region": "Western Sinnoh",
+    "category": [
+      "Wayward Cave"
+    ],
+    "requires": "|Bicycle| AND |HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Wayward Cave Secret Basement - Hidden Item Against Northwest Wall",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Wayward Cave"
+    ],
+    "requires": "|Bicycle| AND |HM01 Cut| AND |Forest Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Wayward Cave Secret Basement - Item Between Bike Bridges",
+    "region": "Western Sinnoh",
+    "category": [
+      "Wayward Cave"
+    ],
+    "requires": "|Bicycle| AND |HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Wayward Cave Secret Basement - Item Next to Bike Ramp on Ledges",
+    "region": "Western Sinnoh",
+    "category": [
+      "Wayward Cave"
+    ],
+    "requires": "|Bicycle| AND |HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Wayward Cave Secret Basement - Item in Final Room",
+    "region": "Western Sinnoh",
+    "category": [
+      "Wayward Cave"
+    ],
+    "requires": "|Bicycle| AND |HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Route 207 - Hidden Item Left of Hiker by Wooden Bridge",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 207"
+    ],
+    "requires": "(|Bicycle| OR (|HM06 Rock Smash| AND |Coal Badge| AND |HM04 Strength| AND |Mine Badge| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})))) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 207 - Item Across Wooden Bridge",
+    "region": "Western Sinnoh",
+    "category": [
+      "Route 207"
+    ],
+    "requires": "(|Bicycle| OR (|HM06 Rock Smash| AND |Coal Badge| AND |HM04 Strength| AND |Mine Badge| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)}))))"
+  },
+  {
+    "name": "Route 207 - Hidden Item on Ledge",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 207"
+    ],
+    "requires": "(|Bicycle| OR (|HM06 Rock Smash| AND |Coal Badge| AND |HM04 Strength| AND |Mine Badge| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})))) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 207 - Item Between Vents",
+    "region": "Western Sinnoh",
+    "category": [
+      "Route 207"
+    ],
+    "requires": "(|Bicycle| OR (|HM06 Rock Smash| AND |Coal Badge| AND |HM04 Strength| AND |Mine Badge| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)}))))"
+  },
+  {
+    "name": "Route 207 - Hidden Item in Front of Cave Entrance",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 207"
+    ],
+    "requires": "(|Bicycle| OR (|HM06 Rock Smash| AND |Coal Badge| AND |HM04 Strength| AND |Mine Badge| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})))) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 207 - First Gift from Dawn/Lucas",
+    "region": "Western Sinnoh",
+    "category": [
+      "Route 207"
+    ],
+    "requires": "(|Bicycle| OR (|HM06 Rock Smash| AND |Coal Badge| AND |HM04 Strength| AND |Mine Badge| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)}))))"
+  },
+  {
+    "name": "Route 207 - Second Gift from Dawn/Lucas",
+    "region": "Western Sinnoh",
+    "category": [
+      "Apps",
+      "Route 207"
+    ],
+    "requires": "(|Bicycle| OR (|HM06 Rock Smash| AND |Coal Badge| AND |HM04 Strength| AND |Mine Badge| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)}))))"
+  },
+  {
+    "name": "Route 207 - Item Above Rock Climb Slope",
+    "region": "Western Sinnoh",
+    "category": [
+      "Route 207"
+    ],
+    "requires": "(|Bicycle| OR (|HM06 Rock Smash| AND |Coal Badge| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})))) AND |HM04 Strength| AND |Mine Badge| AND |HM03 Surf| AND |Fen Badge| AND |HM08 Rock Climb| AND |Icicle Badge|"
+  },
+  {
+    "name": "Route 207 - Item Below Rock Climb Slope",
+    "region": "Western Sinnoh",
+    "category": [
+      "Route 207"
+    ],
+    "requires": "(|Bicycle| OR (|HM06 Rock Smash| AND |Coal Badge| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})))) AND |HM04 Strength| AND |Mine Badge| AND |HM03 Surf| AND |Fen Badge| AND |HM08 Rock Climb| AND |Icicle Badge|"
+  },
+  {
+    "name": "Mt. Coronet (Routes 207-208 Room) - Hidden Item in Boulder in Top Left",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (South Entrance)"
+    ],
+    "requires": "(|Bicycle| OR (|HM06 Rock Smash| AND |Coal Badge| AND |HM04 Strength| AND |Mine Badge| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})))) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet (Routes 207-208 Room) - Hidden Item in Bottom Left",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (South Entrance)"
+    ],
+    "requires": "(|Bicycle| OR (|HM06 Rock Smash| AND |Coal Badge| AND |HM04 Strength| AND |Mine Badge| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})))) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet (Routes 207-208 Room) - Hidden Item on Center Boulder",
+    "region": "Western Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (South Entrance)"
+    ],
+    "requires": "(|Bicycle| OR (|HM06 Rock Smash| AND |Coal Badge| AND |HM04 Strength| AND |Mine Badge| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})))) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet (Routes 207-208 Room) - Item Across Lower Pond",
+    "region": "Western Sinnoh",
+    "category": [
+      "Mt. Coronet (South Entrance)"
+    ],
+    "requires": "(|Bicycle| OR (|HM06 Rock Smash| AND |Coal Badge| AND |HM04 Strength| AND |Mine Badge| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})))) AND |HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Mt. Coronet (Routes 207-208 Room) - Item Across Upper Pond",
+    "region": "Western Sinnoh",
+    "category": [
+      "Mt. Coronet (South Entrance)"
+    ],
+    "requires": "(|Bicycle| OR (|HM06 Rock Smash| AND |Coal Badge| AND |HM04 Strength| AND |Mine Badge| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})))) AND |HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Mt. Coronet 2F - Item in Center",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Mt. Coronet (South Entrance)"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |HM08 Rock Climb| AND |Icicle Badge|"
+  },
+  {
+    "name": "Mt. Coronet 2F - Hidden Item on Center Boulder",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (South Entrance)"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |HM08 Rock Climb| AND |Icicle Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet 2F - Item Between White Rocks",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Mt. Coronet (South Entrance)"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |HM08 Rock Climb| AND |Icicle Badge| AND |HM04 Strength| AND |Mine Badge|"
+  },
+  {
+    "name": "Mt. Coronet 2F - Item in Bottom Left Path",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Mt. Coronet (South Entrance)"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |HM08 Rock Climb| AND |Icicle Badge| AND |HM04 Strength| AND |Mine Badge|"
+  },
+  {
+    "name": "Mt. Coronet 2F - Item in Top Left",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Mt. Coronet (South Entrance)"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |HM08 Rock Climb| AND |Icicle Badge| AND |HM04 Strength| AND |Mine Badge|"
+  },
+  {
+    "name": "Route 208 - Item Next to Rock Climb Slope",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Route 208"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 208 - Hidden Item Above Rock Climb Slope",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 208"
+    ],
+    "requires": "|HM06 Rock Smash| AND |Coal Badge| AND |HM08 Rock Climb| AND |Icicle Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 208 - Item Behind Breakable Rocks",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Route 208"
+    ],
+    "requires": "|HM06 Rock Smash| AND |Coal Badge|"
+  },
+  {
+    "name": "Route 208 - Item Above Waterfall",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Route 208"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |HM07 Waterfall| AND |Beacon Badge|"
+  },
+  {
+    "name": "Route 208 - Hidden Item in Corner of Grass Patch",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 208"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 208 - Black Belt Near Honey Tree",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Route 208"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 208 - Berry Searcher App from Berry Master's Daughter",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Apps",
+      "Route 208"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pal Park - Trainer Counter App from Prof Oak",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Apps",
+      "Pal Park"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Progressive Pokédex:3|"
+  },
+  {
+    "name": "Pal Park - Kitchen Timer App from Girl",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Apps",
+      "Pal Park"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Progressive Pokédex:3| AND |Snorlax|"
+  },
+  {
+    "name": "Pal Park - Color Changer App from Girl",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Apps",
+      "Pal Park"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Progressive Pokédex:3| AND |Snorlax| AND |Kecleon|"
+  },
+  {
+    "name": "Eterna City - Up-Grade from Prof Oak",
+    "region": "Western Sinnoh",
+    "category": [
+      "Eterna City"
+    ],
+    "requires": "|[EVENT] Met Oak at Pal Park|"
+  },
+  {
+    "name": "Hearthome City - Poffin Case from Fan Club Chairman",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hearthome City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hearthome City - Gift from Woman in Hotel",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hearthome City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hearthome City - Gift from Keira in Super Contest Hall",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hearthome City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hearthome City - Hidden Item Behind Northwest Fence",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Hearthome City"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Hearthome Gym - Relic Badge from Fantina",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hearthome City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hearthome Gym - TM65 from Fantina",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hearthome City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Amity Square - Partner Pokémon Pickup",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Amity Square"
+    ],
+    "requires": "|Pachirisu|"
+  },
+  {
+    "name": "Amity Square (Left) - Item on Middle of Island",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Amity Square"
+    ],
+    "requires": "|Pachirisu|"
+  },
+  {
+    "name": "Amity Square (Left) - Item Near Center Warp",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Amity Square"
+    ],
+    "requires": "|Pachirisu|"
+  },
+  {
+    "name": "Amity Square (Right) - Item Reached with Warp Huts",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Amity Square"
+    ],
+    "requires": "|Pachirisu|"
+  },
+  {
+    "name": "Amity Square (Right) - Item Behind Bench",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Amity Square"
+    ],
+    "requires": "|Pachirisu|"
+  },
+  {
+    "name": "Route 209 - Good Rod from Fisherman",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Route 209"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 209 - Hidden Item in Center of Big Grass Patch",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 209"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 209 - Item in Corner of Big Grass Patch",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Route 209"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 209 - Hidden Item in Front of Two Trees",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 209"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 209 - Item Across From Pikachu Cosplayer",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Route 209"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 209 - Item Down River in Southeast",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Route 209"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Route 209 - Hidden Item Next to Honey Tree",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 209"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 209 - Item in Pit Next to Honey Tree",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Route 209"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 209 - Hidden Item on Rock in East Mud Slide Pit",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 209"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 209 - Item in Corner Past West Mud Slide Pit",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Route 209"
+    ],
+    "requires": "|Bicycle|"
+  },
+  {
+    "name": "Route 209 - Item Behind Cut Tree",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Route 209"
+    ],
+    "requires": "|HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Lost Tower 2F - Item in Front of Youngster",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Lost Tower"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Lost Tower 2F - Hidden Item in Southeast Headstone",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Lost Tower"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Lost Tower 3F - Item in Southwest Corner",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Lost Tower"
+    ],
+    "requires": "((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)}))"
+  },
+  {
+    "name": "Lost Tower 4F - Item on South Path",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Lost Tower"
+    ],
+    "requires": "((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)}))"
+  },
+  {
+    "name": "Lost Tower 4F - Hidden Item in Corner of Southwest Graves",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Lost Tower"
+    ],
+    "requires": "(|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)} AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)}))"
+  },
+  {
+    "name": "Lost Tower 5F - Gift from Old Woman on Right",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Lost Tower"
+    ],
+    "requires": "|HM05 Defog| AND |Relic Badge|"
+  },
+  {
+    "name": "Lost Tower 5F - Gift from Old Woman on Left",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Lost Tower"
+    ],
+    "requires": "|HM05 Defog| AND |Relic Badge|"
+  },
+  {
+    "name": "Solaceon Town - Pokémon History App from Ruin Maniac",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Solaceon Town"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Solaceon Town - Day Care Checker App from Man After Leaving a Pokémon",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Apps",
+      "Solaceon Town"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Solaceon Town - Hidden Item in Northeast Corner",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Solaceon Town"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Solaceon Town - Seal Case From Woman in Far East House",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Solaceon Town"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Solaceon Town - Item on East Ledges",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Solaceon Town"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Solaceon Ruins B1F - Hidden Item Down Top Left Staircase",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Solaceon Ruins"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Solaceon Ruins B2F - Gift for Lending Defog to Hiker",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Solaceon Ruins"
+    ],
+    "requires": "|HM05 Defog|"
+  },
+  {
+    "name": "Solaceon Ruins B3F - Hidden Item Down Bottom Left Staircase",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Solaceon Ruins"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Solaceon Ruins B5F - Hidden Item Down Bottom Right Staircase",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Solaceon Ruins"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Solaceon Ruins B5F - FRIENDSHIP Room Item 1",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Solaceon Ruins"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Solaceon Ruins B5F - FRIENDSHIP Room Item 2",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Solaceon Ruins"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Solaceon Ruins B5F - FRIENDSHIP Room Item 3",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Solaceon Ruins"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Solaceon Ruins B5F - FRIENDSHIP Room Item 4",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Solaceon Ruins"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Solaceon Ruins - Clifftop Item from Maniac Tunnel Exit",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Solaceon Ruins",
+      "Route 214"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 210 South - Item in Northwest Corner",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Route 210"
+    ],
+    "requires": "|Bicycle|"
+  },
+  {
+    "name": "Route 210 South - TM51 from Girl on Hill",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Route 210"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 210 South - Hidden Item in Grass Next to Honey Tree",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 210"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 210 - Old Charm from Cynthia",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Route 210"
+    ],
+    "requires": "|SecretPotion|"
+  },
+  {
+    "name": "Route 215 - Item Circled By Runner",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Route 215"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 215 - TM66 from Black Belt",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Route 215"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 215 - Hidden Item on Hill With Two Bridges",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 215"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 215 - Item Next to Black Belt Behind Cut Tree",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Route 215"
+    ],
+    "requires": "|HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Route 215 - Item South of Raised Grass Patch",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Route 215"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 215 - Hidden Item in Northeast Grass Patch",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 215"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 215 - Item Above Northeast Grass Patch",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Route 215"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 215 - Item Behind Cut Trees Below Northeast Grass Patch",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Route 215"
+    ],
+    "requires": "|HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Route 215 - Hidden Item Northwest of Ace Trainers",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 215"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 215 - Item West of Ace Trainers",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Route 215"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Veilstone City - Hidden Item in Corner of Galactic Warehouses",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Veilstone City"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Veilstone City - Item Between Galactic Warehouses",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Veilstone City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Veilstone City - Hidden Item Between Trees and Dept. Store",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Veilstone City"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Veilstone Dept. Store - Counter App from Department Store 2F",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Apps",
+      "Veilstone City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Veilstone Dept. Store - Buy TM70 from Department Store",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Veilstone City",
+      "Veilstone Flash"
+    ],
+    "requires": [],
+    "place_item": [
+      "TM70 - Flash"
+    ]
+  },
+  {
+    "name": "Veilstone Dept. Store - Gift from Two Buff Guys Standing Side By Side",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Veilstone City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Veilstone City - Item on Rock Climb Platform",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Veilstone City"
+    ],
+    "requires": "|HM08 Rock Climb| AND |Icicle Badge|"
+  },
+  {
+    "name": "Veilstone City - Item Next to Galactic Building",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Veilstone City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Veilstone City - Hidden Item in Pit With Two Meteorites",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Veilstone City"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Veilstone City - TM63 from Roughneck Near Gym",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Veilstone City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Veilstone City - Coin Case from Clown in House",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Veilstone City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Veilstone Gym - Cobble Badge from Maylene",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Veilstone City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Veilstone Gym - TM60 from Maylene",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Veilstone City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Galactic Warehouse - HM02 with Looker",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Galactic Warehouse"
+    ],
+    "requires": "|[EVENT] Warehouse Grunts Defeated|"
+  },
+  {
+    "name": "Galactic Warehouse - Item By Computer",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Galactic Warehouse"
+    ],
+    "requires": "|[EVENT] Warehouse Grunts Defeated| AND (|[EVENT] Looker Takes Storage Key| OR |Storage Key|)"
+  },
+  {
+    "name": "Galactic Warehouse - Item By Boxes",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Galactic Warehouse"
+    ],
+    "requires": "|[EVENT] Warehouse Grunts Defeated| AND (|[EVENT] Looker Takes Storage Key| OR |Storage Key|)"
+  },
+  {
+    "name": "Galactic Warehouse - Item in Room With Boxes and Green Warp",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Galactic Warehouse"
+    ],
+    "requires": "|[EVENT] Warehouse Grunts Defeated| AND (|[EVENT] Looker Takes Storage Key| OR |Storage Key|)"
+  },
+  {
+    "name": "Galactic Warehouse - Hidden Item Near Team Galactic Credo",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Galactic Warehouse"
+    ],
+    "requires": "|[EVENT] Warehouse Grunts Defeated| AND (|[EVENT] Looker Takes Storage Key| OR |Storage Key|) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Galactic Warehouse - Item in Many Generators Room",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Galactic Warehouse"
+    ],
+    "requires": "|[EVENT] Warehouse Grunts Defeated| AND (|[EVENT] Looker Takes Storage Key| OR |Storage Key|) AND |Galactic Key|"
+  },
+  {
+    "name": "Galactic Warehouse - Item Next to Table",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Galactic Warehouse"
+    ],
+    "requires": "|[EVENT] Warehouse Grunts Defeated| AND (|[EVENT] Looker Takes Storage Key| OR |Storage Key|)"
+  },
+  {
+    "name": "Galactic Warehouse - Item Sitting in Puddle",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Galactic Warehouse"
+    ],
+    "requires": "|[EVENT] Warehouse Grunts Defeated| AND (|[EVENT] Looker Takes Storage Key| OR |Storage Key|)"
+  },
+  {
+    "name": "Galactic Warehouse - Galactic Key Next to Locked Door",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Galactic Warehouse"
+    ],
+    "requires": "|[EVENT] Warehouse Grunts Defeated| AND (|[EVENT] Looker Takes Storage Key| OR |Storage Key|)"
+  },
+  {
+    "name": "Galactic HQ - Item in Room with Two Generators",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Galactic HQ"
+    ],
+    "requires": "|Galactic Key|"
+  },
+  {
+    "name": "Galactic HQ - Hidden Item in Room with Four Boxes",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Galactic HQ"
+    ],
+    "requires": "|Galactic Key| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Galactic HQ - Item in Room with Four Boxes",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Galactic HQ"
+    ],
+    "requires": "|Galactic Key|"
+  },
+  {
+    "name": "Galactic HQ - Hidden Item in Bed",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Galactic HQ"
+    ],
+    "requires": "|Galactic Key| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Galactic HQ - Hidden Item by Three Teleporters",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Galactic HQ"
+    ],
+    "requires": "|Galactic Key| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Galactic HQ - Item Behind Box",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Galactic HQ"
+    ],
+    "requires": "|Galactic Key|"
+  },
+  {
+    "region": "Eastern Sinnoh",
+    "name": "Galactic HQ - Item in Room with Two Tables",
+    "category": [
+      "Galactic HQ"
+    ],
+    "requires": "|Galactic Key|"
+  },
+  {
+    "name": "Galactic HQ - Hidden Item in Box in Room with Two Tables",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Galactic HQ"
+    ],
+    "requires": "|Galactic Key| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Galactic HQ - Master Ball from Cyrus",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Galactic HQ"
+    ],
+    "requires": "|Galactic Key|"
+  },
+  {
+    "name": "Galactic HQ - Hidden Item in Room Next to Cyrus",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Galactic HQ"
+    ],
+    "requires": "|Galactic Key| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Galactic HQ Secret Lab - Item Next to Three Machines",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Galactic HQ"
+    ],
+    "requires": "|Galactic Key|"
+  },
+  {
+    "name": "Galactic HQ - Hidden Item Near Entrance in Green Warp Room",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Galactic HQ"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 214 - Item Across Pond",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Route 214"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Maniac Tunnel - Item Next to Entrance",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Route 214"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 214 - Item in Fence Area With Trainers",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Route 214"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 214 - Hidden Item in Corner Above Beauty",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Route 214"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 214 - Hidden Item in Ring of Grass Around Fence",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 214"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 214 - Item in Fence Dead End Above Honey Tree",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 214"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 214 - Item Near Breakable Rocks",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Route 214"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 214 - Hidden Item in Corner of Long Grass",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 214"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 214 - Item in Grass Near Honey Tree",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Route 214"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Valor Lakefront - Item in Grass",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Valor Lakefront"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Valor Lakefront - Hidden Item in Upper Corner of Grass",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Valor Lakefront"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Valor Lakefront - Item After Rock Climb Ledges 1",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Valor Lakefront",
+      "Hotel Grand Lake"
+    ],
+    "requires": "|HM08 Rock Climb| AND |Icicle Badge|"
+  },
+  {
+    "name": "Valor Lakefront - Item After Rock Climb Ledges 2",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Valor Lakefront",
+      "Hotel Grand Lake"
+    ],
+    "requires": "|HM08 Rock Climb| AND |Icicle Badge|"
+  },
+  {
+    "name": "Valor Lakefront - Hidden Item After Rock Climbing From Route 213",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Valor Lakefront",
+      "Hotel Grand Lake"
+    ],
+    "requires": "|HM08 Rock Climb| AND |Icicle Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Valor Lakefront - Gift from Locked Out Woman",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Valor Lakefront",
+      "Hotel Grand Lake"
+    ],
+    "requires": "|Suite Key|"
+  },
+  {
+    "name": "Valor Lakefront - SecretPotion from Cynthia",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Valor Lakefront"
+    ],
+    "requires": "|[EVENT] Pastoria Gym Cleared|"
+  },
+  {
+    "name": "Route 213 - Hidden Item Under Pool Umbrella",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 213",
+      "Hotel Grand Lake"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 213 - Item South of Pool",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Route 213",
+      "Hotel Grand Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 213 - Coin Toss App from Rich Boy in Rock Climb House",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Apps",
+      "Route 213",
+      "Hotel Grand Lake"
+    ],
+    "requires": "|HM08 Rock Climb| AND |Icicle Badge|"
+  },
+  {
+    "name": "Route 213 - Hidden Item in Trash Can in Rock Climb House",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 213",
+      "Hotel Grand Lake"
+    ],
+    "requires": "|HM08 Rock Climb| AND |Icicle Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 213 - Item Down East Rock Climb Slopes",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Route 213",
+      "Hotel Grand Lake"
+    ],
+    "requires": "|HM08 Rock Climb| AND |Icicle Badge|"
+  },
+  {
+    "name": "Route 213 - TM92 from Clown in NW House",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Route 213",
+      "Hotel Grand Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 213 - Hidden Suite Key By Reception",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 213",
+      "Hotel Grand Lake"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 213 - Item to Left of Hotel Entrance",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Route 213",
+      "Hotel Grand Lake"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 213 - Hidden Item on Beach East Side 1",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 213"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 213 - Hidden Item on Beach East Side 2",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 213"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 213 - Hidden Item on Beach Near Tubers",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 213"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 213 - Hidden Item in Rock Corner Behind Fisherman",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 213"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 213 - Hidden Item Below Footstep's House 1",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 213"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 213 - Hidden Item Below Footstep's House 2",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 213"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 213 - Item Behind Breakable Rock on Beach",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Route 213"
+    ],
+    "requires": "|HM06 Rock Smash| AND |Coal Badge|"
+  },
+  {
+    "name": "Route 213 - Hidden Item Next to Honey Tree",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 213"
+    ],
+    "requires": "|HM06 Rock Smash| AND |Coal Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 213 - Hidden Item in Grass After Rock Climb Slope",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 213"
+    ],
+    "requires": "|HM08 Rock Climb| AND |Icicle Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 213 - Item By Grass After Rock Climb Slope",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Route 213"
+    ],
+    "requires": "|HM08 Rock Climb| AND |Icicle Badge|"
+  },
+  {
+    "name": "Route 213 - Hidden Item on Sandy Island",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 213"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 213 - Item on Sandy Island",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Route 213"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "region": "Lower East Sinnoh",
+    "name": "Route 213 - Hidden Item on Southeast White Rock",
+    "category": [
+      "Hidden Items",
+      "Route 213"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "region": "Lower East Sinnoh",
+    "name": "Route 213 - Item on Small Island Above Swimmers",
+    "category": [
+      "Route 213"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Pastoria City - Gift from Parasol Lady",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Pastoria City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pastoria City - Hidden Item in Southwest Puddle",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Pastoria City"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Pastoria City - Item in Trees Above Boats",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Pastoria City"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Pastoria Gym - Fen Badge from Crasher Wake",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Pastoria City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pastoria Gym - TM55 from Crasher Wake",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Pastoria City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Great Marsh - Matchup Checker App from Cowgirl",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Great Marsh"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Great Marsh Area 6 - Hidden Item in Southeast Deep Mud",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Great Marsh"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Great Marsh Area 6 - Item Below Pond",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Great Marsh"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Lower East Sinnoh",
+    "name": "Great Marsh Area 6 - Item Below Bug Catcher",
+    "category": [
+      "Great Marsh"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Great Marsh Area 5 - Item in Southwest Area",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Great Marsh"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Great Marsh Area 5 - Hidden Item in Bottom Right Corner of SW Muddy Grass",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Great Marsh"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Great Marsh Area 4 - Hidden Item in SW Corner of Muddy Grass",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Great Marsh"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Great Marsh Area 4 - Item Above Bug Catcher",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Great Marsh"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Great Marsh Area 3 - Hidden Item in Center of East Mud Puddle",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Great Marsh"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Great Marsh Area 3 - Item in Front of Man",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Great Marsh"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Great Marsh Area 2 - Hidden Item in Deep Mud Behind Parasol Lady",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Great Marsh"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Great Marsh Area 2 - Item Above Ledge",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Great Marsh"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Great Marsh Area 1 - Upper Item Between Mud Patches",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Great Marsh"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Great Marsh Area 1 - Hidden Item in Northwest Corner of Deep Mud",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Great Marsh"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Great Marsh Area 1 - Lower Item Between Mud Patches",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Great Marsh"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 212 South - Hidden Item in Mud Near Pastoria 1",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 212 South"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 212 South - Hidden Item in Mud Near Pastoria 2",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 212 South"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 212 South - Hidden Item in Mud Near Pastoria 3",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 212 South"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 212 South - Item Under Eastern Bike Bridge",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Route 212 South"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 212 South - Item in SE Corner of Big Mud Patch",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Route 212 South"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 212 South - Item Near Scientist Between Cut Trees",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Route 212 South"
+    ],
+    "requires": "|Bicycle| AND |HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Route 212 South - Item on Ledge Above Move Tutor",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Route 212 South"
+    ],
+    "requires": "|Bicycle| AND |HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Route 212 South - Item Below Honey Tree",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Route 212 South"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 212 South - Hidden Item in Deep Mud South of Honey Tree",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 212 South"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 212 South - Hidden Item in Deep Mud Far South of Honey Tree",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 212 South"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 212 South - Hidden Item in Deep Mud West of Honey Tree",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 212 South"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 212 South - Item on Northeast Island Past Bike Bridge",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Route 212 South"
+    ],
+    "requires": "|Bicycle|"
+  },
+  {
+    "name": "Route 212 South - Hidden Item Below Two Trees on Corner",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 212 South"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 212 South - Item By Grass Patch in Water",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Route 212 South"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Route 212 South - Hidden Item on SW Bike Bridge Island",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 212 South"
+    ],
+    "requires": "|Bicycle| AND |HM01 Cut| AND |Forest Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 212 South - Item in Bottom Left of West Grass Area",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Route 212 South"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 212 South - Item in Top Left of West Grass Area",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Route 212 South"
+    ],
+    "requires": []
+  },
+  {
+    "category": [
+      "Route 212 North and Pokémon Mansion"
+    ],
+    "requires": [],
+    "name": "Route 212 North - Item Behind Trainer Tips Sign",
+    "region": "Lower East Sinnoh"
+  },
+  {
+    "category": [
+      "Hidden Items",
+      "Route 212 North and Pokémon Mansion"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})",
+    "name": "Route 212 North - Hidden Item in Bush Outside of Mansion Fences",
+    "region": "Lower East Sinnoh"
+  },
+  {
+    "category": [
+      "Hidden Items",
+      "Route 212 North and Pokémon Mansion"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})",
+    "name": "Route 212 North - Hidden Item in Bush By Mansion Entrance",
+    "region": "Lower East Sinnoh"
+  },
+  {
+    "category": [
+      "Route 212 North and Pokémon Mansion"
+    ],
+    "requires": [],
+    "name": "Route 212 North - Item Next to Mansion",
+    "region": "Lower East Sinnoh"
+  },
+  {
+    "category": [
+      "Route 212 North and Pokémon Mansion"
+    ],
+    "requires": "(|HM01 Cut| AND |Forest Badge|) OR (|HM03 Surf| AND |Fen Badge|)",
+    "name": "Route 212 North - Item on West Ledge",
+    "region": "Lower East Sinnoh"
+  },
+  {
+    "category": [
+      "Route 212 North and Pokémon Mansion"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|",
+    "name": "Route 212 North - Item in Flower Patch",
+    "region": "Lower East Sinnoh"
+  },
+  {
+    "category": [
+      "Route 212 North and Pokémon Mansion"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|",
+    "name": "Route 212 North - Item Next to North Pond",
+    "region": "Lower East Sinnoh"
+  },
+  {
+    "category": [
+      "Route 212 North and Pokémon Mansion"
+    ],
+    "requires": [],
+    "name": "Pokémon Mansion - Item in Mr. Backlot's Office",
+    "region": "Lower East Sinnoh"
+  },
+  {
+    "name": "Pokémon Mansion - Hidden Item in East Bedroom Trash",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 212 North and Pokémon Mansion"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Pokémon Mansion - Soothe Bell from Maid in Center Bedroom",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Route 212 North and Pokémon Mansion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pokémon Mansion - Item in West Bedroom",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Route 212 North and Pokémon Mansion"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 210 Mid - Item Near SW Tree",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Route 210 (Northern Side)"
+    ],
+    "requires": "(((|HM06 Rock Smash| AND |Coal Badge|) AND (|Works Key| OR (|HM03 Surf| AND |Fen Badge|) OR |Bicycle|) AND (|HM04 Strength| AND |Mine Badge|)) OR (|Bicycle| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR {YamlDisabled(defog_traversal)})) OR (|[EVENT] Lake Trio Freed from HQ| AND (|HM04 Strength| AND |Mine Badge|) AND (|HM03 Surf| AND |Fen Badge|) AND (|HM08 Rock Climb| AND |Icicle Badge|)) AND ((|HM05 Defog| AND |Relic Badge|) OR {YamlDisabled(defog_traversal)})) OR ((|Bicycle| OR ((|HM06 Rock Smash| AND |Coal Badge|) AND (|Works Key| OR (|HM03 Surf| AND |Fen Badge|)) AND |SecretPotion| AND (|HM04 Strength| AND |Mine Badge|) AND ((|HM05 Defog| AND |Relic Badge|) OR {YamlDisabled(defog_traversal)}))) AND |SecretPotion|)"
+  },
+  {
+    "name": "Route 210 Mid - Hidden Item in SW Long Grass",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 210 (Northern Side)"
+    ],
+    "requires": "(((|HM06 Rock Smash| AND |Coal Badge|) AND (|Works Key| OR (|HM03 Surf| AND |Fen Badge|) OR |Bicycle|) AND (|HM04 Strength| AND |Mine Badge|)) OR (|Bicycle| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR {YamlDisabled(defog_traversal)})) OR (|[EVENT] Lake Trio Freed from HQ| AND (|HM04 Strength| AND |Mine Badge|) AND (|HM03 Surf| AND |Fen Badge|) AND (|HM08 Rock Climb| AND |Icicle Badge|)) AND ((|HM05 Defog| AND |Relic Badge|) OR {YamlDisabled(defog_traversal)})) OR ((|Bicycle| OR ((|HM06 Rock Smash| AND |Coal Badge|) AND (|Works Key| OR (|HM03 Surf| AND |Fen Badge|)) AND |SecretPotion| AND (|HM04 Strength| AND |Mine Badge|) AND ((|HM05 Defog| AND |Relic Badge|) OR {YamlDisabled(defog_traversal)}))) AND |SecretPotion|) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 210 Mid - Hidden Item in NW Long Grass",
+    "region": "Lower East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 210 (Northern Side)"
+    ],
+    "requires": "(((|HM06 Rock Smash| AND |Coal Badge|) AND (|Works Key| OR (|HM03 Surf| AND |Fen Badge|) OR |Bicycle|) AND (|HM04 Strength| AND |Mine Badge|)) OR (|Bicycle| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR {YamlDisabled(defog_traversal)})) OR (|[EVENT] Lake Trio Freed from HQ| AND (|HM04 Strength| AND |Mine Badge|) AND (|HM03 Surf| AND |Fen Badge|) AND (|HM08 Rock Climb| AND |Icicle Badge|)) AND ((|HM05 Defog| AND |Relic Badge|) OR {YamlDisabled(defog_traversal)})) OR ((|Bicycle| OR ((|HM06 Rock Smash| AND |Coal Badge|) AND (|Works Key| OR (|HM03 Surf| AND |Fen Badge|)) AND |SecretPotion| AND (|HM04 Strength| AND |Mine Badge|) AND ((|HM05 Defog| AND |Relic Badge|) OR {YamlDisabled(defog_traversal)}))) AND |SecretPotion|) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 210 Mid - Hidden Item in NE Long Grass",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 210 (Northern Side)"
+    ],
+    "requires": "(((|HM06 Rock Smash| AND |Coal Badge|) AND (|Works Key| OR (|HM03 Surf| AND |Fen Badge|) OR |Bicycle|) AND (|HM04 Strength| AND |Mine Badge|)) OR (|Bicycle| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR {YamlDisabled(defog_traversal)})) OR (|[EVENT] Lake Trio Freed from HQ| AND (|HM04 Strength| AND |Mine Badge|) AND (|HM03 Surf| AND |Fen Badge|) AND (|HM08 Rock Climb| AND |Icicle Badge|)) AND ((|HM05 Defog| AND |Relic Badge|) OR {YamlDisabled(defog_traversal)})) OR ((|Bicycle| OR ((|HM06 Rock Smash| AND |Coal Badge|) AND (|Works Key| OR (|HM03 Surf| AND |Fen Badge|)) AND |SecretPotion| AND (|HM04 Strength| AND |Mine Badge|) AND ((|HM05 Defog| AND |Relic Badge|) OR {YamlDisabled(defog_traversal)}))) AND |SecretPotion|) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 210 Mid - Hidden Item in SE Long Grass",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 210 (Northern Side)"
+    ],
+    "requires": "(((|HM06 Rock Smash| AND |Coal Badge|) AND (|Works Key| OR (|HM03 Surf| AND |Fen Badge|) OR |Bicycle|) AND (|HM04 Strength| AND |Mine Badge|)) OR (|Bicycle| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR {YamlDisabled(defog_traversal)})) OR (|[EVENT] Lake Trio Freed from HQ| AND (|HM04 Strength| AND |Mine Badge|) AND (|HM03 Surf| AND |Fen Badge|) AND (|HM08 Rock Climb| AND |Icicle Badge|)) AND ((|HM05 Defog| AND |Relic Badge|) OR {YamlDisabled(defog_traversal)})) OR ((|Bicycle| OR ((|HM06 Rock Smash| AND |Coal Badge|) AND (|Works Key| OR (|HM03 Surf| AND |Fen Badge|)) AND |SecretPotion| AND (|HM04 Strength| AND |Mine Badge|) AND ((|HM05 Defog| AND |Relic Badge|) OR {YamlDisabled(defog_traversal)}))) AND |SecretPotion|) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 210 Mid - Item in Center",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Route 210 (Northern Side)"
+    ],
+    "requires": "(((|HM06 Rock Smash| AND |Coal Badge|) AND (|Works Key| OR (|HM03 Surf| AND |Fen Badge|) OR |Bicycle|) AND (|HM04 Strength| AND |Mine Badge|)) OR (|Bicycle| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR {YamlDisabled(defog_traversal)})) OR (|[EVENT] Lake Trio Freed from HQ| AND (|HM04 Strength| AND |Mine Badge|) AND (|HM03 Surf| AND |Fen Badge|) AND (|HM08 Rock Climb| AND |Icicle Badge|)) AND ((|HM05 Defog| AND |Relic Badge|) OR {YamlDisabled(defog_traversal)})) OR ((|Bicycle| OR ((|HM06 Rock Smash| AND |Coal Badge|) AND (|Works Key| OR (|HM03 Surf| AND |Fen Badge|)) AND |SecretPotion| AND (|HM04 Strength| AND |Mine Badge|) AND ((|HM05 Defog| AND |Relic Badge|) OR {YamlDisabled(defog_traversal)}))) AND |SecretPotion|)"
+  },
+  {
+    "name": "Route 210 Mid - Item in NE Grass Corner",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Route 210 (Northern Side)"
+    ],
+    "requires": "(((|HM06 Rock Smash| AND |Coal Badge|) AND (|Works Key| OR (|HM03 Surf| AND |Fen Badge|) OR |Bicycle|) AND (|HM04 Strength| AND |Mine Badge|)) OR (|Bicycle| AND |SecretPotion| AND ((|HM05 Defog| AND |Relic Badge|) OR {YamlDisabled(defog_traversal)})) OR (|[EVENT] Lake Trio Freed from HQ| AND (|HM04 Strength| AND |Mine Badge|) AND (|HM03 Surf| AND |Fen Badge|) AND (|HM08 Rock Climb| AND |Icicle Badge|)) AND ((|HM05 Defog| AND |Relic Badge|) OR {YamlDisabled(defog_traversal)})) OR ((|Bicycle| OR ((|HM06 Rock Smash| AND |Coal Badge|) AND (|Works Key| OR (|HM03 Surf| AND |Fen Badge|)) AND |SecretPotion| AND (|HM04 Strength| AND |Mine Badge|) AND ((|HM05 Defog| AND |Relic Badge|) OR {YamlDisabled(defog_traversal)}))) AND |SecretPotion|)"
+  },
+  {
+    "name": "Route 210 North - Item to Left of Grass",
+    "region": "Upper East Sinnoh",
+    "category": [
+      "Route 210 (Northern Side)"
+    ],
+    "requires": "((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)}))"
+  },
+  {
+    "name": "Route 210 North - Item Below Move Tutor",
+    "region": "Upper East Sinnoh",
+    "category": [
+      "Route 210 (Northern Side)"
+    ],
+    "requires": "((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)})) AND |HM08 Rock Climb| AND |Icicle Badge|"
+  },
+  {
+    "name": "Route 210 North - Hidden Item on Ledge in Pit",
+    "region": "Upper East Sinnoh",
+    "category": [
+      "Route 210 (Northern Side)",
+      "Hidden Items"
+    ],
+    "requires": "((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)})) AND |HM08 Rock Climb| AND |Icicle Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 210 North - Hidden Item up East Waterfall",
+    "region": "Upper East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 210 (Northern Side)"
+    ],
+    "requires": "((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)})) AND |HM03 Surf| AND |Fen Badge| AND |HM07 Waterfall| AND |Beacon Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 210 North - Item Under West Bridge",
+    "region": "Upper East Sinnoh",
+    "category": [
+      "Route 210 (Northern Side)"
+    ],
+    "requires": "((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)})) AND |HM03 Surf| AND |Fen Badge| AND |HM07 Waterfall| AND |Beacon Badge|"
+  },
+  {
+    "name": "Route 210 North - Item Behind Breakable Rocks",
+    "region": "Upper East Sinnoh",
+    "category": [
+      "Route 210 (Northern Side)"
+    ],
+    "requires": "((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)})) AND |Bicycle| AND |HM06 Rock Smash| AND |Coal Badge|"
+  },
+  {
+    "name": "Route 210 North - Item Next to Ninja Boy Under Bridge",
+    "region": "Upper East Sinnoh",
+    "category": [
+      "Route 210 (Northern Side)"
+    ],
+    "requires": "((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)}))"
+  },
+  {
+    "name": "Celestic Town - Gift from Man in Pokémon Center",
+    "region": "Upper East Sinnoh",
+    "category": [
+      "Celestic Town"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Celestic Town - Analog Watch App from Black Belt in House",
+    "region": "Upper East Sinnoh",
+    "category": [
+      "Celestic Town"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Celestic Town - Glasses Man in Shop 1",
+    "region": "Upper East Sinnoh",
+    "category": [
+      "Celestic Town"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Celestic Town - Glasses Man in Shop 2",
+    "region": "Upper East Sinnoh",
+    "category": [
+      "Celestic Town"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Celestic Town - Glasses Man in Shop 3",
+    "region": "Upper East Sinnoh",
+    "category": [
+      "Apps",
+      "Celestic Town"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Celestic Town - Item Below Shrine Right Stairs",
+    "region": "Upper East Sinnoh",
+    "category": [
+      "Celestic Town"
+    ],
+    "requires": "|Old Charm|"
+  },
+  {
+    "name": "Celestic Town - Hidden Item Above Shrine Left Stairs",
+    "region": "Upper East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Celestic Town"
+    ],
+    "requires": "|Old Charm| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Celestic Town - HM03 from Cynthia's Grandmother",
+    "region": "Upper East Sinnoh",
+    "category": [
+      "Celestic Town"
+    ],
+    "requires": "|Old Charm|"
+  },
+  {
+    "name": "Route 211 East - Item in Grass",
+    "region": "Upper East Sinnoh",
+    "category": [
+      "Route 211"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 211 East - TM77 from Ace Trainer",
+    "region": "Upper East Sinnoh",
+    "category": [
+      "Route 211"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 211 East - Hidden Item Up Rock Climb Slope",
+    "region": "Upper East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 211"
+    ],
+    "requires": "|HM08 Rock Climb| AND |Icicle Badge| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 211 East - Item Up Rock Climb Slope",
+    "region": "Upper East Sinnoh",
+    "category": [
+      "Route 211"
+    ],
+    "requires": "|HM08 Rock Climb| AND |Icicle Badge| AND |HM06 Rock Smash| AND |Coal Badge|"
+  },
+  {
+    "name": "Mt. Coronet B1F - Item in SW Corner",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Mt. Coronet (North Entrance)"
+    ],
+    "requires": "|HM06 Rock Smash| AND |Coal Badge| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)}))"
+  },
+  {
+    "name": "Mt. Coronet B1F - Hidden Item in SW White Rock",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (North Entrance)"
+    ],
+    "requires": "|HM06 Rock Smash| AND |Coal Badge| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)})) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet B1F - Hidden Item Behind Breakable Rock West of Lake",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (North Entrance)"
+    ],
+    "requires": "|HM06 Rock Smash| AND |Coal Badge| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)})) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet B1F - Item in Middle of Lake",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Mt. Coronet (North Entrance)"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)}))"
+  },
+  {
+    "name": "Mt. Coronet B1F - Item Behind West Boulder",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Mt. Coronet (North Entrance)"
+    ],
+    "requires": "|HM06 Rock Smash| AND |Coal Badge| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)}))"
+  },
+  {
+    "name": "Mt. Coronet B1F - Hidden Item Between White Rocks in North",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (North Entrance)"
+    ],
+    "requires": "((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)})) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet B1F - Item in Northeast Corner of Lake",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Mt. Coronet (North Entrance)"
+    ],
+    "requires": "((|HM06 Rock Smash| AND |Coal Badge|) OR (|HM03 Surf| AND |Fen Badge|)) AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)}))"
+  },
+  {
+    "name": "Mt. Coronet B1F - Item Behind Boulder",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Mt. Coronet (North Entrance)"
+    ],
+    "requires": "((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)}))"
+  },
+  {
+    "name": "Mt. Coronet B1F - Item Against East Wall",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Mt. Coronet (North Entrance)"
+    ],
+    "requires": "|HM06 Rock Smash| AND |Coal Badge| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)}))"
+  },
+  {
+    "name": "Mt. Coronet B1F - Hidden Item in Front of North Stairs",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (North Entrance)"
+    ],
+    "requires": "((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)})) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet (Exit to Route 216 Room) - Hidden Item on Left White Rock",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (North Entrance)"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Iceberg Ruins - Item in Center",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Mt. Coronet (North Entrance)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Iceberg Ruins - Hidden Item Up and Left of Center",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (North Entrance)"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 216 - Hidden Item South of East Bridge",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Route 216"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 216 - Item North of Middle Bridge",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Route 216"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 216 - Item South of West Bridge",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Route 216"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 216 - Left Item on Rock Climb Ledge",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Route 216"
+    ],
+    "requires": "|HM08 Rock Climb| AND |Icicle Badge|"
+  },
+  {
+    "name": "Route 216 - Top Item on Rock Climb Ledge",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Route 216"
+    ],
+    "requires": "|HM08 Rock Climb| AND |Icicle Badge|"
+  },
+  {
+    "name": "Route 216 - Bottom Item on Rock Climb Ledge",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Route 216"
+    ],
+    "requires": "|HM08 Rock Climb| AND |Icicle Badge|"
+  },
+  {
+    "name": "Route 216 - Right Item on Rock Climb Ledge",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Route 216"
+    ],
+    "requires": "|HM08 Rock Climb| AND |Icicle Badge|"
+  },
+  {
+    "name": "Route 217 - Item in South Far Below Tree",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Route 217"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 217 - Hidden Item in Corner of SW Group of Trees",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Hidden Items on Route 217",
+      "Route 217"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine_on_route_217)})"
+  },
+  {
+    "name": "Route 217 - Hidden Item in South in Center",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Hidden Items on Route 217",
+      "Route 217"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine_on_route_217)})"
+  },
+  {
+    "name": "Route 217 - SE Item Between Ninja Boy and Skier",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Route 217"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 217 - SE Hidden Item Between Ninja Boy and Skier",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Hidden Items on Route 217",
+      "Route 217"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine_on_route_217)})"
+  },
+  {
+    "name": "Route 217 - Item in Center Between Tree Pairs",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Route 217"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 217 - Hidden Item Above SW Group of Trees",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Hidden Items on Route 217",
+      "Route 217"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine_on_route_217)})"
+  },
+  {
+    "name": "Route 217 - Hidden Item North of Lower Right Pair of Trees",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Hidden Items on Route 217",
+      "Route 217"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine_on_route_217)})"
+  },
+  {
+    "name": "Route 217 - Hidden Item North of Lower Left Pair of Trees",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Hidden Items on Route 217",
+      "Route 217"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine_on_route_217)})"
+  },
+  {
+    "name": "Route 217 - Item Southeast of Hiker's House",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Route 217"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 217 - Gift from Hiker",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Route 217"
+    ],
+    "requires": "|HM08 Rock Climb|"
+  },
+  {
+    "name": "Route 217 - HM08 Above Hiker's House",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Route 217"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 217 - Hidden Item Near Skier Above Hiker's House",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Hidden Items on Route 217",
+      "Route 217"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine_on_route_217)})"
+  },
+  {
+    "name": "Route 217 - Hidden Item North of Middle Pair of Trees",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Hidden Items on Route 217",
+      "Route 217"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine_on_route_217)})"
+  },
+  {
+    "name": "Route 217 - Item Far East of Hiker's House",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Route 217"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 217 - Hidden Item Near Skier Far East of Hiker's House",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Hidden Items on Route 217",
+      "Route 217"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine_on_route_217)})"
+  },
+  {
+    "name": "Route 217 - Hidden Item Below Ghost's House",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Hidden Items on Route 217",
+      "Route 217"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine_on_route_217)})"
+  },
+  {
+    "name": "Route 217 - Spell Tag from Ghost Woman",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Route 217"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Acuity Lakefront - NE Item",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Acuity Lakefront"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Acuity Lakefront - Item East of Lake Entrance",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Acuity Lakefront"
+    ],
+    "requires": "|HM08 Rock Climb| AND |Icicle Badge|"
+  },
+  {
+    "name": "Lake Acuity - Item in NE Corner of Lake",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Lake Acuity"
+    ],
+    "requires": "|HM08 Rock Climb| AND |Icicle Badge| AND |HM03 Surf| AND |Fen Badge| AND |[EVENT] Lake Verity Cleared|"
+  },
+  {
+    "name": "Lake Valor - Hidden Item By Pile of Magikarp During Saturn Takeover",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Lake Valor"
+    ],
+    "requires": "|[EVENT] Bombs Heard at Canalave| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Lake Valor - Item in SE Corner of Lake",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Lake Valor"
+    ],
+    "requires": "|[EVENT] Cyrus Beaten At Distortion World|"
+  },
+  {
+    "name": "Snowpoint City - Item Below Crane",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Snowpoint City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Snowpoint City - Hidden Item Against Trees East of Gym",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Snowpoint City"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "region": "Northern Sinnoh",
+    "name": "Snowpoint Gym - Icicle Badge from Candice",
+    "category": [
+      "Snowpoint City"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Northern Sinnoh",
+    "name": "Snowpoint Gym - TM72 from Candice",
+    "category": [
+      "Snowpoint City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Snowpoint Temple B1F - Bottom Right Item",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Snowpoint Temple"
+    ],
+    "requires": "|Progressive Pokédex:3|"
+  },
+  {
+    "region": "Northern Sinnoh",
+    "name": "Snowpoint Temple B3F - Hidden Item on Rock Between Staircases",
+    "category": [
+      "Hidden Items",
+      "Snowpoint Temple"
+    ],
+    "requires": "|Progressive Pokédex:3| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "region": "Northern Sinnoh",
+    "name": "Snowpoint Temple B4F - Item Past Ice Tile",
+    "category": [
+      "Snowpoint Temple"
+    ],
+    "requires": "|Progressive Pokédex:3|"
+  },
+  {
+    "name": "Fight Area - Gift from Woman in Poké Mart",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Fight Area"
+    ],
+    "requires": "|S.S. Ticket|"
+  },
+  {
+    "name": "Fight Area - Super Rod from Fisherman",
+    "region": "Battle Zone",
+    "category": [
+      "Fight Area",
+      "PostFV"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 225 - Item on SW Hill",
+    "region": "Battle Zone",
+    "category": [
+      "Route 225",
+      "PostFV"
+    ],
+    "requires": "|HM08 Rock Climb| AND |Icicle Badge|"
+  },
+  {
+    "name": "Route 225 - Item Behind Cut Trees Near Trainer Trio",
+    "region": "Battle Zone",
+    "category": [
+      "Route 225",
+      "PostFV"
+    ],
+    "requires": "|HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "region": "Battle Zone",
+    "name": "Route 225 - Item SW in Bridge Section",
+    "category": [
+      "Route 225",
+      "PostFV"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Battle Zone",
+    "name": "Route 225 - Hidden Item Between Two Bridges Below An Ace Trainer",
+    "category": [
+      "Hidden Items",
+      "Route 225",
+      "PostFV"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 225 - Hidden Item in Grass NE in Bridge Section",
+    "region": "Battle Zone",
+    "category": [
+      "Hidden Items",
+      "Route 225",
+      "PostFV"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 225 - Item West of Bridge Section",
+    "region": "Battle Zone",
+    "category": [
+      "Route 225",
+      "PostFV"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Battle Zone",
+    "name": "Route 225 - Hidden Item in Corner of Grass Below House",
+    "category": [
+      "Hidden Items",
+      "Route 225",
+      "PostFV"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 225 - Item Behind Cut Trees Next to House",
+    "region": "Battle Zone",
+    "category": [
+      "Route 225",
+      "PostFV"
+    ],
+    "requires": "|HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Route 225 - Gift from Man in House",
+    "region": "Battle Zone",
+    "category": [
+      "Route 225",
+      "PostFV"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 225 - Item Across Lake Above House",
+    "region": "Battle Zone",
+    "category": [
+      "Route 225",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Route 225 - Item in Grass Corner on North Side",
+    "region": "Battle Zone",
+    "category": [
+      "Route 225",
+      "PostFV"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 225 - Hidden Item in Center of Northernmost Grass Patch",
+    "region": "Battle Zone",
+    "category": [
+      "Hidden Items",
+      "Route 225",
+      "PostFV"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 225 - Item on Northern Rock Climb Ledge",
+    "region": "Battle Zone",
+    "category": [
+      "Route 225",
+      "PostFV"
+    ],
+    "requires": "|HM08 Rock Climb| AND |Icicle Badge|"
+  },
+  {
+    "name": "Survival Area - Item Behind Poké Mart",
+    "region": "Battle Zone",
+    "category": [
+      "Survival Area",
+      "PostFV"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Survival Area - Gift from Man in Southern House",
+    "region": "Battle Zone",
+    "category": [
+      "Survival Area",
+      "PostFV"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Survival Area - Hidden Item in Corner of SW Trees",
+    "region": "Battle Zone",
+    "category": [
+      "Hidden Items",
+      "Survival Area",
+      "PostFV"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Survival Area - Item to Left of Move Tutor's House",
+    "region": "Battle Zone",
+    "category": [
+      "Survival Area",
+      "PostFV"
+    ],
+    "requires": "|HM08 Rock Climb| AND |Icicle Badge|"
+  },
+  {
+    "region": "Battle Zone",
+    "name": "Route 226 - Item in SW Trees",
+    "category": [
+      "Route 226",
+      "PostFV"
+    ],
+    "requires": "|HM08 Rock Climb| AND |Icicle Badge|"
+  },
+  {
+    "name": "Route 226 - Item on Ledge Below Berry Patch",
+    "region": "Battle Zone",
+    "category": [
+      "Route 226",
+      "PostFV"
+    ],
+    "requires": "|HM08 Rock Climb| AND |Icicle Badge|"
+  },
+  {
+    "name": "Route 226 - Item on Ledge Below Ace Trainers",
+    "region": "Battle Zone",
+    "category": [
+      "Route 226",
+      "PostFV"
+    ],
+    "requires": "|HM08 Rock Climb| AND |Icicle Badge|"
+  },
+  {
+    "name": "Route 226 - Hidden Item on Grassy Plateau Near Lake 1",
+    "region": "Battle Zone",
+    "category": [
+      "Hidden Items",
+      "Route 226",
+      "PostFV"
+    ],
+    "requires": "|HM08 Rock Climb| AND |Icicle Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 226 - Hidden Item on Grassy Plateau Near Lake 2",
+    "region": "Battle Zone",
+    "category": [
+      "Hidden Items",
+      "Route 226",
+      "PostFV"
+    ],
+    "requires": "|HM08 Rock Climb| AND |Icicle Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 226 - Hidden Item on Grassy Plateau Near Lake 3",
+    "region": "Battle Zone",
+    "category": [
+      "Hidden Items",
+      "Route 226",
+      "PostFV"
+    ],
+    "requires": "|HM08 Rock Climb| AND |Icicle Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 226 - Hidden Item on Beach Below Rock Climb Area",
+    "region": "Battle Zone",
+    "category": [
+      "Hidden Items",
+      "Route 226",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 226 - Hidden Item in Tree Gap North of Meister's House",
+    "region": "Battle Zone",
+    "category": [
+      "Hidden Items",
+      "Route 226",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 230 - Item on Island West Side",
+    "region": "Battle Zone",
+    "category": [
+      "Route 230",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |HM06 Rock Smash| AND |Coal Badge|"
+  },
+  {
+    "name": "Route 230 - Hidden Island on Island North Side",
+    "region": "Battle Zone",
+    "category": [
+      "Hidden Items",
+      "Route 230",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 230 - Hidden Item on Island East Side Behind Breakable Rock",
+    "region": "Battle Zone",
+    "category": [
+      "Hidden Items",
+      "Route 230",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 230 - Item on Island East Side",
+    "region": "Battle Zone",
+    "category": [
+      "Route 230",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |HM06 Rock Smash| AND |Coal Badge|"
+  },
+  {
+    "name": "Route 229 - Item in Center Behind Cut Tree",
+    "region": "Battle Zone",
+    "category": [
+      "Route 229",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Route 229 - Item in NE Corner",
+    "region": "Battle Zone",
+    "category": [
+      "Route 229",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Route 229 - First Gift from Nugget Man",
+    "region": "Battle Zone",
+    "category": [
+      "Route 229",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Route 229 - Second Gift from Nugget Man",
+    "region": "Battle Zone",
+    "category": [
+      "Route 229",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Route 229 - Item Northeast of Pond",
+    "region": "Battle Zone",
+    "category": [
+      "Route 229",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Route 229 - Hidden Item Southwest of Pond",
+    "region": "Battle Zone",
+    "category": [
+      "Route 229",
+      "Hidden Items",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |HM01 Cut| AND |Forest Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Resort Area - Item Across Pond",
+    "region": "Battle Zone",
+    "category": [
+      "Resort Area",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Resort Area - Hidden Item in Front of Villa",
+    "region": "Battle Zone",
+    "category": [
+      "Hidden Items",
+      "Resort Area",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 228 - Hidden Item in SW Grass",
+    "category": [
+      "Hidden Items",
+      "Route 228",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Bicycle| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})",
+    "region": "Battle Zone"
+  },
+  {
+    "name": "Route 228 - Hidden Item in SE Corner by Rock",
+    "category": [
+      "Hidden Items",
+      "Route 228",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Bicycle| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})",
+    "region": "Battle Zone"
+  },
+  {
+    "name": "Route 228 - Item Across Bike Rail Above Vents",
+    "category": [
+      "Route 228",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Bicycle|",
+    "region": "Battle Zone"
+  },
+  {
+    "name": "Route 228 - Item Southwest of Two Trainers",
+    "region": "Battle Zone",
+    "category": [
+      "Route 228",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|"
+  },
+  {
+    "name": "Route 228 - Hidden Item on Small Rock Near Two-Tree Pond",
+    "region": "Battle Zone",
+    "category": [
+      "Hidden Items",
+      "Route 228",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 228 - Item Northeast of Move Tutor's House",
+    "category": [
+      "Route 228",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|",
+    "region": "Battle Zone"
+  },
+  {
+    "name": "Route 228 - Item Behind Breakable Rocks",
+    "category": [
+      "Route 228",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |HM06 Rock Smash| AND |Coal Badge|",
+    "region": "Battle Zone"
+  },
+  {
+    "name": "Route 228 - Hidden Item in Grass West of Move Tutor's House",
+    "category": [
+      "Hidden Items",
+      "Route 228",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})",
+    "region": "Battle Zone"
+  },
+  {
+    "name": "Route 228 - Hidden Item Above Rock Peak Ruins Left Bike Slope",
+    "category": [
+      "Hidden Items",
+      "Route 228",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})",
+    "region": "Battle Zone"
+  },
+  {
+    "name": "Route 228 - Hidden Item By North Trainer",
+    "category": [
+      "Hidden Items",
+      "Route 228",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})",
+    "region": "Battle Zone"
+  },
+  {
+    "name": "Route 228 - Item in Northernmost Pit",
+    "category": [
+      "Route 228",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND (|Bicycle| OR (|HM02 Fly| AND |Cobble Badge|))",
+    "region": "Battle Zone"
+  },
+  {
+    "name": "Rock Peak Ruins - Item in Center",
+    "category": [
+      "Route 228",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND (|Bicycle| OR (|HM02 Fly| AND |Cobble Badge|))",
+    "region": "Battle Zone"
+  },
+  {
+    "name": "Rock Peak Ruins - Hidden Item Near Top Right",
+    "region": "Battle Zone",
+    "category": [
+      "Hidden Items",
+      "Route 228",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND (|Bicycle| OR (|HM02 Fly| AND |Cobble Badge|)) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 227 - Item By Grass on Ledges",
+    "region": "Battle Zone",
+    "category": [
+      "Route 227",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Bicycle|"
+  },
+  {
+    "name": "Route 227 - Hidden Item on Rock West of Grass on Ledges",
+    "region": "Battle Zone",
+    "category": [
+      "Hidden Items",
+      "Route 227",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Bicycle| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 227 - Hidden Item Northeast of West Pond",
+    "region": "Battle Zone",
+    "category": [
+      "Hidden Items",
+      "Route 227",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Bicycle| AND |HM08 Rock Climb| AND |Icicle Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 227 - Item Next to East Pond",
+    "region": "Battle Zone",
+    "category": [
+      "Route 227",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Bicycle| AND |HM08 Rock Climb| AND |Icicle Badge|"
+  },
+  {
+    "name": "Route 227 - Item Across from Ace Trainer on Ledge",
+    "region": "Battle Zone",
+    "category": [
+      "Route 227",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Bicycle|"
+  },
+  {
+    "name": "Stark Mountain Exterior - Item on Southwest Hill",
+    "region": "Battle Zone",
+    "category": [
+      "Stark Mountain",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Bicycle| AND |HM08 Rock Climb| AND |Icicle Badge|"
+  },
+  {
+    "name": "Stark Mountain Exterior - Item in Top Right Corner",
+    "region": "Battle Zone",
+    "category": [
+      "Stark Mountain",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Bicycle|"
+  },
+  {
+    "region": "Battle Zone",
+    "name": "Stark Mountain First Room - SW Item",
+    "category": [
+      "Stark Mountain",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Bicycle|"
+  },
+  {
+    "region": "Battle Zone",
+    "name": "Stark Mountain First Room - SE Item",
+    "category": [
+      "Stark Mountain",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Bicycle|"
+  },
+  {
+    "region": "Battle Zone",
+    "name": "Stark Mountain First Room - NW Item",
+    "category": [
+      "Stark Mountain",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Bicycle|"
+  },
+  {
+    "region": "Battle Zone",
+    "name": "Stark Mountain First Room - NE Item",
+    "category": [
+      "Stark Mountain",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Bicycle| AND |HM06 Rock Smash| AND |Coal Badge|"
+  },
+  {
+    "region": "Battle Zone",
+    "name": "Stark Mountain First Room - Hidden Item Behind NE Item",
+    "category": [
+      "Hidden Items",
+      "Stark Mountain",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Bicycle| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Stark Mountain Cavern - Hidden Item on Central West Wall",
+    "region": "Battle Zone",
+    "category": [
+      "Hidden Items",
+      "Stark Mountain",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Bicycle| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Stark Mountain Cavern - Hidden Item Down SW Rock Climb Slope",
+    "region": "Battle Zone",
+    "category": [
+      "Hidden Items",
+      "Stark Mountain",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Bicycle| AND |HM06 Rock Smash| AND |Coal Badge| AND |HM08 Rock Climb| AND |Icicle Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Stark Mountain Cavern - Item in SW Pit",
+    "region": "Battle Zone",
+    "category": [
+      "Stark Mountain",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Bicycle| AND |HM06 Rock Smash| AND |Coal Badge|"
+  },
+  {
+    "name": "Stark Mountain Cavern - Item on Top of Central Rock Climb Hill",
+    "region": "Battle Zone",
+    "category": [
+      "Stark Mountain",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Bicycle| AND |HM06 Rock Smash| AND |Coal Badge| AND |HM08 Rock Climb| AND |Icicle Badge|"
+  },
+  {
+    "name": "Stark Mountain Cavern - Item Below West Trainers Past Strength Boulder",
+    "region": "Battle Zone",
+    "category": [
+      "Stark Mountain",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Bicycle| AND |HM06 Rock Smash| AND |Coal Badge|"
+  },
+  {
+    "name": "Stark Mountain Cavern - Item in Central Pit",
+    "region": "Battle Zone",
+    "category": [
+      "Stark Mountain",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Bicycle| AND |HM06 Rock Smash| AND |Coal Badge|"
+  },
+  {
+    "name": "Stark Mountain Cavern - Hidden Item to Left of SE Pit",
+    "region": "Battle Zone",
+    "category": [
+      "Hidden Items",
+      "Stark Mountain",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Bicycle| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Stark Mountain Cavern - Item in SE Pit",
+    "region": "Battle Zone",
+    "category": [
+      "Stark Mountain",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Bicycle| AND |HM06 Rock Smash| AND |Coal Badge|"
+  },
+  {
+    "name": "Stark Mountain Cavern - Hidden Item on Center East Rock",
+    "region": "Battle Zone",
+    "category": [
+      "Hidden Items",
+      "Stark Mountain",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Bicycle| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Stark Mountain Cavern - Item in East Pit",
+    "region": "Battle Zone",
+    "category": [
+      "Stark Mountain",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Bicycle| AND |HM06 Rock Smash| AND |Coal Badge| AND |HM08 Rock Climb| AND |Icicle Badge|"
+  },
+  {
+    "name": "Stark Mountain Cavern - Hidden Item on NE Hill",
+    "region": "Battle Zone",
+    "category": [
+      "Hidden Items",
+      "Stark Mountain",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Bicycle| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Stark Mountain Cavern - Item in NE Corner",
+    "region": "Battle Zone",
+    "category": [
+      "Stark Mountain",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Bicycle| AND |HM06 Rock Smash| AND |Coal Badge| AND |HM08 Rock Climb| AND |Icicle Badge|"
+  },
+  {
+    "name": "Stark Mountain Cavern - Item on Ledge Above Old Man",
+    "region": "Battle Zone",
+    "category": [
+      "Stark Mountain",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Bicycle| AND |HM06 Rock Smash| AND |Coal Badge|"
+  },
+  {
+    "name": "Stark Mountain Cavern - Hidden Item on Rock Next to Center Pit",
+    "region": "Battle Zone",
+    "category": [
+      "Hidden Items",
+      "Stark Mountain",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Bicycle| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Stark Mountain Cavern - Hidden Item on Rock in NW Corner",
+    "region": "Battle Zone",
+    "category": [
+      "Hidden Items",
+      "Stark Mountain",
+      "PostFV"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Bicycle| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet 2F - Gift from Looker",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Mt. Coronet (Past Mural)",
+      "Mt. Coronet (South Entrance)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mt. Coronet 2F - Hidden Item on Rock Down East Staircase After Mural",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Mt. Coronet (Past Mural)",
+      "Hidden Items"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet 3F - Hidden Item in Top Left in Room After Mural",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Mt. Coronet (Past Mural)",
+      "Hidden Items"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "region": "Far East Sinnoh",
+    "name": "Mt. Coronet Outside 1 - Hidden Item in SE Grass",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet Outside 1 - Hidden Item in Grass Above Upper Rock Climb Slope",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet Outside 1 - Hidden Item on Rock in Grass Above Upper Rock Climb Slope",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet Outside 1 - Hidden Item Behind Breakable Rock",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": "|HM06 Rock Smash| AND |Coal Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet Outside 1 - Hidden Item in Big Grass Patch",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet 4F Right - Hidden Item in Rock Up Stairs",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet 4F Right - Hidden Item on Rock Behind Breakable Rock",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": "|HM06 Rock Smash| AND |Coal Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet 4F Right - Hidden Item on Wall Behind Breakable Rock",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": "|HM06 Rock Smash| AND |Coal Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet 4F Room Above Waterfall - Item 1",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge|"
+  },
+  {
+    "name": "Mt. Coronet 4F Room Above Waterfall - Item 2",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge|"
+  },
+  {
+    "name": "Mt. Coronet 4F Room Above Waterfall - Hidden Item in Rock",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet 4F Left - Hidden Item Behind NW Breakable Rock",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": "|HM06 Rock Smash| AND |Coal Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet 4F Left - Hidden Item in Upper Middle",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet 4F Left - Hidden Item on Ledge Above Exit",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet 4F Left - Hidden Item Before Exit",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet Outside 2 - Hidden Item in Corner Behind Breakable Rock",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": "|HM06 Rock Smash| AND |Coal Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet Outside 2 - Hidden Item on Rock in Grass",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet Outside 2 - Hidden Item in Grass North of Strength Boulder",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet Outside 2 - Hidden Item on Ledge Without Grass",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet Outside 2 - Hidden Item on Northmost Rock",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet Outside 2 - Hidden Item in Corner By NW Exit",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet Tunnel to 1F - Hidden Item in White Rock on South Ledge",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet Tunnel to 1F - Hidden Item on Right Path",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet Tunnel to 1F - Hidden Item Behind Breakable Rock on Left",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": "|HM06 Rock Smash| AND |Coal Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet Tunnel to 1F - Hidden Item Above Big White Rock",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": "|HM06 Rock Smash| AND |Coal Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet Tunnel to 1F - Hidden Item on Corner White Rock Before Exit",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": "|HM06 Rock Smash| AND |Coal Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet Tunnel to 1F - Hidden Item Before Exit",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": "|HM06 Rock Smash| AND |Coal Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet (Route 211 Tunnel Room) - Item in Bottom Corridor",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mt. Coronet (Route 211 Tunnel Room) - Hidden Item Above Item in Bottom Corridor",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet 4F - Hidden Item Before 5F",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet 5F - Hidden Item Against East Wall",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Mt. Coronet 5F - Hidden Item in Near Big Rock in SE",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Hidden Items",
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Valor Lakefront - Hidden Item in Corner of Route 222's NW Trees",
+    "region": "Sunyshore and Beyond",
+    "category": [
+      "Hidden Items",
+      "Route 222"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 222 - Item on Ledge",
+    "region": "Sunyshore and Beyond",
+    "category": [
+      "Route 222"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 222 - Hidden Item Below First Rock on Beach",
+    "region": "Sunyshore and Beyond",
+    "category": [
+      "Hidden Items",
+      "Route 222"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 222 - Hidden Item Between Fishermen",
+    "region": "Sunyshore and Beyond",
+    "category": [
+      "Hidden Items",
+      "Route 222"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 222 - Hidden Item in Front of Pikachu House",
+    "region": "Sunyshore and Beyond",
+    "category": [
+      "Hidden Items",
+      "Route 222"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 222 - Item Next to Pikachu House",
+    "region": "Sunyshore and Beyond",
+    "category": [
+      "Route 222"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 222 - Gift From Rich Boy Above Pikachu House",
+    "region": "Sunyshore and Beyond",
+    "category": [
+      "Route 222"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 222 - Hidden Item in Northern Grass",
+    "region": "Sunyshore and Beyond",
+    "category": [
+      "Hidden Items",
+      "Route 222"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 222 - Item Behind Cut Tree",
+    "region": "Sunyshore and Beyond",
+    "category": [
+      "Route 222"
+    ],
+    "requires": "|HM01 Cut| AND |Forest Badge|"
+  },
+  {
+    "name": "Route 222 - Item in Grass Below Fence",
+    "region": "Sunyshore and Beyond",
+    "category": [
+      "Route 222"
+    ],
+    "requires": "(|HM06 Rock Smash| AND |Coal Badge|) OR (|HM03 Surf| AND |Fen Badge|)"
+  },
+  {
+    "name": "Route 222 - Hidden Item in Grass Below Fence 1",
+    "region": "Sunyshore and Beyond",
+    "category": [
+      "Hidden Items",
+      "Route 222"
+    ],
+    "requires": "((|HM06 Rock Smash| AND |Coal Badge|) OR (|HM03 Surf| AND |Fen Badge|)) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 222 - Hidden Item in Grass Below Fence 2",
+    "region": "Sunyshore and Beyond",
+    "category": [
+      "Hidden Items",
+      "Route 222"
+    ],
+    "requires": "((|HM06 Rock Smash| AND |Coal Badge|) OR (|HM03 Surf| AND |Fen Badge|)) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 222 - Hidden Item in Grass Below SE Fence",
+    "region": "Sunyshore and Beyond",
+    "category": [
+      "Hidden Items",
+      "Route 222"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)}) AND (|HM03 Surf| AND |Fen Badge|)"
+  },
+  {
+    "name": "Sunyshore City - Hidden Item in Front of Vista Lighthouse",
+    "region": "Sunyshore and Beyond",
+    "category": [
+      "Hidden Items",
+      "Sunyshore City"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Sunyshore City - Item Down Stairs Behind Vista Lighthouse",
+    "region": "Sunyshore and Beyond",
+    "category": [
+      "Sunyshore City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sunyshore City - Calendar App From Developer",
+    "region": "Sunyshore and Beyond",
+    "category": [
+      "Apps",
+      "Sunyshore City"
+    ],
+    "requires": "(|HM08 Rock Climb| AND |Icicle Badge|)"
+  },
+  {
+    "name": "Sunyshore City - Dot Artist App From Developer",
+    "region": "Sunyshore and Beyond",
+    "category": [
+      "Apps",
+      "Sunyshore City"
+    ],
+    "requires": "(|HM08 Rock Climb| AND |Icicle Badge|)"
+  },
+  {
+    "name": "Sunyshore City - Roulette App From Developer",
+    "region": "Sunyshore and Beyond",
+    "category": [
+      "Apps",
+      "Sunyshore City"
+    ],
+    "requires": "(|HM08 Rock Climb| AND |Icicle Badge|)"
+  },
+  {
+    "name": "Sunyshore City - Hidden Item Near Sunyshore Market",
+    "region": "Sunyshore and Beyond",
+    "category": [
+      "Hidden Items",
+      "Sunyshore City"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Sunyshore Gym - Beacon Badge from Volkner",
+    "region": "Sunyshore and Beyond",
+    "category": [
+      "Sunyshore City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sunyshore Gym - TM57 from Volkner",
+    "region": "Sunyshore and Beyond",
+    "category": [
+      "Sunyshore City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sunyshore City - HM07 from Jasmine",
+    "region": "Sunyshore and Beyond",
+    "category": [
+      "Sunyshore City"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Route 223 - Hidden Item on First Islet",
+    "region": "Sunyshore and Beyond",
+    "category": [
+      "Hidden Items",
+      "Route 223"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)}) AND (|HM03 Surf| AND |Fen Badge|)"
+  },
+  {
+    "name": "Route 223 - Item Surrounded by West Rocks",
+    "region": "Sunyshore and Beyond",
+    "category": [
+      "Route 223"
+    ],
+    "requires": "(|HM03 Surf| AND |Fen Badge|)"
+  },
+  {
+    "name": "Route 223 - Hidden Item to Left of Sailor",
+    "region": "Sunyshore and Beyond",
+    "category": [
+      "Hidden Items",
+      "Route 223"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)}) AND (|HM03 Surf| AND |Fen Badge|)"
+  },
+  {
+    "name": "Route 223 - Item Behind Sailor",
+    "region": "Sunyshore and Beyond",
+    "category": [
+      "Route 223"
+    ],
+    "requires": "(|HM03 Surf| AND |Fen Badge|)"
+  },
+  {
+    "name": "Route 223 - Northwest Item",
+    "region": "Sunyshore and Beyond",
+    "category": [
+      "Route 223"
+    ],
+    "requires": "(|HM03 Surf| AND |Fen Badge|)"
+  },
+  {
+    "name": "Route 223 - Northeast Item",
+    "region": "Sunyshore and Beyond",
+    "category": [
+      "Route 223"
+    ],
+    "requires": "(|HM03 Surf| AND |Fen Badge|)"
+  },
+  {
+    "name": "Victory Road 1F - First Item on Left",
+    "region": "Sunyshore and Beyond",
+    "category": [
+      "Victory Road"
+    ],
+    "requires": "(|HM03 Surf| AND |Fen Badge|) AND (|HM07 Waterfall| AND |Beacon Badge|) AND (|HM08 Rock Climb| AND |Icicle Badge|)"
+  },
+  {
+    "name": "Victory Road 1F - Item Across Bridge",
+    "region": "Sunyshore and Beyond",
+    "category": [
+      "Victory Road"
+    ],
+    "requires": "(|HM03 Surf| AND |Fen Badge|) AND (|HM07 Waterfall| AND |Beacon Badge|)"
+  },
+  {
+    "name": "Victory Road 1F - Hidden Item Before First Staircase to 2F",
+    "region": "Sunyshore and Beyond",
+    "category": [
+      "Victory Road",
+      "Hidden Items"
+    ],
+    "requires": "((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)}) AND (|HM03 Surf| AND |Fen Badge|) AND (|HM07 Waterfall| AND |Beacon Badge|) AND (|HM08 Rock Climb| AND |Icicle Badge|)"
+  },
+  {
+    "name": "Victory Road 2F - NW Item",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road"
+    ],
+    "requires": "|HM06 Rock Smash| AND |Coal Badge| AND |Bicycle|"
+  },
+  {
+    "region": "Victory Road",
+    "name": "Victory Road 2F - Hidden Item Between Ace Trainer and Ledge",
+    "category": [
+      "Victory Road",
+      "Hidden Items"
+    ],
+    "requires": "|HM06 Rock Smash| AND |Coal Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Victory Road 2F - Hidden Item in SE Corner",
+    "region": "Victory Road",
+    "category": [
+      "Hidden Items",
+      "Victory Road"
+    ],
+    "requires": "|HM06 Rock Smash| AND |Coal Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Victory Road 2F - Item Above Ledge",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road"
+    ],
+    "requires": "|HM06 Rock Smash| AND |Coal Badge| AND |Bicycle|"
+  },
+  {
+    "name": "Victory Road 2F - Item in NE",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road"
+    ],
+    "requires": "|HM06 Rock Smash| AND |Coal Badge| AND |Bicycle|"
+  },
+  {
+    "name": "Victory Road 1F - Hidden Item Between Black Belt and Stairs",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road",
+      "Hidden Items"
+    ],
+    "requires": "|HM06 Rock Smash| AND |Coal Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Victory Road B1F - Hidden Item on Rock Below Corner of Water",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road",
+      "Hidden Items"
+    ],
+    "requires": "|HM06 Rock Smash| AND |Coal Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Victory Road B1F - Item in Bottom Right",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge|"
+  },
+  {
+    "name": "Victory Road 1F - Item from Southern B1F Stairs",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge|"
+  },
+  {
+    "name": "Victory Road B1F - Item in Top Right",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge|"
+  },
+  {
+    "name": "Victory Road B1F - Item on Ledge",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge|"
+  },
+  {
+    "name": "Victory Road B1F - Hidden Item in Front of North Stairs",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road",
+      "Hidden Items"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Victory Road 1F - Item Down Rock-Filled Path",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge|"
+  },
+  {
+    "name": "Victory Road 1F - Hidden Item on Rock Climb Hill Before Northern 2F Stairs",
+    "region": "Victory Road",
+    "category": [
+      "Hidden Items",
+      "Victory Road"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Victory Road 2F - Item From Northern 1F Stairs",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge|"
+  },
+  {
+    "name": "Victory Road 1F - Item in Front of Foggy Basement Entrance",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge|"
+  },
+  {
+    "name": "Victory Road Foggy Basement - NW Strength Boulders Item 1",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)}))"
+  },
+  {
+    "name": "Victory Road Foggy Basement - NW Strength Boulders Item 2",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)}))"
+  },
+  {
+    "name": "Victory Road Foggy Basement - Hidden Item on Center Rock Below North Pool",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road",
+      "Hidden Items"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)})) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Victory Road Foggy Basement - Hidden Item Before Exit",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road",
+      "Hidden Items"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)})) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Victory Road Foggy Basement - Item Above Stairs to Left of Exit",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)}))"
+  },
+  {
+    "name": "Victory Road Foggy Basement - Hidden Item in Top Right Corner of SW Pool",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road",
+      "Hidden Items"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)})) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Victory Road Foggy Basement - Item in Bottom Right Corner of SW Pool",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)}))"
+  },
+  {
+    "name": "Victory Road Foggy Basement - Hidden Item in Top Middle of Rock Maze",
+    "region": "Victory Road",
+    "category": [
+      "Victory Road",
+      "Hidden Items"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)})) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Victory Road Foggy Basement - Hidden Item in Bottom Right of Rock Maze",
+    "region": "Victory Road",
+    "category": [
+      "Hidden Items",
+      "Victory Road"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)})) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 224 - Hidden Item Outside Victory Road Exit",
+    "region": "Victory Road",
+    "category": [
+      "Hidden Items",
+      "Route 224"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)})) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 224 - Item in Grass Outside Victory Road",
+    "region": "Victory Road",
+    "category": [
+      "Route 224"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)}))"
+  },
+  {
+    "name": "Route 224 - Hidden Item at Top of Grass Outside Victory Road",
+    "region": "Victory Road",
+    "category": [
+      "Hidden Items",
+      "Route 224"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)}) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 224 - Item in NW Corner Between Two Psychics",
+    "region": "Victory Road",
+    "category": [
+      "Route 224"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)}))"
+  },
+  {
+    "name": "Route 224 - Item at Water's End West of Berry Patch",
+    "region": "Victory Road",
+    "category": [
+      "Route 224"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)}))"
+  },
+  {
+    "name": "Route 224 - Hidden Item Below Berry Patch",
+    "region": "Victory Road",
+    "category": [
+      "Hidden Items",
+      "Route 224"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 224 - Item on Water's Edge South of Victory Road Exit",
+    "region": "Victory Road",
+    "category": [
+      "Route 224"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})) "
+  },
+  {
+    "name": "Route 224 - Hidden Item on Southwest Area of Beach",
+    "region": "Victory Road",
+    "category": [
+      "Hidden Items",
+      "Route 224"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 224 - Hidden Item on North Side of Beach",
+    "region": "Victory Road",
+    "category": [
+      "Hidden Items",
+      "Route 224"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 224 - Hidden Item on Near SE Rock on Beach",
+    "region": "Victory Road",
+    "category": [
+      "Hidden Items",
+      "Route 224"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 224 - Hidden Item on Rock in NE Corner of Beach",
+    "region": "Victory Road",
+    "category": [
+      "Hidden Items",
+      "Route 224"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)})) AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Route 224 - Item in Northern Grass",
+    "region": "Victory Road",
+    "category": [
+      "Route 224"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)}))"
+  },
+  {
+    "name": "Route 224 - Item on Island 1",
+    "region": "Victory Road",
+    "category": [
+      "Route 224"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)}))"
+  },
+  {
+    "name": "Route 224 - Item on Island 2",
+    "region": "Victory Road",
+    "category": [
+      "Route 224"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|HM05 Defog| AND |Relic Badge|) OR ({YamlDisabled(defog_traversal)} AND {YamlDisabled(defog_pickup)}))"
+  },
+  {
+    "name": "Pokémon League - Hidden Item Below SW Poké Ball Statue",
+    "region": "Victory Road",
+    "category": [
+      "Hidden Items",
+      "Pokémon League"
+    ],
+    "requires": "|HM07 Waterfall| AND |Beacon Badge| AND |HM06 Rock Smash| AND |Coal Badge| AND ((|Pokétch| AND |Dowsing Machine App|) OR {YamlDisabled(require_dowsing_machine)})"
+  },
+  {
+    "name": "Distortion World - Defeat Cyrus [EVENT]",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Mt. Coronet (Past Mural)"
+    ],
+    "requires": [],
+    "place_item": [
+      "[EVENT] Cyrus Beaten At Distortion World"
+    ]
+  },
+  {
+    "name": "Hall of Origin - Defeat Arceus",
+    "region": "Far East Sinnoh",
+    "category": [
+      "Hall of Origin"
+    ],
+    "requires": "|Azure Flute| AND |@Plates:16| AND |Progressive Pokédex:3|",
+    "victory": true
+  },
+  {
+    "name": "Canalave Gym - Defeat Byron [EVENT]",
+    "region": "Canalave",
+    "category": [
+      "Canalave City"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge|",
+    "place_item": [
+      "[EVENT] Canalave Gym Cleared"
+    ]
+  },
+  {
+    "name": "Canalave City - Heard Bombs Go Off [EVENT]",
+    "region": "Canalave",
+    "category": [
+      "Canalave City"
+    ],
+    "requires": "|HM04 Strength| AND |[EVENT] Canalave Gym Cleared|",
+    "place_item": [
+      "[EVENT] Bombs Heard at Canalave"
+    ]
+  },
+  {
+    "name": "Pal Park - Met Professor Oak [EVENT]",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Pal Park"
+    ],
+    "requires": "|HM03 Surf| AND |Fen Badge| AND |Progressive Pokédex:3|",
+    "place_item": [
+      "[EVENT] Met Oak at Pal Park"
+    ]
+  },
+  {
+    "name": "Veilstone City - Storage Key from Galactic Grunt by HQ [EVENT]",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Veilstone City"
+    ],
+    "requires": "|[EVENT] Lake Acuity Cleared|",
+    "place_item": [
+      "[EVENT] Looker Takes Storage Key"
+    ]
+  },
+  {
+    "name": "Galactic HQ - Lake Trio Freed [EVENT]",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Galactic HQ"
+    ],
+    "requires": "|Galactic Key|",
+    "place_item": [
+      "[EVENT] Lake Trio Freed from HQ"
+    ]
+  },
+  {
+    "name": "Lake Valor - Defeated Saturn [EVENT]",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Lake Valor"
+    ],
+    "requires": "|[EVENT] Bombs Heard at Canalave|",
+    "place_item": [
+      "[EVENT] Lake Valor Cleared"
+    ]
+  },
+  {
+    "name": "Lake Verity - Defeated Mars [EVENT]",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Lake Verity"
+    ],
+    "requires": "|[EVENT] Lake Valor Cleared|",
+    "place_item": [
+      "[EVENT] Lake Verity Cleared"
+    ]
+  },
+  {
+    "name": "Lake Acuity - Met Jupiter [EVENT]",
+    "region": "Northern Sinnoh",
+    "category": [
+      "Lake Acuity"
+    ],
+    "requires": "|HM08 Rock Climb| AND |Icicle Badge| AND |[EVENT] Lake Verity Cleared|",
+    "place_item": [
+      "[EVENT] Lake Acuity Cleared"
+    ]
+  },
+  {
+    "name": "Oreburgh Gym - Defeat Roark [EVENT]",
+    "region": "Southwest Sinnoh",
+    "category": [
+      "Oreburgh City"
+    ],
+    "requires": [],
+    "place_item": [
+      "[EVENT] Oreburgh Gym Cleared"
+    ]
+  },
+  {
+    "name": "Veilstone Gym - Defeat Maylene [EVENT]",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Veilstone City"
+    ],
+    "requires": [],
+    "place_item": [
+      "[EVENT] Veilstone Gym Cleared"
+    ]
+  },
+  {
+    "name": "Pastoria Gym - Defeat Crasher Wake [EVENT]",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Pastoria City"
+    ],
+    "requires": [],
+    "place_item": [
+      "[EVENT] Pastoria Gym Cleared"
+    ]
+  },
+  {
+    "name": "Veilstone City - Defeated Grunts Blocking Galactic Warehouse",
+    "region": "Eastern Sinnoh",
+    "category": [
+      "Veilstone City"
+    ],
+    "requires": "|[EVENT] Veilstone Gym Cleared|",
+    "place_item": [
+      "[EVENT] Warehouse Grunts Defeated"
+    ]
+  },
+  {
+    "name": "Pokémon Center Basement - Pal Pad from Teala",
+    "category": [
+      "Sandgem Town",
+      "Jubilife City",
+      "Oreburgh City",
+      "Canalave City",
+      "Eterna City",
+      "Hearthome City",
+      "Pastoria City",
+      "Veilstone City",
+      "Sunyshore City",
+      "Snowpoint City",
+      "Pokémon League",
+      "Fight Area",
+      "Floaroma Town",
+      "Solaceon Town",
+      "Celestic Town",
+      "Survival Area",
+      "Resort Area"
+    ],
+    "requires": []
+  }
+]
