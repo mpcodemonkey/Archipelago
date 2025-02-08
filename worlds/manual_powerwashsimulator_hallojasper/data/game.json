@@ -1,0 +1,11 @@
+{
+  "game": "PowerwashSimulator",
+  "creator": "hallojasper",
+  "filler_item_name": "Dirt",
+  "starting_items": [
+    {
+      "items": ["Progressive Prime Vista 1500 Nozzle"],
+      "random": 1
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+    "Percentage Mode": {
+        "yaml_option": ["!Parts_Mode"],
+		"hidden": true
+    },
+    "Parts Mode": {
+        "yaml_option": ["Parts_Mode"],
+		"hidden": true
+    },
+    "Parkour": {
+        "yaml_option": ["Hard_Parkour"],
+		"hidden": true
+    },
+    "Van": {
+        "yaml_option": ["Include_Van"]
+    },
+    "Back Garden": {
+        "yaml_option": ["Include_Back_Garden"]
+    },
+    "Bungalow": {
+        "yaml_option": ["Include_Bungalow"]
+    },
+    "Playground": {
+        "yaml_option": ["Include_Playground"]
+    },
+    "Detached House": {
+        "yaml_option": ["Include_Detached_House"]
+    },
+    "Shoe House": {
+        "yaml_option": ["Include_Shoe_House"]
+    },
+    "Vintage Car": {
+        "yaml_option": ["Include_Vintage_Car"]
+    },
+    "Grandpa Miller's Car": {
+        "yaml_option": ["Include_Grandpa_Millers_Car"]
+    },
+    "Skatepark": {
+        "yaml_option": ["Include_Skatepark"]
+    },
+    "Fire Truck": {
+        "yaml_option": ["Include_Fire_Truck"]
+    },
+    "Forest Cottage": {
+        "yaml_option": ["Include_Forest_Cottage"]
+    },
+    "Dirt Bike": {
+        "yaml_option": ["Include_Dirt_Bike"]
+    },
+    "Golf Cart": {
+        "yaml_option": ["Include_Golf_Cart"]
+    },
+    "Motorbike and Sidecar": {
+        "yaml_option": ["Include_Motorbike_and_Sidecar"]
+    },
+    "SUV": {
+        "yaml_option": ["Include_SUV"]
+    },
+    "Penny Farthing": {
+        "yaml_option": ["Include_Penny_Farthing"]
+    },
+    "Recreation Vehicle": {
+        "yaml_option": ["Include_Recreation_Vehicle"]
+    },
+    "Fire Helicopter": {
+        "yaml_option": ["Include_Fire_Helicopter"]
+    },
+    "Mayor's Mansion": {
+        "yaml_option": ["Include_Mayors_Mansion"]
+    },
+    "Tree House": {
+        "yaml_option": ["Include_Tree_House"]
+    },
+    "Drill": {
+        "yaml_option": ["Include_Drill"]
+    },
+    "Temple": {
+        "yaml_option": ["Include_Temple"]
+    },
+    "Washroom": {
+        "yaml_option": ["Include_Washroom"]
+    },
+    "Private Jet": {
+        "yaml_option": ["Include_Private_Jet"]
+    },
+    "Frolic Boat": {
+        "yaml_option": ["Include_Frolic_Boat"]
+    },
+    "Monster Truck": {
+        "yaml_option": ["Include_Monster_Truck"]
+    },
+    "Ferris Wheel": {
+        "yaml_option": ["Include_Ferris_Wheel"]
+    },
+    "Subway Platform": {
+        "yaml_option": ["Include_Subway_Platform"]
+    },
+    "Fortune Teller's Wagon": {
+        "yaml_option": ["Include_Fortune_Tellers_Wagon"]
+    },
+    "Ancient Statue": {
+        "yaml_option": ["Include_Ancient_Statue"]
+    },
+    "Stunt Plane": {
+        "yaml_option": ["Include_Stunt_Plane"]
+    },
+    "Ancient Monument": {
+        "yaml_option": ["Include_Ancient_Monument"]
+    },
+    "Fishing Boat": {
+        "yaml_option": ["Include_Fishing_Boat"]
+    },
+    "Recreational Vehicle Again": {
+        "yaml_option": ["Include_Recreational_Vehicle_Again"]
+    },
+    "Lost City Palace": {
+        "yaml_option": ["Include_Lost_City_Palace"]
+    }
+}

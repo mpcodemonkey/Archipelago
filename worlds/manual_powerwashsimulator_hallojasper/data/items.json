@@ -1,0 +1,1646 @@
+[
+	{
+		"count": "5",
+		"name": "Progressive Prime Vista 1500 Nozzle",
+		"category": ["Equipment"],
+		"progression": true
+	},
+	{
+		"count": "5",
+		"name": "Progressive Prime Vista 3000 Nozzle",
+		"category": ["Equipment"],
+		"progression": true
+	},
+	{
+		"count": "5",
+		"name": "Progressive Urban X U2 Nozzle",
+		"category": ["Equipment"],
+		"progression": true
+	},
+	{
+		"count": "6",
+		"name": "Progressive Prime Vista PRO Nozzle",
+		"category": ["Equipment"],
+		"progression": true
+	},
+	{
+		"count": "3",
+		"name": "Progressive Prime Vista 1500 Extension",
+		"category": ["Equipment"],
+		"progression": true
+	},
+	{
+		"count": "3",
+		"name": "Progressive Prime Vista 3000 Extension",
+		"category": ["Equipment"],
+		"progression": true
+	},
+	{
+		"count": "3",
+		"name": "Progressive Urban X U2 Extension",
+		"category": ["Equipment"],
+		"progression": true
+	},
+	{
+		"count": "3",
+		"name": "Progressive Prime Vista PRO Extension",
+		"category": ["Equipment"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stepstool",
+		"category": ["Equipment"],
+		"progression": true
+	},
+	{
+		"count": "3",
+		"name": "Ladder Length",
+		"category": ["Equipment"],
+		"progression": true
+	},
+	{
+		"count": "5",
+		"name": "Scaffolding Floor",
+		"category": ["Equipment"],
+		"progression": true
+	},
+	{
+		"count": "100",
+		"name": "Completion Star Parts Mode",
+		"category": ["Parts Mode", "Completion Stars"],
+		"progression": true
+	},
+	{
+		"count": "50",
+		"name": "Completion Star Percentage Mode",
+		"category": ["Percentage Mode", "Completion Stars"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Van Tyres",
+		"category": ["Parts Mode", "Van"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Van Windows",
+		"category": ["Parts Mode", "Van"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Van Body",
+		"category": ["Parts Mode", "Van"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Van Lights",
+		"category": ["Parts Mode", "Van"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Van",
+		"category": ["Percentage Mode", "Van"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Vintage Car Tyres",
+		"category": ["Parts Mode", "Vintage Car"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Vintage Car Body",
+		"category": ["Parts Mode", "Vintage Car"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Vintage Car Doors",
+		"category": ["Parts Mode", "Vintage Car"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Vintage Car Accesories",
+		"category": ["Parts Mode", "Vintage Car"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Vintage Car Roof",
+		"category": ["Parts Mode", "Vintage Car"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Vintage Car Front",
+		"category": ["Parts Mode", "Vintage Car"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Vintage Car",
+		"category": ["Percentage Mode", "Vintage Car"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Golf Cart Roof",
+		"category": ["Parts Mode", "Golf Cart"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Golf Cart Tyres",
+		"category": ["Parts Mode", "Golf Cart"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Golf Cart Body",
+		"category": ["Parts Mode", "Golf Cart"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Golf Cart Miscellaneous",
+		"category": ["Parts Mode", "Golf Cart"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Golf Cart",
+		"category": ["Percentage Mode", "Golf Cart"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Recreation Vehicle Tyres",
+		"category": ["Parts Mode", "Recreation Vehicle"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Recreation Vehicle Lights",
+		"category": ["Parts Mode", "Recreation Vehicle"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Recreation Vehicle Lower Body",
+		"category": ["Parts Mode", "Recreation Vehicle"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Recreation Vehicle Windows",
+		"category": ["Parts Mode", "Recreation Vehicle"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Recreation Vehicle Upper Body",
+		"category": ["Parts Mode", "Recreation Vehicle"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Recreation Vehicle Accesories",
+		"category": ["Parts Mode", "Recreation Vehicle"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Recreation Vehicle",
+		"category": ["Percentage Mode", "Recreation Vehicle"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Drill Front",
+		"category": ["Parts Mode", "Drill"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Drill Tracks",
+		"category": ["Parts Mode", "Drill"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Drill Shielding",
+		"category": ["Parts Mode", "Drill"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Drill Door",
+		"category": ["Parts Mode", "Drill"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Drill",
+		"category": ["Percentage Mode", "Drill"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Frolic Boat Underside",
+		"category": ["Parts Mode", "Frolic Boat"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Frolic Boat Floor",
+		"category": ["Parts Mode", "Frolic Boat"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Frolic Boat Controls",
+		"category": ["Parts Mode", "Frolic Boat"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Frolic Boat Doors",
+		"category": ["Parts Mode", "Frolic Boat"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Frolic Boat Cabin Walls",
+		"category": ["Parts Mode", "Frolic Boat"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Frolic Boat Canopy",
+		"category": ["Parts Mode", "Frolic Boat"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Frolic Boat Accesories",
+		"category": ["Parts Mode", "Frolic Boat"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Frolic Boat",
+		"category": ["Percentage Mode", "Frolic Boat"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stunt Plane Wheels",
+		"category": ["Parts Mode", "Stunt Plane"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stunt Plane Engine",
+		"category": ["Parts Mode", "Stunt Plane"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stunt Plane Rear Wings",
+		"category": ["Parts Mode", "Stunt Plane"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stunt Plane Lower Wings",
+		"category": ["Parts Mode", "Stunt Plane"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stunt Plane Upper Wing",
+		"category": ["Parts Mode", "Stunt Plane"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stunt Plane Cockpit",
+		"category": ["Parts Mode", "Stunt Plane"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stunt Plane",
+		"category": ["Percentage Mode", "Stunt Plane"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Back Garden Pond",
+		"category": ["Parts Mode", "Back Garden"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Back Garden Steps",
+		"category": ["Parts Mode", "Back Garden"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Back Garden Patio",
+		"category": ["Parts Mode", "Back Garden"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Back Garden Table",
+		"category": ["Parts Mode", "Back Garden"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Back Garden Fence",
+		"category": ["Parts Mode", "Back Garden"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Back Garden Dog House",
+		"category": ["Parts Mode", "Back Garden"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Back Garden Swing Sofa",
+		"category": ["Parts Mode", "Back Garden"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Back Garden Shed",
+		"category": ["Parts Mode", "Back Garden"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Back Garden Barbeque",
+		"category": ["Parts Mode", "Back Garden"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Back Garden Miscellaneous",
+		"category": ["Parts Mode", "Back Garden"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Back Garden",
+		"category": ["Percentage Mode", "Back Garden"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Mayor's Mansion Fence",
+		"category": ["Parts Mode", "Mayor's Mansion"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Mayor's Mansion Garage",
+		"category": ["Parts Mode", "Mayor's Mansion"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Mayor's Mansion Main Gate",
+		"category": ["Parts Mode", "Mayor's Mansion"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Mayor's Mansion Roof",
+		"category": ["Parts Mode", "Mayor's Mansion"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Mayor's Mansion Door",
+		"category": ["Parts Mode", "Mayor's Mansion"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Mayor's Mansion Walls",
+		"category": ["Parts Mode", "Mayor's Mansion"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Mayor's Mansion",
+		"category": ["Percentage Mode", "Mayor's Mansion"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Detached House Garage",
+		"category": ["Parts Mode", "Detached House"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Detached House Porch",
+		"category": ["Parts Mode", "Detached House"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Detached House Veranda",
+		"category": ["Parts Mode", "Detached House"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Detached House Walls",
+		"category": ["Parts Mode", "Detached House"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Detached House Roof",
+		"category": ["Parts Mode", "Detached House"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Detached House Miscellaneous",
+		"category": ["Parts Mode", "Detached House"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Detached House",
+		"category": ["Percentage Mode", "Detached House"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fire Helicopter Tail",
+		"category": ["Parts Mode", "Fire Helicopter"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fire Helicopter Water Tank",
+		"category": ["Parts Mode", "Fire Helicopter"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fire Helicopter Landing Gear",
+		"category": ["Parts Mode", "Fire Helicopter"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fire Helicopter Engine",
+		"category": ["Parts Mode", "Fire Helicopter"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fire Helicopter Hydraulics",
+		"category": ["Parts Mode", "Fire Helicopter"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fire Helicopter Body",
+		"category": ["Parts Mode", "Fire Helicopter"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fire Helicopter",
+		"category": ["Percentage Mode", "Fire Helicopter"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Dirt Bike Wheels",
+		"category": ["Parts Mode", "Dirt Bike"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Dirt Bike Front",
+		"category": ["Parts Mode", "Dirt Bike"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Dirt Bike Frame",
+		"category": ["Parts Mode", "Dirt Bike"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Dirt Bike Engine",
+		"category": ["Parts Mode", "Dirt Bike"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Dirt Bike Miscellaneous",
+		"category": ["Parts Mode", "Dirt Bike"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Dirt Bike",
+		"category": ["Percentage Mode", "Dirt Bike"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Playground Outer Floor",
+		"category": ["Parts Mode", "Playground"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Playground Inner Floor",
+		"category": ["Parts Mode", "Playground"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Playground Roundabout",
+		"category": ["Parts Mode", "Playground"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Playground Bridges",
+		"category": ["Parts Mode", "Playground"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Playground Lower Tower",
+		"category": ["Parts Mode", "Playground"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Playground Upper Tower",
+		"category": ["Parts Mode", "Playground"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Playground Short Tower Playthings",
+		"category": ["Parts Mode", "Playground"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Playground Tall Tower Playthings",
+		"category": ["Parts Mode", "Playground"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Playground Miscellaneous",
+		"category": ["Parts Mode", "Playground"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Playground",
+		"category": ["Percentage Mode", "Playground"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Tree House Lower Deck",
+		"category": ["Parts Mode", "Tree House"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Tree House Middle Deck",
+		"category": ["Parts Mode", "Tree House"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Tree House Upper Deck",
+		"category": ["Parts Mode", "Tree House"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Tree House Barbeque",
+		"category": ["Parts Mode", "Tree House"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Tree House Playground",
+		"category": ["Parts Mode", "Tree House"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Tree House Stairs",
+		"category": ["Parts Mode", "Tree House"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Tree House Tables",
+		"category": ["Parts Mode", "Tree House"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Tree House Roof",
+		"category": ["Parts Mode", "Tree House"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Tree House Door",
+		"category": ["Parts Mode", "Tree House"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Tree House Walls",
+		"category": ["Parts Mode", "Tree House"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Tree House Miscellaneous",
+		"category": ["Parts Mode", "Tree House"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Tree House",
+		"category": ["Percentage Mode", "Tree House"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Washroom Urinals",
+		"category": ["Parts Mode", "Washroom"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Washroom Toilets",
+		"category": ["Parts Mode", "Washroom"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Washroom Floor",
+		"category": ["Parts Mode", "Washroom"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Washroom Doors",
+		"category": ["Parts Mode", "Washroom"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Washroom Walls",
+		"category": ["Parts Mode", "Washroom"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Washroom Ceiling",
+		"category": ["Parts Mode", "Washroom"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Washroom Water",
+		"category": ["Parts Mode", "Washroom"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Washroom Miscellaneous",
+		"category": ["Parts Mode", "Washroom"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Washroom",
+		"category": ["Percentage Mode", "Washroom"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Monster Truck Tyres",
+		"category": ["Parts Mode", "Monster Truck"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Monster Truck Cat Head",
+		"category": ["Parts Mode", "Monster Truck"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Monster Truck Cat Body",
+		"category": ["Parts Mode", "Monster Truck"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Monster Truck Hatches",
+		"category": ["Parts Mode", "Monster Truck"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Monster Truck Windows",
+		"category": ["Parts Mode", "Monster Truck"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Monster Truck Sides",
+		"category": ["Parts Mode", "Monster Truck"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Monster Truck Rear",
+		"category": ["Parts Mode", "Monster Truck"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Monster Truck Miscellaneous",
+		"category": ["Parts Mode", "Monster Truck"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Monster Truck Underside",
+		"category": ["Parts Mode", "Monster Truck"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Monster Truck",
+		"category": ["Percentage Mode", "Monster Truck"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ferris Wheel Wiring",
+		"category": ["Parts Mode", "Ferris Wheel"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ferris Wheel Platform",
+		"category": ["Parts Mode", "Ferris Wheel"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ferris Wheel Fences",
+		"category": ["Parts Mode", "Ferris Wheel"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ferris Wheel Spokes",
+		"category": ["Parts Mode", "Ferris Wheel"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ferris Wheel Star",
+		"category": ["Parts Mode", "Ferris Wheel"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ferris Wheel Supports",
+		"category": ["Parts Mode", "Ferris Wheel"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ferris Wheel Miscellaneous",
+		"category": ["Parts Mode", "Ferris Wheel"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ferris Wheel",
+		"category": ["Percentage Mode", "Ferris Wheel"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Bungalow Porch",
+		"category": ["Parts Mode", "Bungalow"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Bungalow Roof",
+		"category": ["Parts Mode", "Bungalow"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Bungalow Walls",
+		"category": ["Parts Mode", "Bungalow"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Bungalow Entry",
+		"category": ["Parts Mode", "Bungalow"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Bungalow",
+		"category": ["Percentage Mode", "Bungalow"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Penny Farthing Frame",
+		"category": ["Parts Mode", "Penny Farthing"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Penny Farthing Steering",
+		"category": ["Parts Mode", "Penny Farthing"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Penny Farthing",
+		"category": ["Percentage Mode", "Penny Farthing"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Grandpa Miller's Car Lights",
+		"category": ["Parts Mode", "Grandpa Miller's Car"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Grandpa Miller's Car Body",
+		"category": ["Parts Mode", "Grandpa Miller's Car"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Grandpa Miller's Car Windows",
+		"category": ["Parts Mode", "Grandpa Miller's Car"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Grandpa Miller's Car Wheels",
+		"category": ["Parts Mode", "Grandpa Miller's Car"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Grandpa Miller's Car Miscellaneous",
+		"category": ["Parts Mode", "Grandpa Miller's Car"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Grandpa Miller's Car",
+		"category": ["Percentage Mode", "Grandpa Miller's Car"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Subway Platform Floors",
+		"category": ["Parts Mode", "Subway Platform"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Subway Platform Ceilings",
+		"category": ["Parts Mode", "Subway Platform"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Subway Platform Lights",
+		"category": ["Parts Mode", "Subway Platform"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Subway Platform Walls",
+		"category": ["Parts Mode", "Subway Platform"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Subway Platform Doors",
+		"category": ["Parts Mode", "Subway Platform"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Subway Platform Screens",
+		"category": ["Parts Mode", "Subway Platform"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Subway Platform Benches",
+		"category": ["Parts Mode", "Subway Platform"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Subway Platform Miscellaneous",
+		"category": ["Parts Mode", "Subway Platform"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Subway Platform",
+		"category": ["Percentage Mode", "Subway Platform"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Motorbike and Sidecar Tyres",
+		"category": ["Parts Mode", "Motorbike and Sidecar"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Motorbike and Sidecar Sidecar",
+		"category": ["Parts Mode", "Motorbike and Sidecar"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Motorbike and Sidecar Lights",
+		"category": ["Parts Mode", "Motorbike and Sidecar"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Motorbike and Sidecar Engine",
+		"category": ["Parts Mode", "Motorbike and Sidecar"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Motorbike and Sidecar Frame",
+		"category": ["Parts Mode", "Motorbike and Sidecar"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Motorbike and Sidecar Miscellaneous",
+		"category": ["Parts Mode", "Motorbike and Sidecar"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Motorbike and Sidecar",
+		"category": ["Percentage Mode", "Motorbike and Sidecar"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Skatepark Walls",
+		"category": ["Parts Mode", "Skatepark"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Skatepark Floors",
+		"category": ["Parts Mode", "Skatepark"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Skatepark Floor Transitions",
+		"category": ["Parts Mode", "Skatepark"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Skatepark Stunt Parts",
+		"category": ["Parts Mode", "Skatepark"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Skatepark",
+		"category": ["Percentage Mode", "Skatepark"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fire Truck Miscellaneous",
+		"category": ["Parts Mode", "Fire Truck"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fire Truck Lights",
+		"category": ["Parts Mode", "Fire Truck"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fire Truck Windows",
+		"category": ["Parts Mode", "Fire Truck"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fire Truck Body",
+		"category": ["Parts Mode", "Fire Truck"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fire Truck Tyres",
+		"category": ["Parts Mode", "Fire Truck"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fire Truck",
+		"category": ["Percentage Mode", "Fire Truck"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Shoe House Roof",
+		"category": ["Parts Mode", "Shoe House"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Shoe House Windows",
+		"category": ["Parts Mode", "Shoe House"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Shoe House Door",
+		"category": ["Parts Mode", "Shoe House"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Shoe House Shoe",
+		"category": ["Parts Mode", "Shoe House"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Shoe House",
+		"category": ["Percentage Mode", "Shoe House"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "SUV Lights",
+		"category": ["Parts Mode", "SUV"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "SUV Windows",
+		"category": ["Parts Mode", "SUV"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "SUV Body",
+		"category": ["Parts Mode", "SUV"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "SUV Tyres",
+		"category": ["Parts Mode", "SUV"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "SUV",
+		"category": ["Percentage Mode", "SUV"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fortune Teller's Wagon Bay Windows",
+		"category": ["Parts Mode", "Fortune Teller's Wagon"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fortune Teller's Wagon Skylight",
+		"category": ["Parts Mode", "Fortune Teller's Wagon"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fortune Teller's Wagon Storage",
+		"category": ["Parts Mode", "Fortune Teller's Wagon"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fortune Teller's Wagon Table",
+		"category": ["Parts Mode", "Fortune Teller's Wagon"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fortune Teller's Wagon Decorations",
+		"category": ["Parts Mode", "Fortune Teller's Wagon"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fortune Teller's Wagon Door",
+		"category": ["Parts Mode", "Fortune Teller's Wagon"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fortune Teller's Wagon Underside",
+		"category": ["Parts Mode", "Fortune Teller's Wagon"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fortune Teller's Wagon Entry",
+		"category": ["Parts Mode", "Fortune Teller's Wagon"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fortune Teller's Wagon Walls",
+		"category": ["Parts Mode", "Fortune Teller's Wagon"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fortune Teller's Wagon Roof",
+		"category": ["Parts Mode", "Fortune Teller's Wagon"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fortune Teller's Wagon",
+		"category": ["Percentage Mode", "Fortune Teller's Wagon"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ancient Monument Phalanges",
+		"category": ["Parts Mode", "Ancient Monument"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ancient Monument Arm",
+		"category": ["Parts Mode", "Ancient Monument"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ancient Monument Hand",
+		"category": ["Parts Mode", "Ancient Monument"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ancient Monument",
+		"category": ["Percentage Mode", "Ancient Monument"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ancient Statue Helmet Slabs",
+		"category": ["Parts Mode", "Ancient Statue"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ancient Statue Helmet Decoration",
+		"category": ["Parts Mode", "Ancient Statue"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ancient Statue Head",
+		"category": ["Parts Mode", "Ancient Statue"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ancient Statue Torso",
+		"category": ["Parts Mode", "Ancient Statue"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ancient Statue Neck",
+		"category": ["Parts Mode", "Ancient Statue"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ancient Statue Arm",
+		"category": ["Parts Mode", "Ancient Statue"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ancient Statue",
+		"category": ["Percentage Mode", "Ancient Statue"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Recreational Vehicle Again Landing Gear",
+		"category": ["Parts Mode", "Recreational Vehicle Again"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Recreational Vehicle Again Saucers",
+		"category": ["Parts Mode", "Recreational Vehicle Again"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Recreational Vehicle Again Tractor Beam",
+		"category": ["Parts Mode", "Recreational Vehicle Again"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Recreational Vehicle Again Gyromagnetic Discs",
+		"category": ["Parts Mode", "Recreational Vehicle Again"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Recreational Vehicle Again Gravity Plating",
+		"category": ["Parts Mode", "Recreational Vehicle Again"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Recreational Vehicle Again Engine",
+		"category": ["Parts Mode", "Recreational Vehicle Again"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Recreational Vehicle Again Miscellaneous",
+		"category": ["Parts Mode", "Recreational Vehicle Again"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Recreational Vehicle Again",
+		"category": ["Percentage Mode", "Recreational Vehicle Again"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fishing Boat Anchor",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fishing Boat Hull",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fishing Boat Main Deck",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fishing Boat Cabin",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fishing Boat Bridge",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fishing Boat Roof",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fishing Boat Mast",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fishing Boat Storage",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fishing Boat Miscellaneous",
+		"category": ["Parts Mode", "Fishing Boat"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fishing Boat",
+		"category": ["Percentage Mode", "Fishing Boat"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Forest Cottage Back Dormer",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Forest Cottage Back Gable",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Forest Cottage Front Dormer",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Forest Cottage Front Gable",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Forest Cottage Front Wall",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Forest Cottage Fence",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Forest Cottage Side Gable",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Forest Cottage Main Roof",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Forest Cottage Walls",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Forest Cottage Foundation",
+		"category": ["Parts Mode", "Forest Cottage"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Forest Cottage",
+		"category": ["Percentage Mode", "Forest Cottage"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Private Jet Landing Gear",
+		"category": ["Parts Mode", "Private Jet"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Private Jet Tail",
+		"category": ["Parts Mode", "Private Jet"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Private Jet Wings",
+		"category": ["Parts Mode", "Private Jet"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Private Jet Cockpit",
+		"category": ["Parts Mode", "Private Jet"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Private Jet Propulsion",
+		"category": ["Parts Mode", "Private Jet"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Private Jet Fuselage",
+		"category": ["Parts Mode", "Private Jet"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Private Jet Laser",
+		"category": ["Parts Mode", "Private Jet"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Private Jet Miscellaneous",
+		"category": ["Parts Mode", "Private Jet"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Private Jet",
+		"category": ["Percentage Mode", "Private Jet"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Temple Roof",
+		"category": ["Parts Mode", "Temple"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Temple Entrance",
+		"category": ["Parts Mode", "Temple"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Temple Windows",
+		"category": ["Parts Mode", "Temple"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Temple Walls",
+		"category": ["Parts Mode", "Temple"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Temple Miscellaneous",
+		"category": ["Parts Mode", "Temple"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Temple",
+		"category": ["Percentage Mode", "Temple"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lost City Palace Atrium Alcove",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lost City Palace Atrium",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lost City Palace Central Opening",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lost City Palace Entrance Pediment",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lost City Palace Entrance",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lost City Palace Gallery Ceiling",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lost City Palace Gallery",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lost City Palace Palace",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lost City Palace Pyramidion",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lost City Palace Rear Entrance",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lost City Palace Octopus",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lost City Palace Statue",
+		"category": ["Parts Mode", "Lost City Palace"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lost City Palace",
+		"category": ["Percentage Mode", "Lost City Palace"],
+		"progression": true
+	}
+]
