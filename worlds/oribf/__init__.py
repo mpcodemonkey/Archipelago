@@ -72,6 +72,16 @@ class OriBlindForestWorld(World):
 
         if self.options.mapstone_logic == MapstoneLogic.option_progressive:
             create_progressive_maps(self)
+        
+        if self.options.restrict_dungeon_keys == True:
+            self.restrict_item("Ginso", "GinsoKey")
+            self.restrict_item("Forlorn", "ForlornKey")
+            self.restrict_item("Horu", "HoruKey")
+
+    def restrict_item(self, tag: str, item_name: str):
+        for location in tagged_locations_dict[tag]:
+            if location not in self.location_exclusion_list:
+                add_item_rule(self.get_location(location), lambda item: item.name != item_name)
 
     def create_item(self, name: str) -> OriBlindForestItem:
         return OriBlindForestItem(name, item_dict[name][0], self.item_name_to_id[name], self.player)
@@ -125,11 +135,10 @@ class OriBlindForestWorld(World):
                 # otherwise add the item normally
                 else:
                     self.multiworld.itempool.append(item)
-                
-                item_count += 1
+                    item_count += 1
 
         unfilled_locations = len(self.multiworld.get_unfilled_locations(self.player))
-        self.multiworld.itempool += [self.create_filler() for _ in range(unfilled_locations - item_count + 1)]
+        self.multiworld.itempool += [self.create_filler() for _ in range(unfilled_locations - item_count)]
 
     def create_event(self, event: str) -> OriBlindForestItem:
         return OriBlindForestItem(event, ItemClassification.progression, None, self.player)
