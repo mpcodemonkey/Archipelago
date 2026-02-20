@@ -1,0 +1,492 @@
+general_options:
+  # Where to place output files
+  output_path: "output"
+# Options for MultiServer
+# Null means nothing, for the server this means to default the value
+# These overwrite command line arguments!
+server_options:
+  host: null
+  port: 38281
+  password: null
+  multidata: null
+  savefile: null
+  disable_save: false
+  loglevel: "info"
+  logtime: false
+  # Allows for clients to log on and manage the server.  If this is null, no remote administration is possible.
+  server_password: null
+  # Disallow !getitem
+  disable_item_cheat: false
+  # Client hint system
+  # Points given to a player for each acquired item in their world
+  location_check_points: 1
+  # Relative point cost to receive a hint via !hint for players
+  # so for example hint_cost: 20 would mean that for every 20% of available checks, you get the ability to hint,
+  # for a total of 5
+  hint_cost: 10
+  # Release modes
+  # A Release sends out the remaining items *from* a world that releases
+  # "disabled" -> clients can't release,
+  # "enabled" -> clients can always release
+  # "auto" -> automatic release on goal completion
+  # "auto-enabled" -> automatic release on goal completion and manual release is also enabled
+  # "goal" -> release is allowed after goal completion
+  release_mode: "auto"
+  # Collect modes
+  # A Collect sends the remaining items *to* a world that collects
+  # "disabled" -> clients can't collect,
+  # "enabled" -> clients can always collect
+  # "auto" -> automatic collect on goal completion
+  # "auto-enabled" -> automatic collect on goal completion and manual collect is also enabled
+  # "goal" -> collect is allowed after goal completion
+  collect_mode: "auto"
+  # Remaining modes
+  # !remaining handling, that tells a client which items remain in their pool
+  # "enabled" -> Client can always ask for remaining items
+  # "disabled" -> Client can never ask for remaining items
+  # "goal" -> Client can ask for remaining items after goal completion
+  remaining_mode: "goal"
+  # Countdown modes
+  # Determines whether or not a player can initiate a countdown with !countdown
+  # Note that /countdown is always available to the host.
+  # "enabled" -> Client can always initiate a countdown with !countdown.
+  # "disabled" -> Client can never initiate a countdown with !countdown.
+  # "auto" -> !countdown will be available for any room with less than 30 slots.
+  countdown_mode: "auto"
+  # Automatically shut down the server after this many seconds without new location checks, 0 to keep running
+  auto_shutdown: 0
+  # Compatibility handling
+  # 2 -> Recommended for casual/cooperative play, attempt to be compatible with everything across all versions
+  # 1 -> No longer in use, kept reserved in case of future use
+  # 0 -> Recommended for tournaments to force a level playing field, only allow an exact version match
+  compatibility: 2
+  # log all server traffic, mostly for dev use
+  log_network: 0
+# Options for Generation
+generator:
+  # Location of your Enemizer CLI, available here: https://github.com/Ijwu/Enemizer/releases
+  enemizer_path: "EnemizerCLI/EnemizerCLI.Core"
+  # Folder from which the player yaml files are pulled from
+  player_files_path: "Players"
+  # amount of players, 0 to infer from player files
+  players: 0
+  # general weights file, within the stated player_files_path location
+  # gets used if players is higher than the amount of per-player files found to fill remaining slots
+  weights_file_path: "weights.yaml"
+  # Meta file name, within the stated player_files_path location
+  meta_file_path: "meta.yaml"
+  # Create a spoiler file
+  # 0 -> None
+  # 1 -> Spoiler without playthrough or paths to playthrough required items
+  # 2 -> Spoiler with playthrough (viable solution to goals)
+  # 3 -> Spoiler with playthrough and traversal paths towards items
+  spoiler: 3
+  # Create encrypted race roms and flag games as race mode
+  race: 0
+  # List of options that can be plando'd. Can be combined, for example "bosses, items"
+  # Available options: bosses, items, texts, connections
+  plando_options: "bosses, connections, texts"
+  # What to do if the current item placements appear unsolvable.
+  # raise -> Raise an exception and abort.
+  # swap -> Attempt to fix it by swapping prior placements around. (Default)
+  # start_inventory -> Move remaining items to start_inventory, generate additional filler items to fill locations.
+  panic_method: "swap"
+  loglevel: "info"
+  logtime: false
+sni_options:
+  # Set this to your SNI folder location if you want the MultiClient to attempt an auto start, does nothing if not found
+  sni_path: "SNI"
+  # Set this to false to never autostart a rom (such as after patching)
+  # True for operating system default program
+  # Alternatively, a path to a program to open the .sfc file with
+  snes_rom_start: true
+bizhawkclient_options:
+  # The location of the EmuHawk you want to auto launch patched ROMs with
+  emuhawk_path: "None"
+  # Set this to true to autostart a patched ROM in BizHawk with the connector script,
+  # to false to never open the patched rom automatically,
+  # or to a path to an external program to open the ROM file with that instead.
+  rom_start: true
+adventure_options:
+  # File name of the standard NTSC Adventure rom.
+  # The licensed "The 80 Classic Games" CD-ROM contains this.
+  # It may also have a .a26 extension
+  rom_file: "roms/ADVNTURE.BIN"
+  # Set this to false to never autostart a rom (such as after patching)
+  # True for operating system default program for '.a26'
+  # Alternatively, a path to a program to open the .a26 file with (generally EmuHawk for multiworld)
+  rom_start: true
+  # Optional, additional args passed into rom_start before the .bin file
+  # For example, this can be used to autoload the connector script in BizHawk
+  # (see BizHawk --lua= option)
+  # Windows example:
+  # rom_args: "--lua=C:/ProgramData/Archipelago/data/lua/connector_adventure.lua"
+  rom_args: " "
+  # Set this to true to display item received messages in EmuHawk
+  display_msgs: true
+ape_escape_3_options:
+  # Preferences for game session management.
+  # > save_state_on_room_transition: Automatically create a save state when transitioning between rooms.
+  # > save_state_on_item_received: Automatically create a save state when receiving a new progressive item.
+  # > save_state_on_location_check: Automatically create a save state when checking a new location.
+  # > load_state_on_connect: Load a state automatically after connecting to the multiworld if the client
+  # is already connected to the game and that the last save is from a save state and not a normal game save.
+  save_state_on_room_transition: false
+  save_state_on_item_received: true
+  save_state_on_location_check: false
+  load_state_on_connect: false
+  # Preferences for game/client-enforcement behavior
+  # > auto-equip : Automatically assign received gadgets to a face button
+  auto_equip: true
+  # Preferences for game generation. Only relevant for world generation and not the setup of or during play.
+  # > whitelist_pgc_bypass: Allow Ape Escape 3 players to enable "PGC Bypass" as a possible outcome for
+  # Lucky Ticket Consolation Prize.
+  # > whitelist_instant_goal: Allow Ape Escape 3 players to enable "Instant Goal" as a possible outcome for
+  # Lucky Ticket Consolation Prize.
+  whitelist_pgc_bypass: false
+  whitelist_instant_goal: false
+banjo_tooie_options:
+  # File path of the Banjo-Tooie (USA) ROM.
+  rom_path: ""
+  # Folder path of where to save the patched ROM.
+  patch_path: ""
+  # File path of the program to automatically run.
+  # Leave blank to disable.
+  program_path: ""
+  # Arguments to pass to the automatically run program.
+  # Leave blank to disable.
+  # Set to "--lua=" to automatically use the correct path for the lua connector.
+  program_args: "--lua="
+# No idea
+clair_obscur_options:
+  {}
+cv64_options:
+  # File name of the CV64 US 1.0 rom
+  rom_file: "roms/Castlevania (USA).z64"
+cv_dos_options:
+  # File name of the Castlevania: Dawn of Sorrow ROM file.
+  rom_file: "CASTLEVANIA1_ACVEA4_00.nds"
+cvcotm_options:
+  # File name of the Castlevania CotM US rom
+  rom_file: "roms/Castlevania - Circle of the Moon (USA).gba"
+cvhodis_options:
+  # File name of the Castlevania HoD US rom
+  rom_file: "Castlevania - Harmony of Dissonance (USA).gba"
+dk64_options:
+  release_branch: "master"
+dkc2_options:
+  # File name of the Donkey Kong Country 2 US v1.1 ROM
+  rom_file: "roms/Donkey Kong Country 2 - Diddy's Kong Quest (USA).sfc"
+  # Path to the user's Donkey Kong Country 2 Poptracker Pack.
+  ut_poptracker_path: ""
+  # Folder path of the trivia database
+  # Preferably point it to /data/trivia/dkc2/
+  trivia_path: "data/trivia/dkc2"
+dkc3_options:
+  # File name of the DKC3 US rom
+  rom_file: "roms/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr).sfc"
+earthbound_options:
+  # File name of the EarthBound US ROM
+  rom_file: "EarthBound.sfc"
+factorio_options:
+  executable: "factorio/bin/x64/factorio"
+  # by default, no settings are loaded if this file does not exist. If this file does exist, then it will be used.
+  # server_settings: "factorio\\data\\server-settings.json"
+  server_settings: null
+  # Whether to filter item send messages displayed in-game to only those that involve you.
+  filter_item_sends: false
+  # Whether to filter connection changes displayed in-game.
+  filter_connection_changes: false
+  # Whether to send chat messages from players on the Factorio server to Archipelago.
+  bridge_chat_out: true
+fe8_settings:
+  # File name of your Fire Emblem: The Sacred Stones (U) ROM
+  rom_file: "roms/Fire Emblem The Sacred Stones (U).gba"
+ffr_options:
+  display_msgs: true
+gstla_options:
+  # File name of the GS TLA UE Rom
+  rom_file: "roms/Golden Sun - The Lost Age (UE) [!].gba"
+hades_options:
+  # Path to the StyxScribe install
+  styx_scribe_path: "C:/Program Files/Steam/steamapps/common/Hades/StyxScribe.py"
+hk_options:
+  # Disallows the APMapMod from showing spoiler placements.
+  disable_spoilers: false
+jakanddaxter_options:
+  # Path to folder containing the ArchipelaGOAL mod executables (gk.exe and goalc.exe).
+  # Ensure this path contains forward slashes (/) only. This setting only applies if
+  # Auto Detect Root Directory is set to false.
+  root_directory: "%programfiles%/OpenGOAL-Launcher/features/jak1/mods/JakMods/archipelagoal"
+  # Attempt to find the OpenGOAL installation and the mod executables (gk.exe and goalc.exe)
+  # automatically. If set to true, the ArchipelaGOAL Root Directory setting is ignored.
+  auto_detect_root_directory: true
+  # Enforce friendly player options in both single and multiplayer seeds. Disabling this allows for
+  # more disruptive and challenging options, but may impact seed generation. Use at your own risk!
+  enforce_friendly_options: true
+kdl3_options:
+  # File name of the KDL3 JP or EN rom
+  rom_file: "roms/Kirby's Dream Land 3.sfc"
+ladx_options:
+  # File name of the Link's Awakening DX rom
+  rom_file: "roms/Legend of Zelda, The - Link's Awakening DX (USA, Europe) (SGB Enhanced).gbc"
+  # Set this to false to never autostart a rom (such as after patching)
+  # true  for operating system default program
+  # Alternatively, a path to a program to open the .gbc file with
+  # Examples:
+  # Retroarch:
+  # rom_start: "C:/RetroArch-Win64/retroarch.exe -L sameboy"
+  # BizHawk:
+  # rom_start: "C:/BizHawk-2.9-win-x64/EmuHawk.exe --lua=data/lua/connector_ladx_bizhawk.lua"
+  rom_start: true
+  # Gfxmod file, get it from upstream: https://github.com/daid/LADXR/tree/master/gfx
+  # Only .bin or .bdiff files
+  # The same directory will be checked for a matching text modification file
+  gfx_mod_file: ""
+lttp_options:
+  # File name of the v1.0 J rom
+  rom_file: "roms/Zelda no Densetsu - Kamigami no Triforce (Japan).sfc"
+lufia2ac_options:
+  # File name of the US rom
+  rom_file: "roms/Lufia II - Rise of the Sinistrals (USA).sfc"
+messenger_settings:
+  game_path: "TheMessenger.exe"
+metroidfusion_options:
+  # File name of the Metroid Fusion ROM
+  rom_file: "roms/Metroid Fusion (USA).gba"
+  rom_start: true
+  display_location_found_messages: true
+mlss_options:
+  # File name of the MLSS US rom
+  rom_file: "roms/Mario & Luigi - Superstar Saga (U).gba"
+  rom_start: true
+mm2_options:
+  # File name of the MM2 EN rom
+  rom_file: "roms/Mega Man 2 (USA).nes"
+mmbn3_options:
+  # File name of the MMBN3 Blue US rom
+  rom_file: "roms/Mega Man Battle Network 3 - Blue Version (USA).gba"
+  # Set this to false to never autostart a rom (such as after patching),
+  # true  for operating system default program
+  # Alternatively, a path to a program to open the .gba file with
+  rom_start: true
+mzm_options:
+  rom_file: "roms/Metroid - Zero Mission (USA).gba"
+  rom_start: true
+oot_options:
+  # File name of the OoT v1.0 ROM
+  rom_file: "roms/The Legend of Zelda - Ocarina of Time.z64"
+  # Set this to false to never autostart a rom (such as after patching),
+  # true  for operating system default program
+  # Alternatively, a path to a program to open the .z64 file with
+  rom_start: true
+paper_mario_settings:
+  # File name of the Paper Mario USA ROM
+  rom_file: "roms/Paper Mario (USA).z64"
+  # Set this to false to never autostart a rom (such as after patching),
+  # true  for operating system default program
+  # Alternatively, a path to a program to open the .z64 file with
+  rom_start: true
+pokemon_bw_settings:
+  # File name of your Pokémon Black Version ROM
+  black_rom: "PokemonBlack.nds"
+  # File name of your Pokémon White Version ROM
+  white_rom: "PokemonWhite.nds"
+  # Toggles whether Encounter Plando is enabled for players in generation.
+  # If disabled, yamls that use Encounter Plando do not raise OptionErrors, but display a warning.
+  enable_encounter_plando: true
+  # If enabled, files inside the rom that are changed as part of the patching process (except for base patches)
+  # will be dumped into a zip file next to the patched rom (for debug purposes).
+  dump_patched_files: false
+pokemon_crystal_settings:
+  rom_file: "roms/Pokemon - Crystal Version (UE) [C][!].gbc"
+pokemon_emerald_settings:
+  # File name of your English Pokemon Emerald ROM
+  rom_file: "roms/Pokemon - Emerald Version (USA, Europe).gba"
+pokemon_frlg_settings:
+  # File name of your English Pokémon FireRed ROM
+  firered_rom_file: "roms/Pokemon - FireRed Version (USA, Europe).gba"
+  # File name of your English Pokémon LeafGreen ROM
+  leafgreen_rom_file: "roms/Pokemon - LeafGreen Version (USA, Europe).gba"
+  ut_poptracker_path: ""
+pokemon_platinum_settings:
+  rom_file: "roms/pokeplatinum.nds"
+pokemon_rb_options:
+  # File names of the Pokemon Red and Blue roms
+  red_rom_file: "roms/Pokemon Red (UE) [S][!].gb"
+  blue_rom_file: "roms/Pokemon Blue (UE) [S][!].gb"
+portal2_options:
+  # The file path of the extras.txt file (used to generate the menu in game)
+  menu_file: "C:\\Program Files (x86)\\Steam\\steamapps\\sourcemods\\Portal2Archipelago\\scripts\\extras.txt"
+  # The port set in the portal 2 launch options e.g. 3000
+  default_portal2_port: 3000
+saving_princess_settings:
+  # Path to the game executable from which files are extracted
+  exe_path: "Saving Princess.exe"
+  # Path to the mod installation folder
+  install_folder: "Saving Princess"
+  # Set this to false to never autostart the game
+  launch_game: true
+  # The console command that will be used to launch the game
+  # The command will be executed with the installation folder as the current directory
+  launch_command: "wine \"Saving Princess v0_8.exe\""
+sc2_options:
+  # The starting width the client window in pixels
+  window_width: 1080
+  # The starting height the client window in pixels
+  window_height: 720
+  # Controls whether the game should start in windowed mode
+  game_windowed_mode: false
+  # If set to true, in-client scouting will show traps as distinct from filler
+  show_traps: false
+  # Overrides the disable forced-camera slot option. Possible values: `true`, `false`, `default`. Default uses slot value
+  disable_forced_camera: "default"
+  # Overrides the skip cutscenes slot option. Possible values: `true`, `false`, `default`. Default uses slot value
+  skip_cutscenes: "default"
+  # Overrides the slot's difficulty setting. Possible values: `casual`, `normal`, `hard`, `brutal`, `default`. Default uses slot value
+  game_difficulty: "default"
+  # Overrides the slot's gamespeed setting. Possible values: `slower`, `slow`, `normal`, `fast`, `faster`, `default`. Default uses slot value
+  game_speed: "default"
+  # Defines the colour of terran mission buttons in the launcher in rgb format (3 elements ranging from 0 to 1)
+  terran_button_color:
+    - 0.0838
+    - 0.2898
+    - 0.2346
+  # Defines the colour of zerg mission buttons in the launcher in rgb format (3 elements ranging from 0 to 1)
+  zerg_button_color:
+    - 0.345
+    - 0.22425
+    - 0.12765
+  # Defines the colour of protoss mission buttons in the launcher in rgb format (3 elements ranging from 0 to 1)
+  protoss_button_color:
+    - 0.18975
+    - 0.2415
+    - 0.345
+sf64_options:
+  # File path of the Star Fox 64 v1.1 ROM.
+  rom_path: ""
+  # Folder path of where to save the patched ROM.
+  patch_path: ""
+  # File path of the program to automatically run.
+  # Leave blank to disable.
+  program_path: ""
+  # Arguments to pass to the automatically run program.
+  # Leave blank to disable.
+  program_args: "--lua=\\\\wsl.localhost\\Ubuntu\\home\\ubufu\\ap-cm-1dd91ec\\Archipelago-main\\data\\lua\\connector_sf64_bizhawk.lua"
+  # Whether to enable the built in logic Tracker.
+  # If enabled, the 'Tracker' tab will show all unchecked locations in logic.
+  enable_tracker: true
+sm_options:
+  # File name of the v1.0 J rom
+  rom_file: "roms/Super Metroid (JU).sfc"
+sml2_options:
+  # File name of the Super Mario Land 2 1.0 ROM
+  rom_file: "roms/Super Mario Land 2 - 6 Golden Coins (USA, Europe).gb"
+sms_options:
+  iso_file: "roms/sms_us_2002.iso"
+smw_options:
+  # File name of the SMW US rom
+  rom_file: "roms/Super Mario World (USA).sfc"
+soe_options:
+  # File name of the SoE US ROM
+  rom_file: "roms/Secret of Evermore (USA).sfc"
+tcg_card_shop_simulator_options:
+  # This limits goals to a reasonable number and sets all excessive settings to local_fill or Excluded for better sync experiences.
+  limit_checks_for_syncs: false
+  # Card Sanity adds pure randomness to card checks. This option disables this sanity in your multiworlds
+  allow_card_sanity: true
+tloz_ooa_options:
+  # File path of the OOA US rom
+  rom_file: "Legend of Zelda, The - Oracle of Ages (USA).gbc"
+  # A factor applied to the infamous heart beep sound interval.
+  # Valid values are: "vanilla", "half", "quarter", "disabled"
+  heart_beep_interval: "vanilla"
+  # The name of the sprite file to use (from "data/sprites/oos_ooa/").
+  # Putting "link" as a value uses the default game sprite.
+  # Putting "random" as a value randomly picks a sprite from your sprites directory for each generated ROM.
+  character_sprite: "link"
+  # The color palette used for character sprite throughout the game.
+  # Valid values are: "green", "red", "blue", "orange", and "random"
+  character_palette: "green"
+  # Defines if you don't want to spam the buttons to swim with the mermaid suit.
+  qol_mermaid_suit: true
+  # When enabled, playing the flute and the harp will immobilize you during a very small amount of time compared to vanilla game.
+  qol_quick_flute: true
+  # Defines if you want to skip the small dance that tokkay does
+  skip_tokkey_dance: false
+  # Defines if you want to skip the joke you tell to the sad boi
+  skip_boi_joke: false
+tloz_oos_options:
+  # File name of the Oracle of Seasons US ROM
+  rom_file: "roms/Legend of Zelda, The - Oracle of Seasons (USA).gbc"
+  # File name of the Oracle of Ages US ROM (only needed for cross items)
+  ages_rom_file: "roms/Legend of Zelda, The - Oracle of Ages (USA).gbc"
+  rom_start: true
+  # The name of the sprite file to use (from "data/sprites/oos_ooa/").
+  # Putting "link" as a value uses the default game sprite.
+  # Putting "random" as a value randomly picks a sprite from your sprites directory for each generated ROM.
+  # If you want some weighted result, you can arrange the options like in your option yaml.
+  character_sprite: "link"
+  # The color palette used for character sprite throughout the game.
+  # Valid values are: "green", "red", "blue", "orange", and "random"
+  # If you want some weighted result, you can arrange the options like in your option yaml.
+  # If you want a color weight to only apply to a specific sprite, you can write color|sprite: weight.
+  # For example, red|link: 1 would add red in the possible palettes with a weight of 1 only if link is the selected sprite
+  character_palette: "green"
+  # If enabled, hidden digging spots in Subrosia are revealed as diggable tiles.
+  reveal_hidden_subrosia_digging_spots: true
+  # A factor applied to the infamous heart beep sound interval.
+  # Valid values are: "vanilla", "half", "quarter", "disabled"
+  heart_beep_interval: "vanilla"
+  # If true, no music will be played in the game while sound effects remain untouched
+  remove_music: false
+tloz_options:
+  # File name of the Zelda 1
+  rom_file: "roms/Legend of Zelda, The (U) (PRG0) [!].nes"
+  # Set this to false to never autostart a rom (such as after patching)
+  # true  for operating system default program
+  # Alternatively, a path to a program to open the .nes file with
+  rom_start: true
+  # Display message inside of Bizhawk
+  display_msgs: true
+ttyd_options:
+  # The location of the Dolphin you want to auto launch patched ROMs with
+  dolphin_path: "None"
+  # File name of the TTYD US iso
+  rom_file: "roms/Paper Mario - The Thousand-Year Door (USA).iso"
+  rom_start: true
+tunic_options:
+  # Disallows the TUNIC client from creating a local spoiler log.
+  disable_local_spoiler: false
+  # Limits the impact of Grass Randomizer on the multiworld by disallowing local_fill percentages below 95.
+  limit_grass_rando: true
+  # Path to the user's TUNIC Poptracker Pack.
+  ut_poptracker_path: ""
+vampire_survivors_options:
+  # Allow the use of unfair characters
+  allow_unfair_characters: false
+voltorb_flip_settings:
+  # Allows the **experimental** choice in the **Artificial Logic** option.
+  allow_experimental_logic: false
+wargroove_options:
+  # Locates the Wargroove root directory on your system.
+  # This is used by the Wargroove client, so it knows where to send communication files to.
+  root_directory: "C:/Program Files (x86)/Steam/steamapps/common/Wargroove"
+  # Locates the Wargroove save file directory on your system.
+  # This is used by the Wargroove client, so it knows where to send mod and save files to.
+  save_directory: "%APPDATA%"
+yoshisisland_options:
+  # File name of the Yoshi's Island 1.0 US rom
+  rom_file: "roms/Super Mario World 2 - Yoshi's Island (U).sfc"
+yugioh06_settings:
+  # File name of your Yu-Gi-Oh 2006 ROM
+  rom_file: "roms/YuGiOh06.gba"
+zillion_options:
+  # File name of the Zillion US rom
+  rom_file: "roms/Zillion (UE) [!].sms"
+  # Set this to false to never autostart a rom (such as after patching)
+  # True for operating system default program
+  # Alternatively, a path to a program to open the .sfc file with
+  # RetroArch doesn't make it easy to launch a game from the command line.
+  # You have to know the path to the emulator core library on the user's computer.
+  rom_start: "retroarch"

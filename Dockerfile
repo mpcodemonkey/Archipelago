@@ -97,4 +97,10 @@ HEALTHCHECK --interval=30s --timeout=10s --start-period=40s --retries=3 \
 # Ensure no runtime ModuleUpdate.
 ENV SKIP_REQUIREMENTS_UPDATE=true
 
+# Port range for Archipelago rooms. I choose only ports 49152-49162
+ARG MAX_PORT=49162
+
+RUN sed -i "s/65535/${MAX_PORT}/" WebHostLib/customserver.py
+EXPOSE 80
+
 ENTRYPOINT [ "python", "WebHost.py" ]

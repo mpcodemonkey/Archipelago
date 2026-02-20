@@ -1,0 +1,38 @@
+from typing import Dict
+
+from worlds.legend_of_dragoon.loc.location_data import LegendOfDragoonLocationData
+
+goods_location_table: Dict[str, LegendOfDragoonLocationData] = {
+    "Red Dragoon Spirit":    LegendOfDragoonLocationData("Hoax", 108_80001, "Good"),
+    "Blue Dragoon Spirit":   LegendOfDragoonLocationData("Underwater Cavern", 108_80002, "Good"),
+    "Jade Dragoon Spirit":   LegendOfDragoonLocationData("Dragon's Nest", 108_80003, "Good"),
+    "Gold Dragoon Spirit":   LegendOfDragoonLocationData("Lohan", 108_80004, "Good"),
+    "Violet Dragoon Spirit": LegendOfDragoonLocationData("Black Castle", 108_80005, "Good"),
+    "Silver Dragoon Spirit": LegendOfDragoonLocationData("Shrine of Shirley", 108_80006, "Good"),
+    "Dark Dragoon Spirit":   LegendOfDragoonLocationData("Hoax", 108_80007, "Good"),
+    "Divine Dragoon Spirit": LegendOfDragoonLocationData("Moon That Never Sets", 108_80008, "Good"),
+    "War Bulletin":          LegendOfDragoonLocationData("Menu", 108_80009, "Good"),
+    "Fathers Stone":         LegendOfDragoonLocationData("Menu", 108_80010, "Good"),
+    "Prison Key":            LegendOfDragoonLocationData("Hellena 01", 108_80011, "Good"),
+    "Axe from the Shack":    LegendOfDragoonLocationData("Prairie", 108_80012, "Good"),
+    "Good Spirits":          LegendOfDragoonLocationData("Bale", 108_80013, "Good"),
+    "Water Bottle":          LegendOfDragoonLocationData("Lohan", 108_80015, "Good"),
+    "Life Water":            LegendOfDragoonLocationData("Dragon's Nest", 108_80016, "Good"),
+    "Magic Oil":             LegendOfDragoonLocationData("Black Castle", 108_80017, "Good"),
+    "Yellow Stone":          LegendOfDragoonLocationData("Black Castle", 108_80018, "Good"),
+    "Blue Stone":            LegendOfDragoonLocationData("Black Castle", 108_80019, "Good"),
+    "Red Stone":             LegendOfDragoonLocationData("Black Castle", 108_80020, "Good"),
+    "Letter from Lynn":      LegendOfDragoonLocationData("Donau", 108_80021, "Good"),
+    "Pass for Valley":       LegendOfDragoonLocationData("Fletz", 108_80022, "Good"),
+    "Kates Bouquet":         LegendOfDragoonLocationData("Donau", 108_80023, "Good"),
+    "Key to Ship":           LegendOfDragoonLocationData("Phantom Ship", 108_80024, "Good"),
+    "Boat License":          LegendOfDragoonLocationData("Furni", 108_80025, "Good"),
+    "Dragon Blocker":        LegendOfDragoonLocationData("Forbidden Land", 108_80026, "Good"),
+    "Moon Gem":              LegendOfDragoonLocationData("Tower of Flanvel", 108_80027, "Good"),
+    "Moon Dagger":           LegendOfDragoonLocationData("Tower of Flanvel", 108_80028, "Good"),
+    "Moon Mirror":           LegendOfDragoonLocationData("Tower of Flanvel", 108_80029, "Good"),
+    "Law Maker":             LegendOfDragoonLocationData("Zenebatos", 108_80032, "Good"),
+    "Law Output":            LegendOfDragoonLocationData("Zenebatos", 108_80033, "Good"),
+    "Vanishing Stone":       LegendOfDragoonLocationData("Rouge", 108_80036, "Good"),
+    "Lavitzs Picture":       LegendOfDragoonLocationData("Bale", 108_80037, "Good"),
+}
