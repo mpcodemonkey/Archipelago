@@ -40,7 +40,7 @@ class DarkCloudWeb(WebWorld):
 
 class DarkCloudWorld(World):
     """
-    Dark Cloud 1
+    It is said superblal is still stuck in this game to this day.
     """
     game = dc1_name
     required_client_version = (0, 6, 1)

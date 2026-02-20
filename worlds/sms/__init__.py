@@ -18,9 +18,9 @@ from .regions import create_regions
 from .iso_helper.sms_rom import SMSPlayerContainer
 
 
-def run_client(*args):
+def run_client():
     from .SMSClient import main
-    launch_subprocess(main, name="SMS Client", args=args)
+    launch_subprocess(main)
 
 components.append(
     Component("Super Mario Sunshine Client", func=run_client, component_type=Type.CLIENT,
@@ -47,8 +47,7 @@ class SmsWebWorld(WebWorld):
 
 class SmsWorld(World):
     """
-    The second Super Mario game to feature 3D gameplay. Coupled with F.L.U.D.D. (a talking water tank that can be used
-    as a jetpack), Mario must clean the graffiti off of Delfino Isle and return light to the sky.
+    Tohrik made a mess and now he has to clean it up. Or maybe he didn't. Doesn't matter, CLEAN IT.
     """
     game = "Super Mario Sunshine"
     web = SmsWebWorld()
@@ -134,14 +133,12 @@ class SmsWorld(World):
         }
 
     def generate_output(self, output_directory: str):
-        from .SMSClient import CLIENT_VERSION, AP_WORLD_VERSION_NAME
-
         output_data = {
             "Seed": self.multiworld.seed,
             "Slot": self.player,
             "Name": self.player_name,
             "Options": {},
-            AP_WORLD_VERSION_NAME: CLIENT_VERSION
+            "0.6.5": "0.5.1"
         }
 
         for field in fields(self.options):

@@ -21,9 +21,7 @@ class ShortHikeWeb(WebWorld):
 
 class ShortHikeWorld(World):
     """
-    A Short Hike is a relaxing adventure set on the islands of Hawk Peak. Fly and climb using Claire's wings and Golden Feathers
-    to make your way up to the summit. Along the way you'll meet other hikers, discover hidden treasures,
-    and take in the beautiful world around you.
+    Lithia beat this in less than an hour. Can you?
     """
 
     game = "A Short Hike"

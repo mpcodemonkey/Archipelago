@@ -165,14 +165,22 @@ cv64_options:
   rom_file: "roms/Castlevania (USA).z64"
 cv_dos_options:
   # File name of the Castlevania: Dawn of Sorrow ROM file.
-  rom_file: "CASTLEVANIA1_ACVEA4_00.nds"
+  rom_file: "roms/CASTLEVANIA1_ACVEA4_00.nds"
 cvcotm_options:
   # File name of the Castlevania CotM US rom
   rom_file: "roms/Castlevania - Circle of the Moon (USA).gba"
 cvhodis_options:
   # File name of the Castlevania HoD US rom
-  rom_file: "Castlevania - Harmony of Dissonance (USA).gba"
+  rom_file: "roms/Castlevania - Harmony of Dissonance (USA).gba"
+cvlod_options:
+  # File name of the CVLoD US rom
+  rom_file: "Castlevania - Legacy of Darkness (USA).z64"
+# Settings for the DK64 randomizer.
 dk64_options:
+  # Choose the release version of the DK64 randomizer to use.
+  # By setting it to master (Default) you will always pull the latest stable version.
+  # By setting it to dev you will pull the latest development version.
+  # If you want a specific version, you can set it to a AP version number eg: v1.0.45
   release_branch: "master"
 dkc2_options:
   # File name of the Donkey Kong Country 2 US v1.1 ROM
@@ -187,7 +195,7 @@ dkc3_options:
   rom_file: "roms/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr).sfc"
 earthbound_options:
   # File name of the EarthBound US ROM
-  rom_file: "EarthBound.sfc"
+  rom_file: "roms/EarthBound.sfc"
 factorio_options:
   executable: "factorio/bin/x64/factorio"
   # by default, no settings are loaded if this file does not exist. If this file does exist, then it will be used.
@@ -204,6 +212,24 @@ fe8_settings:
   rom_file: "roms/Fire Emblem The Sacred Stones (U).gba"
 ffr_options:
   display_msgs: true
+gauntletlegends_options:
+  # The location of your Retroarch folder
+  retroarch_path: "None"
+  # File name of the GL US rom
+  rom_file: "roms/Gauntlet Legends (U) [!].z64"
+  rom_start: true
+glover_options:
+  # File path of the Glover (USA) ROM.
+  rom_path: ""
+  # Folder path of where to save the patched ROM.
+  patch_path: ""
+  # File path of the program to automatically run.
+  # Leave blank to disable.
+  program_path: ""
+  # Arguments to pass to the automatically run program.
+  # Leave blank to disable.
+  # Set to "--lua=" to automatically use the correct path for the lua connector.
+  program_args: "--lua="
 gstla_options:
   # File name of the GS TLA UE Rom
   rom_file: "roms/Golden Sun - The Lost Age (UE) [!].gba"
@@ -224,6 +250,9 @@ jakanddaxter_options:
   # Enforce friendly player options in both single and multiplayer seeds. Disabling this allows for
   # more disruptive and challenging options, but may impact seed generation. Use at your own risk!
   enforce_friendly_options: true
+k64_options:
+  # File name of the K64 EN rom
+  rom_file: "roms/Kirby 64 - The Crystal Shards (USA).z64"
 kdl3_options:
   # File name of the KDL3 JP or EN rom
   rom_file: "roms/Kirby's Dream Land 3.sfc"
@@ -251,6 +280,16 @@ lufia2ac_options:
   rom_file: "roms/Lufia II - Rise of the Sinistrals (USA).sfc"
 messenger_settings:
   game_path: "TheMessenger.exe"
+metroidzeromission_options:
+  # File name of the Metroid: Zero Mission ROM.
+  rom_file: "roms/Metroid - Zero Mission (USA).gba"
+  # Set this to false to never autostart a rom (such as after patching),
+  # Set it to true to have the operating system default program open the rom
+  # Alternatively, set it to a path to a program to open the .gba file with
+  rom_start: true
+mk64_options:
+  # File name of the MK64 ROM
+  rom_file: "roms/Mario Kart 64 (U) [!].z64"
 metroidfusion_options:
   # File name of the Metroid Fusion ROM
   rom_file: "roms/Metroid Fusion (USA).gba"
@@ -287,6 +326,16 @@ paper_mario_settings:
   # true  for operating system default program
   # Alternatively, a path to a program to open the .z64 file with
   rom_start: true
+papermariottyd_options:
+  # The location of the Dolphin you want to auto launch patched ROMs with
+  dolphin_path: "None"
+  # File name of the TTYD US iso
+  rom_file: "roms/Paper Mario - The Thousand-Year Door (USA).iso"
+  rom_start: true
+pmd_eos_options:
+  # File name of the EoS EU rom
+  rom_file: "roms/POKEDUN_SORA_C2SP01_00.nds"
+  rom_start: true
 pokemon_bw_settings:
   # File name of your Pokémon Black Version ROM
   black_rom: "PokemonBlack.nds"
@@ -315,6 +364,9 @@ pokemon_rb_options:
   # File names of the Pokemon Red and Blue roms
   red_rom_file: "roms/Pokemon Red (UE) [S][!].gb"
   blue_rom_file: "roms/Pokemon Blue (UE) [S][!].gb"
+pokepinball_settings:
+  # File name of the Pokemon Pinball Color US rom
+  rom_file: "roms/PokemonPinball.gbc"
 portal2_options:
   # The file path of the extras.txt file (used to generate the menu in game)
   menu_file: "C:\\Program Files (x86)\\Steam\\steamapps\\sourcemods\\Portal2Archipelago\\scripts\\extras.txt"
@@ -390,6 +442,31 @@ smw_options:
 soe_options:
   # File name of the SoE US ROM
   rom_file: "roms/Secret of Evermore (USA).sfc"
+spyro2_options:
+  # Permits full gemsanity options for multiplayer games.
+  # Full gemsanity adds 2546 locations and an equal number of progression items.
+  # These items may be local-only or spread across the multiworld.
+  allow_full_gemsanity: false
+stadium_options:
+  # File name of the Pokemon Stadium (US, 1.0) ROM
+  rom_file: "roms/Pokemon Stadium (US, 1.0).z64"
+stardew_valley_options:
+  # Allow players to pick the goal 'Allsanity'. If disallowed, generation will fail.
+  allow_allsanity: true
+  # Allow players to pick the goal 'Perfection'. If disallowed, generation will fail.
+  allow_perfection: true
+  # Allow players to pick the option 'Bundle Price: Maximum'. If disallowed, it will be replaced with 'Very Expensive'
+  allow_max_bundles: true
+  # Allow players to pick the option 'Entrance Randomization: Chaos'. If disallowed, it will be replaced with 'Buildings'
+  allow_chaos_er: false
+  # Allow players to pick the option 'Shipsanity: Everything'. If disallowed, it will be replaced with 'Full Shipment With Fish'
+  allow_shipsanity_everything: true
+  # Allow players to pick the option 'Hatsanity: Near Perfection OR Post Perfection'. If disallowed, it will be replaced with 'Difficult'
+  allow_hatsanity_perfection: true
+  # Allow players to toggle on Custom logic flags. If disallowed, it will be disabled
+  allow_custom_logic: true
+  # Allow players to enable Jojapocalypse. If disallowed, it will be disabled
+  allow_jojapocalypse: false
 tcg_card_shop_simulator_options:
   # This limits goals to a reasonable number and sets all excessive settings to local_fill or Excluded for better sync experiences.
   limit_checks_for_syncs: false
@@ -397,7 +474,7 @@ tcg_card_shop_simulator_options:
   allow_card_sanity: true
 tloz_ooa_options:
   # File path of the OOA US rom
-  rom_file: "Legend of Zelda, The - Oracle of Ages (USA).gbc"
+  rom_file: "roms/Legend of Zelda, The - Oracle of Ages (USA).gbc"
   # A factor applied to the infamous heart beep sound interval.
   # Valid values are: "vanilla", "half", "quarter", "disabled"
   heart_beep_interval: "vanilla"
@@ -449,6 +526,23 @@ tloz_options:
   rom_start: true
   # Display message inside of Bizhawk
   display_msgs: true
+tloz_ph_options:
+  # For use with universal tracker.
+  # Toggles if universal tracker can use unlocked shortcuts and map warps to find shorter paths for /get_logical_path.
+  ut_get_logical_path_shortcuts: true
+tloz_st_options:
+  # Train speed for each of the 4 gears, from lowest (reverse) to highest.
+  # defaults are -143, 0, 115, 193
+  train_speed:
+    - -143
+    - 0
+    - 115
+    - 193
+  # The train will instantly switch to the new speed when changing gears, no acceleration required.
+  # Does not apply to your stop gear.
+  train_snap_speed: true
+  # Allows entering stations immediately on the stop gear, no matter your speed.
+  train_quick_station: true
 ttyd_options:
   # The location of the Dolphin you want to auto launch patched ROMs with
   dolphin_path: "None"

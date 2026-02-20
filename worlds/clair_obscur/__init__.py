@@ -37,6 +37,11 @@ class ClairObscurSettings(settings.Group):
     """
 
 class ClairObscurWorld(World):
+    """
+    Clair Obscur is a game Karazaumi can't play because
+    too many of us haven't finished the game and he's
+    mad at us.
+    """
     game = "Clair Obscur Expedition 33"
     web = WebClairObscur()
     topology_present = True

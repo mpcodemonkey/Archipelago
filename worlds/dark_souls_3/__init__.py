@@ -36,9 +36,9 @@ class DarkSouls3Web(WebWorld):
 
 class DarkSouls3World(World):
     """
-    Dark souls III is an Action role-playing game and is part of the Souls series developed by FromSoftware.
-    Played from a third-person perspective, players have access to various weapons, armour, magic, and consumables that
-    they can use to fight their enemies.
+    Dark souls III is a game where Hansy gets cucked by the
+    small lothric banner and STILL manages to finish
+    first!
     """
 
     game = "Dark Souls III"

@@ -31,10 +31,6 @@ class DS2Item(Item):
         )
 
 class DarkSouls2Web(WebWorld):
-    """
-    Dark souls II is a game where you cheese getting 1 million soul memory then walk all over Nashandra
-    ...I think.
-    """
     theme = "stone"
     setup_en = Tutorial(
         "Multiworld Setup Guide",
@@ -48,7 +44,10 @@ class DarkSouls2Web(WebWorld):
     tutorials = [setup_en]
 
 class DS2World(World):
-
+    """
+    Dark souls II is a game where you cheese getting 1 million soul memory then walk all over Nashandra
+    ...I think.
+    """
     game = "Dark Souls II"
 
     options_dataclass = DS2Options

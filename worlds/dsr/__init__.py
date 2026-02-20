@@ -40,7 +40,8 @@ class DSRSettings(Group):
 
 class DSRWorld(World):
     """
-    Dark Souls is a game where you die.
+    Dark Souls is a game ubufugu got tired of playing for every
+    archipelago. You either get good or become a strength Stan.
     """
 
     game: str = "Dark Souls Remastered"

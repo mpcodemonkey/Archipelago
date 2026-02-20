@@ -8,17 +8,14 @@ import traceback
 from typing import Optional
 from dataclasses import dataclass
 
-import ModuleUpdate
-import Utils
-from NetUtils import ClientStatus
 from CommonClient import gui_enabled, logger, get_base_parser, ClientCommandProcessor, \
     server_loop
 from .options import SmsOptions
 from .bit_helper import change_endian, bit_flagger, extract_bits
 import dolphin_memory_engine as dme
 from . import addresses
-
-ModuleUpdate.update()
+import Utils
+from NetUtils import ClientStatus
 
 TRACKER_LOADED = False
 try:
